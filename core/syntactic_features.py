@@ -4,7 +4,8 @@ import math
 
 import logging
 
-logging.basicConfig(filename='tmp/test.log', filemode='w', level=logging.DEBUG)
+logging.basicConfig(filename='/media/marina/hdd/diploma/whose_cpp_code/tmp/test.log',
+                    filemode='w', level=logging.DEBUG)
 
 
 def get_avg_funcname_len(namespace):
@@ -13,8 +14,10 @@ def get_avg_funcname_len(namespace):
     member = namespace.member_functions(allow_empty=True)
     number_of_functions = len(free) + len(member)
     if number_of_functions != 0:
-        avg_funcname_len = (sum([len(func.name) for func in free]) + sum([len(func.name) for func in member])) / number_of_functions
+        avg_funcname_len = (sum([len(func.name) for func in free]) +
+                            sum([len(func.name) for func in member])) / number_of_functions
     return avg_funcname_len
+
 
 def get_avg_varname_len(namespace):
     avg_varname_len = 0
@@ -24,12 +27,14 @@ def get_avg_varname_len(namespace):
         avg_varname_len = sum(len(var.name) for var in vars) / number_of_vars
     return avg_varname_len
 
+
 def check_specialcharnames(namespace):
     has_specialcharnames = 0
     decls = namespace.declarations
     if len([decl for decl in decls if re.search('[^A-Za-z0-9_]+.*', decl.name)]) != 0:
         has_specialcharnames = 1
     return has_specialcharnames
+
 
 def check_uppercasenames(namespace):
     vars = namespace.variables(allow_empty=True)
@@ -38,6 +43,7 @@ def check_uppercasenames(namespace):
     if False in [var.name.islower() for var in vars] or [func.name.islower() for func in free] or [func.name.islower() for func in members]:
         return 1
     return 0
+
 
 def get_syntactic_features(filename):
     try:
@@ -57,14 +63,17 @@ def get_syntactic_features(filename):
             lines = in_file.readlines()
             file_length = sum([len(line) for line in lines])
 
-        number_of_functions = len(namespace.free_functions(allow_empty=True)) + len(namespace.member_functions(allow_empty=True))
-        ln_number_of_functions = math.log(number_of_functions/file_length) if number_of_functions else 0
+        number_of_functions = len(namespace.free_functions(allow_empty=True)) + \
+            len(namespace.member_functions(allow_empty=True))
+        ln_number_of_functions = math.log(
+            number_of_functions / file_length) if number_of_functions else 0
         avg_funcname_len = get_avg_funcname_len(namespace)
         avg_varname_len = get_avg_varname_len(namespace)
         has_specialcharnames = check_specialcharnames(namespace)
         has_uppercasenames = check_uppercasenames(namespace)
 
-        syntactic_features = [ln_number_of_functions, avg_funcname_len, avg_varname_len, has_specialcharnames, has_uppercasenames]
+        syntactic_features = [ln_number_of_functions, avg_funcname_len,
+                              avg_varname_len, has_specialcharnames, has_uppercasenames]
         logging.info('OK')
         return syntactic_features
     except:
