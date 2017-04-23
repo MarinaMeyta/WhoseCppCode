@@ -1,0 +1,29 @@
+from sklearn.feature_extraction.text import TfidfVectorizer
+import numpy as np
+import re
+
+def remove_short_words(words):
+    return [i for i in words if len(i) >= 2]
+
+def get_cppkeywords(filename):
+    remove_comments(filename)
+    cpp_words = remove_short_words(re.split('[^a-z_]+', open('tmp/output.cpp').read()))
+    cpp_words = ' '.join(cpp_words)
+
+    return cpp_words
+
+def count_cppkeywords_tf(filenames):
+    keywords = re.split('[^a-z0-9_]+', open('cpp_keywords.txt').read())
+    vectorizer = TfidfVectorizer(vocabulary=keywords, use_idf=False)
+    input_array = np.array([get_cppkeywords(filename) for filename in filenames])
+    cpp_keywords_tf = vectorizer.fit_transform(input_array).toarray()
+    return cpp_keywords_tf
+
+def remove_comments(filename):
+    file = open(filename).read()
+    result = re.split('//.*|/\*[\s\S]*?\*/|("(\\.|[^"])*")', file)
+    tmp_file = open('tmp/output.cpp', 'w+')
+    result = filter(None, result)
+    tmp_file.writelines(result)
+    tmp_file.close()
+
