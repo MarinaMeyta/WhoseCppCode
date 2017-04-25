@@ -1,4 +1,4 @@
-from core import whose_cpp_code
+import whose_cpp_code
 
 import time
 
