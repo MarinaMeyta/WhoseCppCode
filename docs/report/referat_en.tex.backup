@@ -1,0 +1,9 @@
+\newpage
+\ESKDthisStyle{empty}
+\paragraph{\hfill РЕФЕРАТ \hfill}
+Practise report contains \ESKDtotal{page} pages, \ESKDtotal{figure} pictures, \ESKDtotal{table} tables,
+\ESKDtotal{bibitem} sources, \ESKDtotal{appendix} appendix.
+
+СТИЛОМЕТРИЯ, ИСХОДНЫЙ КОД, ДЕАНОНИМИЗАЦИЯ АВТОРА, C++, КЛАССИФИКАЦИЯ, PYTHON, SKLEARN, RANDOM FOREST CLASSIFIER, LATEX.
+
+Цель работы --- разработка алгоритма для определения авторства программного обеспечения, основанного на стилометрическом анализе исходного кода программ на языках высокого уровня.

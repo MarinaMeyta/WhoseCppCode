@@ -1,0 +1,95 @@
+\input{config}
+
+\begin{document}
+ \input{title}
+ \input{referat_ru}
+ \input{referat_en}
+ 
+ % - содержание
+ \newpage
+% \ESKDstyle{plain}
+ \tableofcontents
+
+% \newpage
+% \ESKDstyle{plain}
+%  \addcontentsline{toc}{section}{Техническое задание}
+% \input{tz/tz_main}
+
+
+\titleformat{\section}{\centering\normalfont\normalsize}{\thesection}{1.0em}{}
+\titleformat{\subsection}{\centering\normalfont\normalsize}{\thesubsection}{1.0em}{}
+\titleformat{\subsubsection}{\centering\normalfont\normalsize}{\thesubsection}{1.0em}{}
+
+
+\newpage
+%\ESKDstyle{plain}
+\setcounter{section}{0}
+\section*{Ведение}
+\addcontentsline{toc}{section}{Введение}
+\input{intro}
+
+\section{Кафедра КИБЭВС}
+\input{kibevs}
+
+
+\newpage 
+\section{Обзор информационных источников }
+\input{overview}
+
+\newpage
+\section{Моделирование}
+\input{model}
+% 
+% \newpage 
+% \section{Выбор набора признаков, характеризующих автора программы}\label{features}
+% \input{features} 
+%  
+% \newpage  
+% \section{Классификатор Random Forest}\label{random_forest}
+% \input{random_forest}
+% 
+% \newpage  
+% \section{Инструменты разработки}
+% \input{tools}
+% 
+% % \newpage  
+% \section{Выбор числа деревьев и признаков}\label{trees_feat}
+% \input{trees}
+% 
+% % \newpage 
+% \section{Статистическая значимость признаков}
+% \input{feature_importances}
+% 
+% \newpage 
+% \section{Тестовые данные}\label{test_data}
+% \input{test_data}
+% 
+% % \newpage 
+% \section{Критерии оценки эффективности классификации}\label{eval}
+% \input{evaluation}
+% 
+% \newpage 
+% \section{Результаты классификации}
+% \input{results}
+ 
+ 
+ \newpage
+\section*{Заключение}
+\addcontentsline{toc}{section}{Заключение}
+\input{conclusions}
+ 
+ 
+ \newpage
+ \renewcommand{\refname}{Список использованных источников}
+ \addcontentsline{toc}{section}{Список использованных источников}
+ \bibliography{lit}
+
+ \ESKDappendix{Обязательное}{\normalfont Компакт-диск}
+ Компакт-диск содержит: 
+ \begin{itemize}
+ \item электронную версию пояснительной записки в форматах *.tex и *.pdf;
+ \item актуальную версию программы, реализованную на языке программирования Python, для определения авторсва исходного кода программ на языке C/C++;
+ \item тестовые данные для работы с программой.
+ \end{itemize}
+ 
+\end{document}

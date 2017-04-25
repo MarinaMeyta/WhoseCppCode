@@ -1,0 +1,10 @@
+\select@language {russian}
+\contentsline {paragraph}{\hfill \IeC {\CYRR }\IeC {\CYRE }\IeC {\CYRF }\IeC {\CYRE }\IeC {\CYRR }\IeC {\CYRA }\IeC {\CYRT } \hfill }{2}
+\contentsline {paragraph}{\hfill \IeC {\CYRR }\IeC {\CYRE }\IeC {\CYRF }\IeC {\CYRE }\IeC {\CYRR }\IeC {\CYRA }\IeC {\CYRT } \hfill }{4}
+\contentsline {section}{\IeC {\CYRV }\IeC {\cyrv }\IeC {\cyre }\IeC {\cyrd }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyre }}{6}
+\contentsline {section}{\numberline {1}\IeC {\CYRK }\IeC {\cyra }\IeC {\cyrf }\IeC {\cyre }\IeC {\cyrd }\IeC {\cyrr }\IeC {\cyra } \IeC {\CYRK }\IeC {\CYRI }\IeC {\CYRB }\IeC {\CYREREV }\IeC {\CYRV }\IeC {\CYRS }}{6}
+\contentsline {section}{\numberline {2}\IeC {\CYRO }\IeC {\cyrb }\IeC {\cyrz }\IeC {\cyro }\IeC {\cyrr } \IeC {\cyri }\IeC {\cyrn }\IeC {\cyrf }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyrm }\IeC {\cyra }\IeC {\cyrc }\IeC {\cyri }\IeC {\cyro }\IeC {\cyrn }\IeC {\cyrn }\IeC {\cyrery }\IeC {\cyrh } \IeC {\cyri }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyro }\IeC {\cyrch }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyrk }\IeC {\cyro }\IeC {\cyrv } }{8}
+\contentsline {section}{\numberline {3}\IeC {\CYRM }\IeC {\cyro }\IeC {\cyrd }\IeC {\cyre }\IeC {\cyrl }\IeC {\cyri }\IeC {\cyrr }\IeC {\cyro }\IeC {\cyrv }\IeC {\cyra }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyre }}{11}
+\contentsline {section}{\IeC {\CYRZ }\IeC {\cyra }\IeC {\cyrk }\IeC {\cyrl }\IeC {\cyryu }\IeC {\cyrch }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyre }}{12}
+\contentsline {section}{\IeC {\CYRS }\IeC {\cyrp }\IeC {\cyri }\IeC {\cyrs }\IeC {\cyro }\IeC {\cyrk } \IeC {\cyri }\IeC {\cyrs }\IeC {\cyrp }\IeC {\cyro }\IeC {\cyrl }\IeC {\cyrsftsn }\IeC {\cyrz }\IeC {\cyro }\IeC {\cyrv }\IeC {\cyra }\IeC {\cyrn }\IeC {\cyrn }\IeC {\cyrery }\IeC {\cyrh } \IeC {\cyri }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyro }\IeC {\cyrch }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyrk }\IeC {\cyro }\IeC {\cyrv }}{14}
+\contentsline {section}{{\cyrillictext \CYRP \cyrr \cyri \cyrl \cyro \cyrzh \cyre \cyrn \cyri \cyre }\ \CYRA \ \normalfont \IeC {\CYRK }\IeC {\cyro }\IeC {\cyrm }\IeC {\cyrp }\IeC {\cyra }\IeC {\cyrk }\IeC {\cyrt }-\IeC {\cyrd }\IeC {\cyri }\IeC {\cyrs }\IeC {\cyrk }}{14}
