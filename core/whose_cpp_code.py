@@ -5,7 +5,7 @@ from collections import OrderedDict
 import matplotlib.pyplot as plt
 import lexical_features
 import syntactic_features
-import cpp_keywords_TF
+import cpp_keywords
 from sklearn.model_selection import train_test_split
 import time
 from sklearn.feature_selection import SelectFromModel
@@ -109,7 +109,7 @@ def get_sample_matrix(filenames):
     features = np.array([lexical_features.get_lexical_features(filename) +
                          syntactic_features.get_syntactic_features(filename) for filename in filenames])
     # features = np.array([lexical_features.get_lexical_features(filename) for filename in filenames])
-    cpp_keywords = cpp_keywords_TF.count_cppkeywords_tf(filenames)
+    cpp_keywords = cpp_keywords.count_cppkeywords_tf(filenames)
     matrix = np.hstack((features, cpp_keywords))
     return matrix
 
