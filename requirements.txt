@@ -6,3 +6,4 @@ pygccxml
 requests
 jupyter
 jupyter_nbextensions_configurator
+ipywidgets

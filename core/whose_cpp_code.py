@@ -2,10 +2,10 @@ import os.path
 import numpy as np
 from sklearn.ensemble import RandomForestClassifier
 from collections import OrderedDict
-import matplotlib.pyplot as plt
-import lexical_features
-import syntactic_features
-import cpp_keywords
+# import matplotlib.pyplot as plt
+from core import lexical_features
+from core import syntactic_features
+from core import cpp_keywords
 from sklearn.model_selection import train_test_split
 import time
 from sklearn.feature_selection import SelectFromModel
@@ -19,7 +19,6 @@ from sklearn.ensemble import GradientBoostingClassifier
 def add_test_namespace(filenames):
     for file in filenames:
         # file = "tmp/example.cpp"
-        print('filename: ', file)
         with open(file, "r", encoding='utf-8', errors='ignore') as in_file:
             buf = in_file.readlines()
             already_inserted = False
@@ -57,60 +56,60 @@ def get_filenames(path_to_data):
     return filenames_list, authors
 
 
-def get_oob_rate(X, y):
-    # calculate this on whole original set
-    ensemble_clfs = [
-        ("RandomForestClassifier, max_features='sqrt'",
-         RandomForestClassifier(warm_start=True, oob_score=True,
-                                max_features="sqrt")),
-        ("RandomForestClassifier, max_features='log2'",
-         RandomForestClassifier(warm_start=True, max_features='log2',
-                                oob_score=True)),
-        ("RandomForestClassifier, max_features=None",
-         RandomForestClassifier(warm_start=True, max_features=None,
-                                oob_score=True))
-    ]
-
-    # Map a classifier name to a list of (<n_estimators>, <error rate>) pairs.
-    error_rate = OrderedDict((label, []) for label, _ in ensemble_clfs)
-    errors = OrderedDict((label, []) for label, _ in ensemble_clfs)
-
-    # Range of `n_estimators` values to explore.
-    min_estimators = 10
-    max_estimators = 100
-
-    for label, clf in ensemble_clfs:
-        for i in range(min_estimators, max_estimators + 1):
-            clf.set_params(n_estimators=i)
-            clf.fit(X, y)
-
-            # Record the OOB error for each `n_estimators=i` setting.
-            oob_error = 1 - clf.oob_score_
-            error_rate[label].append((i, oob_error))
-            errors[label].append(oob_error)
-
-    # Generate the "OOB error rate" vs. "n_estimators" plot.
-    for label, clf_err in error_rate.items():
-        xs, ys = zip(*clf_err)
-        plt.plot(xs, ys, label=label)
-        print(clf_err)
-
-    for label, clf_err in errors.items():
-        print(min(clf_err))
-
-    plt.xlim(min_estimators, max_estimators)
-    plt.xlabel("n_estimators")
-    plt.ylabel("OOB error rate")
-    plt.legend(loc="upper right")
-    plt.show()
+# def get_oob_rate(X, y):
+#     # calculate this on whole original set
+#     ensemble_clfs = [
+#         ("RandomForestClassifier, max_features='sqrt'",
+#          RandomForestClassifier(warm_start=True, oob_score=True,
+#                                 max_features="sqrt")),
+#         ("RandomForestClassifier, max_features='log2'",
+#          RandomForestClassifier(warm_start=True, max_features='log2',
+#                                 oob_score=True)),
+#         ("RandomForestClassifier, max_features=None",
+#          RandomForestClassifier(warm_start=True, max_features=None,
+#                                 oob_score=True))
+#     ]
+#
+#     # Map a classifier name to a list of (<n_estimators>, <error rate>) pairs.
+#     error_rate = OrderedDict((label, []) for label, _ in ensemble_clfs)
+#     errors = OrderedDict((label, []) for label, _ in ensemble_clfs)
+#
+#     # Range of `n_estimators` values to explore.
+#     min_estimators = 10
+#     max_estimators = 100
+#
+#     for label, clf in ensemble_clfs:
+#         for i in range(min_estimators, max_estimators + 1):
+#             clf.set_params(n_estimators=i)
+#             clf.fit(X, y)
+#
+#             # Record the OOB error for each `n_estimators=i` setting.
+#             oob_error = 1 - clf.oob_score_
+#             error_rate[label].append((i, oob_error))
+#             errors[label].append(oob_error)
+#
+#     # Generate the "OOB error rate" vs. "n_estimators" plot.
+#     for label, clf_err in error_rate.items():
+#         xs, ys = zip(*clf_err)
+#         plt.plot(xs, ys, label=label)
+#         print(clf_err)
+#
+#     for label, clf_err in errors.items():
+#         print(min(clf_err))
+#
+#     plt.xlim(min_estimators, max_estimators)
+#     plt.xlabel("n_estimators")
+#     plt.ylabel("OOB error rate")
+#     plt.legend(loc="upper right")
+#     plt.show()
 
 
 def get_sample_matrix(filenames):
     features = np.array([lexical_features.get_lexical_features(filename) +
                          syntactic_features.get_syntactic_features(filename) for filename in filenames])
     # features = np.array([lexical_features.get_lexical_features(filename) for filename in filenames])
-    cpp_keywords = cpp_keywords.count_cppkeywords_tf(filenames)
-    matrix = np.hstack((features, cpp_keywords))
+    keywords = cpp_keywords.count_cppkeywords_tf(filenames)
+    matrix = np.hstack((features, keywords))
     return matrix
 
 
