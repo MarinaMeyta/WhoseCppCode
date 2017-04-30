@@ -4,7 +4,7 @@ import math
 
 import logging
 
-logging.basicConfig(filename='/media/marina/hdd/diploma/whose_cpp_code/tmp/test.log',
+logging.basicConfig(filename='./tmp/test.log',
                     filemode='w', level=logging.DEBUG)
 
 
@@ -74,7 +74,7 @@ def get_syntactic_features(filename):
 
         syntactic_features = [ln_number_of_functions, avg_funcname_len,
                               avg_varname_len, has_specialcharnames, has_uppercasenames]
-        logging.info('OK')
+        # logging.info('OK')
         return syntactic_features
     except:
         logging.debug('Compilation test failed.')

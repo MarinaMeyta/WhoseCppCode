@@ -16,36 +16,6 @@ from itertools import compress
 from sklearn.ensemble import GradientBoostingClassifier
 
 
-def add_test_namespace(filenames):
-    for file in filenames:
-        # file = "tmp/example.cpp"
-        with open(file, "r", encoding='utf-8', errors='ignore') as in_file:
-            buf = in_file.readlines()
-            already_inserted = False
-            for line in buf:
-                if 'namespace test {' in line:
-                    already_inserted = True
-            if already_inserted == False:
-                with open(file, "w") as out_file:
-                    for line in buf:
-                        # TODO: re-write using regex?
-                        if not (line.startswith('#') or line.startswith(' ') or line.startswith(
-                                '*') or line.startswith('\\') or line.startswith('\n') or line.startswith(
-                                '\t') or line.startswith('/')) and already_inserted == False:
-                            line = line + "\nnamespace test {\n"
-                            already_inserted = True
-                        out_file.write(line)
-                with open(file, "a") as out_file:
-                    out_file.write('}')
-
-
-# TODO: re-write testing files function
-def test_cpp_files(filenames):
-    for filename in filenames:
-        syntactic_features.get_syntactic_features(filename)
-    return True
-
-
 def get_filenames(path_to_data):
     filenames_list = np.array([])
     authors = np.array([])
@@ -113,34 +83,34 @@ def get_sample_matrix(filenames):
     return matrix
 
 
-import csv
+# import csv
+#
+# # TODO: save to csv, not txt
 
-# TODO: save to csv, not txt
 
-
-def write_report(report, num_of_features, y_true, y_pred, probabilities, accuracy, run_time, feature_importances):
-
-    lines = report.split('\n')
-    row_data = lines[-2].split('      ')[1:-1]
-    row_data = [s.strip() for s in row_data]
-    with open('results/results.csv', "a") as csvfile:
-        fieldnames = ['important features (n)', 'precision',
-                      'recall', 'f1-score', 'accuracy', 'run time']
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerow({'important features (n)': num_of_features,
-                         'precision': row_data[0], 'recall': row_data[1], 'f1-score': row_data[2], 'accuracy': accuracy, 'run time': run_time})
-
-    with open('results/results.txt', 'a') as file:
-        file.write('\n#---------------------------------------------#\n')
-        file.write('\n' + report)
-        file.write('\naccuracy: ' + str(accuracy) + '%')
-        file.write('\nrun time: ' + str(run_time))
-        file.write('\nprobabilities:\n' + str(probabilities))
-        file.write('\ny_true: ' + str(y_true))
-        file.write('\ny_pred: ' + str(y_pred))
-        file.write('\nimportant features (n): ' + str(num_of_features))
-        file.write('\nfeature_importances:\n' + str(feature_importances))
+# def write_report(report, num_of_features, y_true, y_pred, probabilities, accuracy, run_time, feature_importances):
+#
+#     lines = report.split('\n')
+#     row_data = lines[-2].split('      ')[1:-1]
+#     row_data = [s.strip() for s in row_data]
+#     with open('results/results.csv', "a") as csvfile:
+#         fieldnames = ['important features (n)', 'precision',
+#                       'recall', 'f1-score', 'accuracy', 'run time']
+#         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+#         writer.writeheader()
+#         writer.writerow({'important features (n)': num_of_features,
+#                          'precision': row_data[0], 'recall': row_data[1], 'f1-score': row_data[2], 'accuracy': accuracy, 'run time': run_time})
+#
+#     with open('results/results.txt', 'a') as file:
+#         file.write('\n#---------------------------------------------#\n')
+#         file.write('\n' + report)
+#         file.write('\naccuracy: ' + str(accuracy) + '%')
+#         file.write('\nrun time: ' + str(run_time))
+#         file.write('\nprobabilities:\n' + str(probabilities))
+#         file.write('\ny_true: ' + str(y_true))
+#         file.write('\ny_pred: ' + str(y_pred))
+#         file.write('\nimportant features (n): ' + str(num_of_features))
+#         file.write('\nfeature_importances:\n' + str(feature_importances))
 
 
 def classify_authors(path_to_data, loop):
@@ -176,13 +146,16 @@ def classify_authors(path_to_data, loop):
             y_true = authors_test
             y_pred = classifier.predict(Z)
             probabilities = classifier.predict_proba(Z)
-            report = classification_report(y_true, y_pred)
+            cls_report = classification_report(y_true, y_pred)
             accuracy = round(accuracy_score(y_true, y_pred) * 100, 2)
             run_time = round(time.time() - start_time, 2)
             feature_importances = get_feature_importances(classifier, feature_usage)
+            report = {'classification_report': cls_report, 'proba': probabilities,
+                      'accuracy': accuracy, 'run_time': run_time, 'feature_importances': feature_importances}
 
-            write_report(report, num_of_features, y_true, y_pred,
-                         probabilities, accuracy, run_time, feature_importances)
+            # write_report(report, num_of_features, y_true, y_pred,
+            #              probabilities, accuracy, run_time, feature_importances)
+            return report
 
 
 def get_feature_names(feature_usage):
@@ -190,7 +163,7 @@ def get_feature_names(feature_usage):
                      'lines_of_code',
                      'ln_number_of_functions', 'avg_funcname_len', 'avg_varname_len', 'has_specialcharnames',
                      'has_uppercasenames']
-    keywords = re.split('[^a-z0-9_]+', open('cpp_keywords.txt').read())
+    keywords = re.split('[^a-z0-9_]+', open('./core/cpp_keywords.txt').read())
     feature_names += keywords
     feature_names = list(compress(feature_names, feature_usage))
     return feature_names
