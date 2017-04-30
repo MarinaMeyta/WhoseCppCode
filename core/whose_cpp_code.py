@@ -68,11 +68,14 @@ def get_sample_matrix(filenames):
 
 
 def classify_authors(path_to_data, loop):
+    start_time = time.time()
     filenames, authors = get_filenames(path_to_data)
+    precision, recall, f1_score, accuracy = []
     # add_test_namespace(filenames)
     # if test_cpp_files(filenames):
+
     for i in range(loop):
-        start_time = time.time()
+
         # make training and testing sets
         filenames_train, filenames_test, authors_train, authors_test = train_test_split(
             filenames, authors)
@@ -81,10 +84,10 @@ def classify_authors(path_to_data, loop):
         y = authors_train
 
         # RandomForestClassifier
-        # classifier = RandomForestClassifier(n_estimators=100, n_jobs=-1)
+        classifier = RandomForestClassifier(n_estimators=100, n_jobs=-1)
 
         # GradientBoostingClassifier
-        classifier = GradientBoostingClassifier()
+        # classifier = GradientBoostingClassifier()
 
         classifier.fit(X, y)
         model = SelectFromModel(classifier, prefit=True)
@@ -101,8 +104,9 @@ def classify_authors(path_to_data, loop):
         y_pred = classifier.predict(Z)
         probabilities = classifier.predict_proba(Z)
         cls_report = classification_report(y_true, y_pred)
-        accuracy = round(accuracy_score(y_true, y_pred) * 100, 2)
-        run_time = round(time.time() - start_time, 2)
+        # round(accuracy_score(y_true, y_pred) * 100, 2)
+        accuracy.append(accuracy_score(y_true, y_pred))
+
         feature_importances = get_feature_importances(classifier, feature_usage)
         report = {'classification_report': cls_report, 'proba': probabilities.tolist(),
                   'accuracy': accuracy, 'run_time': run_time, 'feature_importances': feature_importances}
@@ -113,7 +117,9 @@ def classify_authors(path_to_data, loop):
         with open('data.txt', 'w', encoding='utf-8') as outfile:
             json.dump(report, outfile, indent=4)
 
-        return report
+    # report =
+    run_time = round(time.time() - start_time, 2)
+    return report
 
 
 def get_feature_names(feature_usage):
