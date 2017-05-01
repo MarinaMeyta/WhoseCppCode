@@ -9,7 +9,7 @@ from core.cpp_keywords import count_cppkeywords_tf
 from sklearn.model_selection import train_test_split
 import time
 from sklearn.feature_selection import SelectFromModel
-from sklearn.metrics import f1_score, precision_score, recall_score
+from sklearn.metrics import f1_score, precision_score, recall_score, accuracy_score
 import re
 from itertools import compress
 from sklearn.model_selection import cross_val_score, KFold
@@ -68,7 +68,7 @@ def get_sample_matrix(filenames):
 #         file.write('\nfeature_importances:\n' + str(feature_importances))
 
 
-def classify_authors(path_to_data):
+def classify_authors(path_to_data, method):
     start_time = time.time()
     filenames, authors = get_filenames(path_to_data)
     accuracy = []
@@ -80,10 +80,11 @@ def classify_authors(path_to_data):
     # y is corresponding authors
     X = get_sample_matrix(filenames)
     y = authors
-    classifier = RandomForestClassifier(n_estimators=100, n_jobs=-1)
 
-    # GradientBoostingClassifier
-    # classifier = GradientBoostingClassifier()
+    if method == 'GradientBoostingClassifier':
+        classifier = GradientBoostingClassifier()
+    else:
+        classifier = RandomForestClassifier(n_estimators=100, n_jobs=-1)
 
     kf = KFold(n_splits=10, shuffle=True)
     report = []
@@ -104,7 +105,8 @@ def classify_authors(path_to_data):
         y_true = y_test
         y_pred = classifier.predict(X_test)
 
-        fold_report = {'accuracy': classifier.score(X_test, y_test),
+        fold_report = {'method': method,
+                       'accuracy': accuracy_score(y_true, y_pred),
                        'precision': precision_score(y_true, y_pred, average='weighted'),
                        'recall': recall_score(y_true, y_pred, average='weighted'),
                        'f1-score': f1_score(y_true, y_pred, average='weighted'),
