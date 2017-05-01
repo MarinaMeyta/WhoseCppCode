@@ -9,9 +9,10 @@ from core.cpp_keywords import count_cppkeywords_tf
 from sklearn.model_selection import train_test_split
 import time
 from sklearn.feature_selection import SelectFromModel
-from sklearn.metrics import accuracy_score, classification_report
+from sklearn.metrics import f1_score, precision_score, recall_score
 import re
 from itertools import compress
+from sklearn.model_selection import cross_val_score, KFold
 
 from sklearn.ensemble import GradientBoostingClassifier
 import json
@@ -67,66 +68,60 @@ def get_sample_matrix(filenames):
 #         file.write('\nfeature_importances:\n' + str(feature_importances))
 
 
-def classify_authors(path_to_data, loop):
+def classify_authors(path_to_data):
     start_time = time.time()
     filenames, authors = get_filenames(path_to_data)
-    precision, recall, f1_score, accuracy = []
+    accuracy = []
+    # precision, recall, f1_score, accuracy = []
     # add_test_namespace(filenames)
     # if test_cpp_files(filenames):
 
-    for i in range(loop):
+    # X is a whole original dataset of samples
+    # y is corresponding authors
+    X = get_sample_matrix(filenames)
+    y = authors
+    classifier = RandomForestClassifier(n_estimators=100, n_jobs=-1)
 
-        # make training and testing sets
-        filenames_train, filenames_test, authors_train, authors_test = train_test_split(
-            filenames, authors)
-        # train classifier
-        X = get_sample_matrix(filenames_train)
-        y = authors_train
+    # GradientBoostingClassifier
+    # classifier = GradientBoostingClassifier()
 
-        # RandomForestClassifier
-        classifier = RandomForestClassifier(n_estimators=100, n_jobs=-1)
+    kf = KFold(n_splits=10, shuffle=True)
+    report = []
+    for train_index, test_index in kf.split(X):
+        X_train = X[train_index]
+        y_train = y[train_index]
+        classifier.fit(X_train, y_train)
 
-        # GradientBoostingClassifier
-        # classifier = GradientBoostingClassifier()
-
-        classifier.fit(X, y)
+        # cut unimportant features
         model = SelectFromModel(classifier, prefit=True)
         feature_usage = model.get_support()
-        X = model.transform(X)
-        classifier.fit(X, y)
+        X_transformed = model.transform(X_train)
+        classifier.fit(X_transformed, y_train)
 
-        # test classifier
-        Z = get_sample_matrix(filenames_test)
-        Z = np.array([list(compress(sample, feature_usage)) for sample in Z])
+        X_test = np.array([list(compress(sample, feature_usage)) for sample in X[test_index]])
+        y_test = y[test_index]
 
-        num_of_features = X.shape[1]
-        y_true = authors_test
-        y_pred = classifier.predict(Z)
-        probabilities = classifier.predict_proba(Z)
-        cls_report = classification_report(y_true, y_pred)
-        # round(accuracy_score(y_true, y_pred) * 100, 2)
-        accuracy.append(accuracy_score(y_true, y_pred))
+        y_true = y_test
+        y_pred = classifier.predict(X_test)
 
-        feature_importances = get_feature_importances(classifier, feature_usage)
-        report = {'classification_report': cls_report, 'proba': probabilities.tolist(),
-                  'accuracy': accuracy, 'run_time': run_time, 'feature_importances': feature_importances}
+        fold_report = {'accuracy': classifier.score(X_test, y_test),
+                       'precision': precision_score(y_true, y_pred, average='weighted'),
+                       'recall': recall_score(y_true, y_pred, average='weighted'),
+                       'f1-score': f1_score(y_true, y_pred, average='weighted'),
+                       'run_time': round(time.time() - start_time, 2),
+                       'feature importancies': get_feature_importances(classifier, feature_usage)}
+        report.append(fold_report)
 
-        # write_report(report, num_of_features, y_true, y_pred,
-        #              probabilities, accuracy, run_time, feature_importances)
-
-        with open('data.txt', 'w', encoding='utf-8') as outfile:
-            json.dump(report, outfile, indent=4)
-
-    # report =
-    run_time = round(time.time() - start_time, 2)
+    with open('report.txt', 'w', encoding='utf-8') as outfile:
+        json.dump(report, outfile, indent=4)
     return report
 
 
 def get_feature_names(feature_usage):
     feature_names = ['ln_comments', 'ln_macros', 'ln_spaces', 'ln_tabs', 'ln_newlines', 'whitespace_ratio',
-                     'lines_of_code',
-                     'ln_number_of_functions', 'avg_funcname_len', 'avg_varname_len', 'has_specialcharnames',
-                     'has_uppercasenames']
+                     'lines_of_code', ]
+    #  'ln_number_of_functions', 'avg_funcname_len', 'avg_varname_len', 'has_specialcharnames',
+    #  'has_uppercasenames']
     keywords = re.split('[^a-z0-9_]+', open('./core/cpp_keywords.txt').read())
     feature_names += keywords
     feature_names = list(compress(feature_names, feature_usage))
@@ -135,7 +130,7 @@ def get_feature_names(feature_usage):
 
 def get_feature_importances(classifier, feature_usage):
     importances = classifier.feature_importances_
-    indices = np.argsort(importances)[::-1]
+    indices = np.argsort(importances)[:: -1]
     feature_names = get_feature_names(feature_usage)
     importances = sorted(importances, key=float, reverse=True)
     return list(zip([feature_names[i] for i in indices], importances))
