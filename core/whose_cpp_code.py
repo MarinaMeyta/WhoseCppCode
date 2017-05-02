@@ -105,13 +105,15 @@ def classify_authors(path_to_data, method):
         y_true = y_test
         y_pred = classifier.predict(X_test)
 
-        fold_report = {'method': method,
-                       'accuracy': accuracy_score(y_true, y_pred),
-                       'precision': precision_score(y_true, y_pred, average='weighted'),
-                       'recall': recall_score(y_true, y_pred, average='weighted'),
-                       'f1-score': f1_score(y_true, y_pred, average='weighted'),
-                       'run_time': round(time.time() - start_time, 2),
-                       'feature importancies': get_feature_importances(classifier, feature_usage)}
+        fold_report = {
+            'method': method,
+            'accuracy': accuracy_score(y_true, y_pred),
+            'precision': precision_score(y_true, y_pred, average='weighted'),
+            'recall': recall_score(y_true, y_pred, average='weighted'),
+            'f1-score': f1_score(y_true, y_pred, average='weighted'),
+            'run time in sec': round(time.time() - start_time, 2),
+            'feature importancies': get_feature_importances(classifier, feature_usage)
+        }
         report.append(fold_report)
 
     with open('report.txt', 'w', encoding='utf-8') as outfile:
