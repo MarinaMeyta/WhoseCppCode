@@ -110,13 +110,13 @@ def classify_authors(path_to_data, method):
             'accuracy': accuracy_score(y_true, y_pred),
             'precision': precision_score(y_true, y_pred, average='weighted'),
             'recall': recall_score(y_true, y_pred, average='weighted'),
-            'f1-score': f1_score(y_true, y_pred, average='weighted'),
+            'f1_score': f1_score(y_true, y_pred, average='weighted'),
             'run time in sec': round(time.time() - start_time, 2),
             'feature importancies': get_feature_importances(classifier, feature_usage)
         }
         report.append(fold_report)
 
-    with open('report.txt', 'w', encoding='utf-8') as outfile:
+    with open('report.json', 'w', encoding='utf-8') as outfile:
         json.dump(report, outfile, indent=4)
     return report
 
