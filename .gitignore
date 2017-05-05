@@ -4,5 +4,6 @@
 __pycache__
 .idea
 /tmp
-report.txt
+report.json
 output.csv
+results.csv
