@@ -23,7 +23,7 @@ def get_filenames(path_to_data):
     authors = np.array([])
     for dirpath, dirnames, filenames in os.walk(path_to_data):
         for filename in [f for f in filenames if f.endswith(".cpp")]:
-            authors = np.append(authors, os.path.basename(dirpath))
+            authors = np.append(authors, os.path.basename(os.path.dirname(dirpath)))
             filenames_list = np.append(filenames_list, os.path.join(dirpath, filename))
     return filenames_list, authors
 

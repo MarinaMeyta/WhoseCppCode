@@ -7,3 +7,4 @@ __pycache__
 report.json
 output.csv
 results.csv
+data/
