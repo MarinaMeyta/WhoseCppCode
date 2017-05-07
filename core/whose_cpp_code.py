@@ -128,7 +128,6 @@ def classify_authors(path_to_data, method):
             'recall': recall_score(y_true, y_pred, average='weighted'),
             'f1_score': f1_score(y_true, y_pred, average='weighted'),
             'run time in sec': round(time.time() - start_time, 2),
-            'feature importancies': get_feature_importances(classifier, feature_usage)
         }
         report.append(fold_report)
 
