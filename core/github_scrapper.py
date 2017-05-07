@@ -27,12 +27,13 @@ def get_files(url, user, repo_name, auth_user, pswd):
 def scrap(userlist, auth_user, psw):
     for user in userlist:
         repos = get_response('https://api.github.com/users/' + user + '/repos', auth_user, psw)
-        for repo in repos:
-            if (repo['language'] == 'C++' or repo['language'] == 'C') and repo['fork'] == False:
-                contents_url = 'https://api.github.com/repos/' + \
-                    user + '/' + repo['name'] + '/contents'
-                repo_name = repo['name']
-                get_files(contents_url, user, repo_name, auth_user, psw)
+        if repos:
+            for repo in repos:
+                if (repo['language'] == 'C++' or repo['language'] == 'C') and repo['fork'] == False:
+                    contents_url = 'https://api.github.com/repos/' + \
+                        user + '/' + repo['name'] + '/contents'
+                    repo_name = repo['name']
+                    get_files(contents_url, user, repo_name, auth_user, psw)
 
 
 def download_file(url, user, repo_name, filename):
