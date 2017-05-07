@@ -9,7 +9,8 @@ def remove_short_words(words):
 
 def get_cppkeywords(filename):
     remove_comments(filename)
-    cpp_words = remove_short_words(re.split('[^a-z_]+', open('./tmp/output.cpp').read()))
+    cpp_words = remove_short_words(
+        re.split('[^a-z_]+', open('./tmp/output.cpp').read()))
     cpp_words = ' '.join(cpp_words)
     return cpp_words
 
@@ -32,7 +33,7 @@ def remove_comments(filename):
     """
     file = open(filename).read()
     result = re.split('//.*|/\*[\s\S]*?\*/|("(\\.|[^"])*")', file)
-    tmp_file = open('./tmp/output.cpp', 'w+')
+    tmp_file = open('./tmp/output.cpp', 'w+')  # encoding='cp1251', errors='ignore')
     result = filter(None, result)
     tmp_file.writelines(result)
     tmp_file.close()

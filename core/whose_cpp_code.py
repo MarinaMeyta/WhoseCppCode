@@ -15,7 +15,15 @@ from itertools import compress
 from sklearn.model_selection import cross_val_score, KFold
 
 from sklearn.ensemble import GradientBoostingClassifier
+from sklearn.ensemble import ExtraTreesClassifier
+from sklearn.ensemble import AdaBoostClassifier
 import json
+
+
+from core.encoder import convertFileWithDetection
+
+ext = (".cpp", ".c", ".h", ".hpp", ".cxx", ".cc", ".ii", ".ixx", ".ipp",
+       ".inl", ".txx", ".tpp", "tpl")
 
 
 def get_filenames(path_to_data):
@@ -23,13 +31,16 @@ def get_filenames(path_to_data):
     authors = np.array([])
     for author in os.listdir(path_to_data):
         for dirpath, dirnames, filenames in os.walk(os.path.join(path_to_data, author)):
-            for filename in [f for f in filenames if f.endswith(".cpp")]:
+            for filename in [f for f in filenames if f.endswith(ext)]:
                 authors = np.append(authors, author)
                 filenames_list = np.append(filenames_list, os.path.join(dirpath, filename))
     return filenames_list, authors
 
 
 def get_sample_matrix(filenames):
+    # [convertFileWithDetection(filename) for filename in filenames]
+    # print('converted successfully')
+
     # features = np.array([lexical_features.get_lexical_features(filename) +
     # syntactic_features.get_syntactic_features(filename) for filename in
     # filenames])
@@ -84,6 +95,10 @@ def classify_authors(path_to_data, method):
 
     if method == 'GradientBoostingClassifier':
         classifier = GradientBoostingClassifier()
+    elif method == 'ExtraTreesClassifier':
+        classifier = ExtraTreesClassifier(n_estimators=100)
+    elif method == 'AdaBoostClassifier':
+        classifier = AdaBoostClassifier(n_estimators=100)
     else:
         classifier = RandomForestClassifier(n_estimators=100, n_jobs=-1)
 
@@ -123,8 +138,11 @@ def classify_authors(path_to_data, method):
 
 
 def get_feature_names(feature_usage):
-    feature_names = ['ln_comments', 'ln_macros', 'ln_spaces', 'ln_tabs', 'ln_newlines', 'whitespace_ratio',
-                     'lines_of_code', ]
+    feature_names = ['ln_comments', 'ln_inline_comments', 'ln_multiline_comments',
+                     'ln_macros', 'ln_spaces', 'ln_tabs', 'ln_newlines', 'whitespace_ratio',
+                     'lines_of_code', 'avg_line_length',
+                     'ln_open_brace_alone', 'ln_open_brace_first', 'ln_open_brace_last',
+                     'ln_closing_brace_alone', 'ln_closing_brace_first', 'ln_closing_brace_last']
     #  'ln_number_of_functions', 'avg_funcname_len', 'avg_varname_len', 'has_specialcharnames',
     #  'has_uppercasenames']
     keywords = re.split('[^a-z0-9_]+', open('./core/cpp_keywords.txt').read())

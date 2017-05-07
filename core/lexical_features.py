@@ -3,11 +3,13 @@ import math
 
 
 def get_lexical_features(filename):
-    with open(filename, 'r', encoding='cp1251', errors='ignore') as in_file:
+    with open(filename, 'r') as in_file:
         lines = in_file.readlines()
         file_length = sum([len(line) for line in lines])
-        avg_line_length = file_length / len(lines)
+
         if file_length != 0:
+            avg_line_length = file_length / len(lines)
+
             # commenting style
             comments = len([line for line in lines if re.match(
                 '(.*)//', line) or re.match('(.*)/\*', line)])
@@ -46,7 +48,8 @@ def get_lexical_features(filename):
                 closing_brace_last / file_length) if closing_brace_last else 0
 
             ln_comments = math.log(comments / file_length) if comments else 0
-            ln_inline_comments = math.log(inline_comments / file_length) if inline_comments else 0
+            ln_inline_comments = math.log(
+                inline_comments / file_length) if inline_comments else 0
             ln_multiline_comments = math.log(
                 multiline_comments / file_length) if multiline_comments else 0
             ln_spaces = math.log(spaces / file_length) if spaces else 0
