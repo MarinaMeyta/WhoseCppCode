@@ -65,4 +65,5 @@ def get_lexical_features(filename):
                                 ln_open_brace_alone, ln_open_brace_first, ln_open_brace_last,
                                 ln_closing_brace_alone, ln_closing_brace_first, ln_closing_brace_last]
             return lexical_features
-    return None
+        else:
+            pass

@@ -37,13 +37,12 @@ def get_filenames(path_to_data):
 
 
 def get_sample_matrix(filenames):
-    # [convertFileWithDetection(filename) for filename in filenames]
-    # print('converted successfully')
-
     # features = np.array([lexical_features.get_lexical_features(filename) +
     # syntactic_features.get_syntactic_features(filename) for filename in
     # filenames])
-    features = np.array([get_lexical_features(filename) for filename in filenames])
+
+    features = np.array([get_lexical_features(filename)
+                         for filename in filenames if get_lexical_features(filename)])
     keywords = count_cppkeywords_tf(filenames)
     matrix = np.hstack((features, keywords))
     return matrix

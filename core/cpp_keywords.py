@@ -17,9 +17,11 @@ def get_cppkeywords(filename):
 
 def count_cppkeywords_tf(filenames):
     """Returns numpy array of keywords frequencies in each file"""
+
     keywords = re.split('[^a-z0-9_]+', open('./core/cpp_keywords.txt').read())
     vectorizer = TfidfVectorizer(vocabulary=keywords, use_idf=False)
-    input_array = np.array([get_cppkeywords(filename) for filename in filenames])
+    input_array = np.array([get_cppkeywords(filename)
+                            for filename in filenames if open(filename).read()])
     cpp_keywords_tf = vectorizer.fit_transform(input_array).toarray()
     return cpp_keywords_tf
 
