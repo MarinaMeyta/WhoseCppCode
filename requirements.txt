@@ -7,3 +7,5 @@ requests
 jupyter
 jupyter_nbextensions_configurator
 ipywidgets
+matplotlib
+plotly
