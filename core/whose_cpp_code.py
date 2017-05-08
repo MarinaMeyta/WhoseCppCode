@@ -19,8 +19,7 @@ from sklearn.ensemble import ExtraTreesClassifier
 from sklearn.ensemble import AdaBoostClassifier
 import json
 
-
-from core.encoder import convertFileWithDetection
+from core.encoder import correctSubtitleEncoding
 
 ext = (".cpp", ".c", ".h", ".hpp", ".cxx", ".cc", ".ii", ".ixx", ".ipp",
        ".inl", ".txx", ".tpp", "tpl")
@@ -83,6 +82,8 @@ def get_sample_matrix(filenames):
 def classify_authors(path_to_data, method):
     start_time = time.time()
     filenames, authors = get_filenames(path_to_data)
+    # decode files
+    [correctSubtitleEncoding(filename) for filename in filenames]
     accuracy = []
     # precision, recall, f1_score, accuracy = []
     # add_test_namespace(filenames)
