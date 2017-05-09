@@ -8,6 +8,7 @@ def remove_short_words(words):
 
 
 def get_cppkeywords(filename):
+    print('Getting cpp_keywords for', filename)
     remove_comments(filename)
     cpp_words = remove_short_words(
         re.split('[^a-z_]+', open('./tmp/output.cpp').read()))

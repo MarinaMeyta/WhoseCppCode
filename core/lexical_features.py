@@ -1,8 +1,10 @@
 import re
 import math
+import numpy as np
 
 
 def get_lexical_features(filename):
+
     with open(filename, 'r') as in_file:
         lines = in_file.readlines()
         file_length = sum([len(line) for line in lines])
@@ -59,11 +61,13 @@ def get_lexical_features(filename):
             lines_of_code = len([line for line in lines if line.strip(' \n') != ''])
             whitespace_ratio = (spaces + tabs + newlines) / file_length
 
-            lexical_features = [ln_comments, ln_inline_comments, ln_multiline_comments,
-                                ln_macros, ln_spaces, ln_tabs, ln_newlines, whitespace_ratio,
-                                lines_of_code, avg_line_length,
-                                ln_open_brace_alone, ln_open_brace_first, ln_open_brace_last,
-                                ln_closing_brace_alone, ln_closing_brace_first, ln_closing_brace_last]
+            print('Got lexical features for', filename)
+
+            lexical_features = np.array([ln_comments, ln_inline_comments, ln_multiline_comments,
+                                         ln_macros, ln_spaces, ln_tabs, ln_newlines, whitespace_ratio,
+                                         lines_of_code, avg_line_length,
+                                         ln_open_brace_alone, ln_open_brace_first, ln_open_brace_last,
+                                         ln_closing_brace_alone, ln_closing_brace_first, ln_closing_brace_last])
             return lexical_features
         else:
             pass

@@ -40,41 +40,12 @@ def get_sample_matrix(filenames):
     # syntactic_features.get_syntactic_features(filename) for filename in
     # filenames])
 
-    features = np.array([get_lexical_features(filename)
-                         for filename in filenames if get_lexical_features(filename)])
+    print('Getting lexical features...')
+    features = np.array([get_lexical_features(filename) for filename in filenames])
+    print('Getting keywords...')
     keywords = count_cppkeywords_tf(filenames)
     matrix = np.hstack((features, keywords))
     return matrix
-
-
-# import csv
-#
-# # TODO: save to csv, not txt
-
-
-# def write_report(report, num_of_features, y_true, y_pred, probabilities, accuracy, run_time, feature_importances):
-#
-#     lines = report.split('\n')
-#     row_data = lines[-2].split('      ')[1:-1]
-#     row_data = [s.strip() for s in row_data]
-#     with open('results/results.csv', "a") as csvfile:
-#         fieldnames = ['important features (n)', 'precision',
-#                       'recall', 'f1-score', 'accuracy', 'run time']
-#         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-#         writer.writeheader()
-#         writer.writerow({'important features (n)': num_of_features,
-#                          'precision': row_data[0], 'recall': row_data[1], 'f1-score': row_data[2], 'accuracy': accuracy, 'run time': run_time})
-#
-#     with open('results/results.txt', 'a') as file:
-#         file.write('\n#---------------------------------------------#\n')
-#         file.write('\n' + report)
-#         file.write('\naccuracy: ' + str(accuracy) + '%')
-#         file.write('\nrun time: ' + str(run_time))
-#         file.write('\nprobabilities:\n' + str(probabilities))
-#         file.write('\ny_true: ' + str(y_true))
-#         file.write('\ny_pred: ' + str(y_pred))
-#         file.write('\nimportant features (n): ' + str(num_of_features))
-#         file.write('\nfeature_importances:\n' + str(feature_importances))
 
 
 def classify_authors(path_to_data, method):
@@ -87,6 +58,7 @@ def classify_authors(path_to_data, method):
 
     # X is a whole original dataset of samples
     # y is corresponding authors
+    print('Getting sample matrix...')
     X = get_sample_matrix(filenames)
     y = authors
 
@@ -99,8 +71,10 @@ def classify_authors(path_to_data, method):
     else:
         classifier = RandomForestClassifier(n_estimators=100, n_jobs=-1)
 
+    print('Cross-validating...')
     kf = KFold(n_splits=10, shuffle=True)
     report = []
+    print('Classifying...')
     for train_index, test_index in kf.split(X):
         X_train = X[train_index]
         y_train = y[train_index]
