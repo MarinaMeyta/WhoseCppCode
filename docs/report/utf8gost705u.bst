@@ -204,7 +204,7 @@ if$
 FUNCTION {non.stop}
 { duplicate$
 "}" * add.period$
-#-1 #1 substring$ "." =
+#-1 #1 substring$ "." = 
 }
 FUNCTION {new.block.checka}
 { empty$

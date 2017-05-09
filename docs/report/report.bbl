@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \def\selectlanguageifdefined#1{
 \expandafter\ifx\csname date#1\endcsname\relax
 \else\language\csname l@#1\endcsname\fi}
@@ -64,5 +64,60 @@
   [Электронный ресурс]}. --- Режим доступа:
   http://stat.ethz.ch/education/semesters/ss2012/ams/slides/v10.2.pdf (дата
   обращения: 23.10.2016).{}
+
+\bibitem{bracing_styles}
+\selectlanguageifdefined{russian}
+{Хэзфилд Р.} {Искусство программирования на
+  С. Фундаментальные алгоритмы, структуры
+  данных и примеры приложений. Энциклопедия
+  программиста / Р. Хэзфилд, Л. Кирби. --- М: }.
+\newblock ДиаСофт, 2001.
+\newblock -- 736~с.{}
+
+\bibitem{cppkeywords}
+\selectlanguageifdefined{russian}
+{Ключевые слова C++ [Электронный ресурс]}. ---
+  Режим доступа: http://ru.cppreference.com/w/cpp/keyword (дата
+  обращения: 12.10.2016).{}
+
+\bibitem{python}
+\selectlanguageifdefined{english}
+{Python 3.5.2 [Электронный ресурс]}. --- Режим
+  доступа: https://www.python.org/ (дата обращения:
+  25.10.2016).{}
+
+\bibitem{castxml}
+\selectlanguageifdefined{english}
+{CastXML C-family Abstract Syntax Tree XML Output [Электронный
+  ресурс]}. --- Режим доступа:
+  https://github.com/CastXML/CastXML (дата обращения:
+  25.10.2016).{}
+
+\bibitem{pygccxml}
+\selectlanguageifdefined{english}
+{Pygccxml --- pygccxml 1.8.3 documentation [Электронный
+  ресурс]}. --- Режим доступа:
+  http://pygccxml.readthedocs.io/en/develop/ (дата обращения:
+  25.10.2016).{}
+
+\bibitem{scikit}
+\selectlanguageifdefined{english}
+{Scikit-learn --- Machine Learning in Python [Электронный
+  ресурс]}. --- Режим доступа:
+  http://scikit-learn.org/stable/ (дата обращения: 25.10.2016).{}
+
+\bibitem{matplotlib}
+\selectlanguageifdefined{english}
+{Matplotlib: Python Plotting [Электронный ресурс]}. ---
+  Режим доступа: http://matplotlib.org/ (дата
+  обращения: 25.10.2016).{}
+
+\bibitem{metrics}
+\selectlanguageifdefined{russian}
+{Оценка классификатора (точность, полнота,
+  F-мера) [Электронный ресурс]}. --- Режим
+  доступа:
+  http://bazhenov.me/blog/2012/07/21/classification-performance-evaluation.html
+  (дата обращения: 17.12.2016).{}
 
 \end{thebibliography}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  25 APR 2017 22:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  9 MAY 2017 23:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -10,8 +10,8 @@ Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 Document Class: eskdtext 2010/01/14 v0.98 Textual Documentation
 (/usr/share/texlive/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo
-File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/exscale.sty
 Package: exscale 2014/09/29 v2.1h Standard LaTeX package exscale
@@ -602,12 +602,12 @@ File: t2aftm.fd 2014/01/03 Fontinst v1.933 font definitions for T2A/ftm.
 * \topmargin=-29.59088pt
 * \headheight=0.0pt
 * \headsep=0.0pt
-* \topskip=14.0pt
+* \topskip=12.0pt
 * \footskip=0.0pt
-* \marginparwidth=24.0pt
+* \marginparwidth=44.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -690,187 +690,151 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ) (./title.tex
-LaTeX Font Info:    Font shape `T2A/ftm/bx/n' in size <14.4> not available
+LaTeX Font Info:    Font shape `T2A/ftm/bx/n' in size <12> not available
 (Font)              Font shape `T2A/ftm/b/n' tried instead on input line 5.
 )
 (./referat_ru.tex [1.1.0.0.0.0.0.0.0.1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 1077) in paragraph at lines 6--7
-\T2A/ftm/m/n/14.4  Ћј—-—»-‘»- ј-÷»я, PYTHON, SKLEARN, RANDOM FOREST CLASSIFIER,
-
- []
-
-[2.2]) [3.3.0.0.0.0.0.0.0.1] (./report.toc)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) [2.2] (./report.toc)
 \tf@toc=\write3
 \openout3 = `report.toc'.
 
- [4.4] (./intro.tex) (./kibevs.tex
-(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
+ [3.3.0.0.0.0.0.0.0.1] (./intro.tex)
+(./kibevs.tex (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-) [5.5.0.0.1.0.0.0.0.1])
-Underfull \hbox (badness 2261) in paragraph at lines 21--33
-[]\T2A/ftm/m/n/14.4 ќфициальный сайт  »-Ѕ-Ё¬— [Ёлек-трон-ный ре-сурс]. ^^U –е-ж
-им до-сту-па:
+) [4.4.0.0.1])
+Underfull \hbox (badness 10000) in paragraph at lines 21--33
+[]\T2A/ftm/m/n/12 ќфициальный сайт  »-Ѕ-Ё¬— [Ёлек-трон-ный ре-сурс]. ^^U –е-жим
+ до-сту-па:
  []
 
-[6.6.0.0.1] (./overview.tex [7.7.0.0.2.0.0.0.0.1]) [8.8.0.0.2] [9.9.0.0.2.0.0.0
-.0.1] (./model.tex <images/box_1.png, id=42, 623.32875pt x 408.52625pt>
-File: images/box_1.png Graphic file (type png)
+[5.5.0.0.1.0.0.0.0.1] (./overview.tex [6.6.0.0.2]) [7.7.0.0.2.1.0.0.0.1]
+(./features.tex
+Underfull \hbox (badness 4391) in paragraph at lines 22--24
+[]\T2A/ftm/m/n/12 —тиль рас-ста-нов-ки фи-гур-ных ско-бок --- к наи-бо-лее из-в
+ест-ным от-но-с€т <<K&R>>,
+ []
 
-<use images/box_1.png>
-Package pdftex.def Info: images/box_1.png used on input line 4.
-(pdftex.def)             Requested size: 305.58572pt x 200.27934pt.
- <images/box_2.png, id=43, 1033.8625pt x 618.31pt>
-File: images/box_2.png Graphic file (type png)
 
-<use images/box_2.png>
-Package pdftex.def Info: images/box_2.png used on input line 10.
-(pdftex.def)             Requested size: 509.30438pt x 304.5973pt.
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+[]|\T2A/ftm/m/n/12  оэффициент про-бель-ных
+ []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [10.10.0.0.3 <./images/box_1.png>] (./conclusions.tex
 
-LaTeX Warning: Reference `test_data' on page 11 undefined on input line 3.
+Overfull \hbox (2.47453pt too wide) in paragraph at lines 92--92
+[]|\T2A/ftm/m/n/12 reinterpret_cast| 
+ []
 
+(./feature_importances.tex [8.8.0.0.3.3]
+<images/important.png, id=38, 807.015pt x 596.2275pt>
+File: images/important.png Graphic file (type png)
 
-LaTeX Warning: Reference `keycpp' on page 11 undefined on input line 10.
-
-[11.11.0.0.3.0.0.0.0.1 <./images/box_2.png>]
-
-LaTeX Warning: Reference `random_forest' on page 12 undefined on input line 11.
-
-
-
-LaTeX Warning: Reference `trees_feat' on page 12 undefined on input line 11.
+<use images/important.png>
+Package pdftex.def Info: images/important.png used on input line 6.
+(pdftex.def)             Requested size: 458.37083pt x 338.65231pt.
 
 
-LaTeX Warning: Reference `features' on page 12 undefined on input line 18.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [12.12.0.0.3] (./report.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 19--24
-[]\T2A/ftm/m/n/14.4 Source Code Authorship Analysis For Supporting The Cybercri
-me
+)) [9.9.0.0.3.3.0.0.0.1] (./classifiers.tex [10.10.0.0.4 <./images/important.pn
+g>] (./random_forest.tex <images/forest.png, id=47, 642.4pt x 318.18875pt>
+File: images/forest.png Graphic file (type png)
+
+<use images/forest.png>
+Package pdftex.def Info: images/forest.png used on input line 23.
+(pdftex.def)             Requested size: 356.5115pt x 176.58713pt.
+) [11.11.0.0.4.1.0.0.0.1 <./images/forest.png>] [12.12.0.0.4.2]) [13.13.0.0.4.3
+.0.0.0.1] (./tools.tex) [14.14.0.0.5] (./test_data.tex)
+(./evaluation.tex) [15.15.0.0.7.0.0.0.0.1] (./results.tex
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]|\T2A/ftm/m/n/12 ¬рем€
+ []
+
+) [16.16.0.0.8] (./conclusions.tex
+
+LaTeX Warning: Reference `trees_feat' on page 17 undefined on input line 11.
+
+) [17.17.0.0.8.0.0.0.0.1] (./report.bbl
+Underfull \hbox (badness 5316) in paragraph at lines 19--24
+[]\T2A/ftm/m/n/12 Source Code Authorship Analysis For Supporting The Cybercrime
+ Investigation Process.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--24
-\T2A/ftm/m/n/14.4 Investigation Process. Georgia Frantzeskou, Efstathios Stamat
-atos,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--24
-\T2A/ftm/m/n/14.4 Stefanos Gritzalis [Ёлек-трон-ный ре-сурс]. --- –е-жим до-сту
--па:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--24
-\T2A/ftm/m/n/14.4 http://www.icsd.aegean.gr/lecturers/stamatatos/papers/ICETE20
-05.pdf (да-та об-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 27--33
-[]\T2A/ftm/m/n/14.4 ћаевский ƒ.ј. ќпре-де-ле-ние ав-тор-ства про-грамм-но-го об
-ес-пе-че-ни€ по
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 27--33
-\T2A/ftm/m/n/14.4 ис-ход-но-му ко-ду про-грамм [Ёлек-трон-ный ре-сурс]. --- –е-
-жим до-сту-па:
+Underfull \hbox (badness 1028) in paragraph at lines 19--24
+\T2A/ftm/m/n/12 Georgia Frantzeskou, Efstathios Stamatatos, Stefanos Gritzalis 
+[Ёлек-трон-ный ре-сурс]. --- –е-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 27--33
-\T2A/ftm/m/n/14.4 http://www.khai.edu/csp/nauchportal/Arhiv/REKS/2014/REKS614/M
-aevsky.pdf
+[]\T2A/ftm/m/n/12 ћаевский ƒ.ј. ќпре-де-ле-ние ав-тор-ства про-грамм-но-го обес
+-пе-че-ни€ по ис-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--41
-[]\T2A/ftm/m/n/14.4 Using Classification Techniques to Determine Source Code
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--41
-\T2A/ftm/m/n/14.4 Authorship. Brian N. Pellin Computer Sciences Department
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--41
-\T2A/ftm/m/n/14.4 University of Wisconsin [Ёлек-трон-ный ре-сурс]. --- –е-жим д
+Underfull \hbox (badness 10000) in paragraph at lines 27--33
+\T2A/ftm/m/n/12 ход-но-му ко-ду про-грамм [Ёлек-трон-ный ре-сурс]. --- –е-жим д
 о-сту-па:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--41
-\T2A/ftm/m/n/14.4 https://pdfs.semanticscholar.org/f9aa/790191a50bed02a877e1696
-c7bb71ea9f33a.pdf
+Underfull \hbox (badness 7308) in paragraph at lines 27--33
+\T2A/ftm/m/n/12 http://www.khai.edu/csp/nauchportal/Arhiv/REKS/2014/REKS614/Mae
+vsky.pdf (да-та об-ра-ще-ни€:
+ []
+
+
+Underfull \hbox (badness 2922) in paragraph at lines 36--41
+\T2A/ftm/m/n/12 Sciences Department University of Wisconsin [Ёлек-трон-ный ре-с
+урс]. --- –е-жим до-сту-па:
+ []
+
+
+Underfull \hbox (badness 4001) in paragraph at lines 36--41
+\T2A/ftm/m/n/12 https://pdfs.semanticscholar.org/f9aa/790191a50bed02a877e1696c7
+bb71ea9f33a.pdf (да-та об-ра-ще-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 44--49
-[]\T2A/ftm/m/n/14.4 Source Code Authorship Attribution using n-grams. Steven Bu
-rrows,
+[]\T2A/ftm/m/n/12 Source Code Authorship Attribution using n-grams. Steven Burr
+ows,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 44--49
-\T2A/ftm/m/n/14.4 S.M.M. Tahaghoghi [Ёлек-трон-ный ре-сурс]. --- –е-жим до-сту-
-па:
+\T2A/ftm/m/n/12 S.M.M. Tahaghoghi [Ёлек-трон-ный ре-сурс]. --- –е-жим до-сту-па
+:
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 44--49
-\T2A/ftm/m/n/14.4 https://pdfs.semanticscholar.org/79a2/1998c2f0afe2c616c01d590
-d6d0f6e16e9eb.pdf
+\T2A/ftm/m/n/12 https://pdfs.semanticscholar.org/79a2/1998c2f0afe2c616c01d590d6
+d0f6e16e9eb.pdf (да-та об-ра-
  []
 
 
-Underfull \hbox (badness 3965) in paragraph at lines 52--60
-\T2A/ftm/m/n/14.4 University; Richard Harang, U.S. Army Research Laboratory; An
-drew Liu,
+Underfull \hbox (badness 10000) in paragraph at lines 79--82
+[]\T2A/ftm/m/n/12  лючевые сло-ва C++ [Ёлек-трон-ный ре-сурс]. --- –е-жим до-ст
+у-па:
  []
 
-
-Underfull \hbox (badness 1571) in paragraph at lines 52--60
-\T2A/ftm/m/n/14.4 University of Maryland; Arvind Narayanan, Princeton Universit
-y; Clare Voss,
+[18.18.0.0.8]
+Underfull \hbox (badness 4726) in paragraph at lines 98--102
+[]\T2A/ftm/m/n/12 Pygccxml --- pygccxml 1.8.3 documentation [Ёлек-трон-ный ре-с
+урс]. --- –е-жим до-сту-па:
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--60
-\T2A/ftm/m/n/14.4 https://www.usenix.org/system/files/conference/usenixsecurity
-15/sec15-paper-
- []
-
-[13.13.0.0.3.0.0.0.0.1]
-Underfull \hbox (badness 10000) in paragraph at lines 63--67
-[]\T2A/ftm/m/n/14.4 Random Forest. Applied Multivariate Statistics ---
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 63--67
-\T2A/ftm/m/n/14.4 Spring 2012 [Ёлек-трон-ный ре-сурс]. --- –е-жим до-сту-па:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 63--67
-\T2A/ftm/m/n/14.4 http://stat.ethz.ch/education/semesters/ss2012/ams/slides/v10
-.2.pdf (да-та об-ра-
- []
-
-) [14.14.0.0.3] 
+) [19.19.0.0.8.0.0.0.0.1] 
 AED: lastpage setting LastPage
-[15.15.0.0.0.0.0.0.0.1
+[20.20
 
 ] (./report.aux)
 
@@ -878,20 +842,20 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 10983 strings out of 493013
- 159267 string characters out of 6135682
- 246754 words of memory out of 5000000
- 14233 multiletter control sequences out of 15000+600000
- 18519 words of font info for 35 fonts, out of 8000000 for 9000
+ 11045 strings out of 493013
+ 160033 string characters out of 6135682
+ 269884 words of memory out of 5000000
+ 14262 multiletter control sequences out of 15000+600000
+ 21658 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 52i,7n,42p,1178b,724s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 52i,10n,42p,1653b,724s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/scalable-cyrfonts-tex/6r.enc}</usr/share/te
 xmf/fonts/type1/public/scalable-cyrfonts-tex/ftmb6w.pfb></usr/share/texmf/fonts
 /type1/public/scalable-cyrfonts-tex/ftmr6w.pfb>
-Output written on report.pdf (15 pages, 132599 bytes).
+Output written on report.pdf (20 pages, 156327 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
- 62 compressed objects within 1 object stream
- 15 named destinations out of 1000 (max. 500000)
+ 108 PDF objects out of 1000 (max. 8388607)
+ 80 compressed objects within 1 object stream
+ 20 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
