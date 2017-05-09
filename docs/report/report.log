@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  9 MAY 2017 23:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  10 MAY 2017 01:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -556,7 +556,11 @@ LaTeX Font Info:    Try loading font information for T2A+cmr on input line 5.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-))
+)
+
+LaTeX Warning: Label `tab:3' multiply defined.
+
+)
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
@@ -574,8 +578,7 @@ LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Try loading font information for OT1+ftm on input line 3.
-
-(/usr/share/texmf/tex/latex/scalable-cyrfonts-tex/ot1ftm.fd
+ (/usr/share/texmf/tex/latex/scalable-cyrfonts-tex/ot1ftm.fd
 File: ot1ftm.fd 2014/01/03 Fontinst v1.933 font definitions for OT1/ftm.
 )
 LaTeX Font Info:    Try loading font information for T2A+ftm on input line 3.
@@ -713,54 +716,82 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--33
 
 [5.5.0.0.1.0.0.0.0.1] (./overview.tex [6.6.0.0.2]) [7.7.0.0.2.1.0.0.0.1]
 (./features.tex
-Underfull \hbox (badness 4391) in paragraph at lines 22--24
-[]\T2A/ftm/m/n/12 —тиль рас-ста-нов-ки фи-гур-ных ско-бок --- к наи-бо-лее из-в
-ест-ным от-но-с€т <<K&R>>,
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+\T2A/ftm/m/n/12 ше-ни€ чис-ла од-но-строч-ных
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--57
+Underfull \hbox (badness 4378) in paragraph at lines 55--55
+\T2A/ftm/m/n/12 ше-ни€ чис-ла мно-го-строч-ных
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
 []|\T2A/ftm/m/n/12  оэффициент про-бель-ных
  []
 
 
+Underfull \hbox (badness 2875) in paragraph at lines 117--117
+[]|\T2A/ftm/m/n/12 „исло рас-кры-ва-ю-щих-с€ ско-
+ []
+
+
+Underfull \hbox (badness 2875) in paragraph at lines 117--117
+[]|\T2A/ftm/m/n/12 „исло рас-кры-ва-ю-щих-с€ ско-
+ []
+
+
+Underfull \hbox (badness 2875) in paragraph at lines 117--117
+[]|\T2A/ftm/m/n/12 „исло рас-кры-ва-ю-щих-с€ ско-
+ []
+
+
+Underfull \hbox (badness 2809) in paragraph at lines 117--117
+\T2A/ftm/m/n/12 ше-ни€ чис-ла за-кры-ва-ю-щих-с€
+ []
+
+
+Underfull \hbox (badness 2809) in paragraph at lines 117--117
+\T2A/ftm/m/n/12 ше-ни€ чис-ла за-кры-ва-ю-щих-с€
+ []
+
+
+Underfull \hbox (badness 2809) in paragraph at lines 117--117
+\T2A/ftm/m/n/12 ше-ни€ чис-ла за-кры-ва-ю-щих-с€
+ []
+
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-Overfull \hbox (2.47453pt too wide) in paragraph at lines 92--92
+[8.8.0.0.3.1] [9.9.0.0.3.1.0.0.0.1] [10.10.0.0.3.1] (./cpp_keywords.tex
+Overfull \hbox (2.47453pt too wide) in paragraph at lines 37--37
 []|\T2A/ftm/m/n/12 reinterpret_cast| 
  []
 
-(./feature_importances.tex [8.8.0.0.3.3]
-<images/important.png, id=38, 807.015pt x 596.2275pt>
-File: images/important.png Graphic file (type png)
+)) [11.11.0.0.3.2.0.0.0.1
 
-<use images/important.png>
-Package pdftex.def Info: images/important.png used on input line 6.
-(pdftex.def)             Requested size: 458.37083pt x 338.65231pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-)) [9.9.0.0.3.3.0.0.0.1] (./classifiers.tex [10.10.0.0.4 <./images/important.pn
-g>] (./random_forest.tex <images/forest.png, id=47, 642.4pt x 318.18875pt>
+] (./classifiers.tex [12.12.0.0.4]
+(./random_forest.tex <images/forest.png, id=54, 642.4pt x 318.18875pt>
 File: images/forest.png Graphic file (type png)
 
 <use images/forest.png>
 Package pdftex.def Info: images/forest.png used on input line 23.
 (pdftex.def)             Requested size: 356.5115pt x 176.58713pt.
-) [11.11.0.0.4.1.0.0.0.1 <./images/forest.png>] [12.12.0.0.4.2]) [13.13.0.0.4.3
-.0.0.0.1] (./tools.tex) [14.14.0.0.5] (./test_data.tex)
-(./evaluation.tex) [15.15.0.0.7.0.0.0.0.1] (./results.tex
+) [13.13.0.0.4.1.0.0.0.1 <./images/forest.png>] [14.14.0.0.4.2]) [15.15.0.0.4.3
+.0.0.0.1] (./tools.tex) [16.16.0.0.5] (./test_data.tex)
+(./evaluation.tex) [17.17.0.0.7.0.0.0.0.1] (./results.tex
 Underfull \hbox (badness 10000) in paragraph at lines 33--33
 []|\T2A/ftm/m/n/12 ¬рем€
  []
 
-) [16.16.0.0.8] (./conclusions.tex
+) [18.18.0.0.8] (./conclusions.tex
 
-LaTeX Warning: Reference `trees_feat' on page 17 undefined on input line 11.
+LaTeX Warning: Reference `trees_feat' on page 19 undefined on input line 11.
 
-) [17.17.0.0.8.0.0.0.0.1] (./report.bbl
+) [19.19.0.0.8.0.0.0.0.1] (./report.bbl
 Underfull \hbox (badness 5316) in paragraph at lines 19--24
 []\T2A/ftm/m/n/12 Source Code Authorship Analysis For Supporting The Cybercrime
  Investigation Process.
@@ -821,41 +852,50 @@ d0f6e16e9eb.pdf (да-та об-ра-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--82
+Underfull \hbox (badness 1087) in paragraph at lines 79--82
+[]\T2A/ftm/m/n/12 ћакросы (C/C++) [Ёлек-трон-ный ре-сурс]. --- –е-жим до-сту-па
+: https://msdn.microsoft.com/ru-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--88
 []\T2A/ftm/m/n/12  лючевые сло-ва C++ [Ёлек-трон-ный ре-сурс]. --- –е-жим до-ст
 у-па:
  []
 
-[18.18.0.0.8]
-Underfull \hbox (badness 4726) in paragraph at lines 98--102
+[20.20.0.0.8]
+Underfull \hbox (badness 4752) in paragraph at lines 104--108
 []\T2A/ftm/m/n/12 Pygccxml --- pygccxml 1.8.3 documentation [Ёлек-трон-ный ре-с
 урс]. --- –е-жим до-сту-па:
  []
 
-) [19.19.0.0.8.0.0.0.0.1] 
+) [21.21.0.0.8.0.0.0.0.1] 
 AED: lastpage setting LastPage
-[20.20
+[22.22
 
 ] (./report.aux)
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 11045 strings out of 493013
- 160033 string characters out of 6135682
- 269884 words of memory out of 5000000
- 14262 multiletter control sequences out of 15000+600000
+ 11044 strings out of 493013
+ 159923 string characters out of 6135682
+ 263939 words of memory out of 5000000
+ 14260 multiletter control sequences out of 15000+600000
  21658 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 52i,10n,42p,1653b,724s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 52i,10n,42p,1178b,724s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/scalable-cyrfonts-tex/6r.enc}</usr/share/te
 xmf/fonts/type1/public/scalable-cyrfonts-tex/ftmb6w.pfb></usr/share/texmf/fonts
 /type1/public/scalable-cyrfonts-tex/ftmr6w.pfb>
-Output written on report.pdf (20 pages, 156327 bytes).
+Output written on report.pdf (22 pages, 137397 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
- 80 compressed objects within 1 object stream
- 20 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 115 PDF objects out of 1000 (max. 8388607)
+ 86 compressed objects within 1 object stream
+ 22 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

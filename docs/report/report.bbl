@@ -74,6 +74,12 @@
 \newblock ДиаСофт, 2001.
 \newblock -- 736~с.{}
 
+\bibitem{macros}
+\selectlanguageifdefined{russian}
+{Макросы (C/C++) [Электронный ресурс]}. --- Режим
+  доступа: https://msdn.microsoft.com/ru-ru/library/503x3e3s.aspx
+  (дата обращения: 23.02.2016).{}
+
 \bibitem{cppkeywords}
 \selectlanguageifdefined{russian}
 {Ключевые слова C++ [Электронный ресурс]}. ---

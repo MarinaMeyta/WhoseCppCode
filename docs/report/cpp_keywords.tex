@@ -1,0 +1,39 @@
+Ключевые слова С++ представляют собой список зарезервированных последовательностей символов, 
+используемых языком, недоступных для переопределения.
+
+Для ключевых слов языка С++ вычислялась статистическая мера TF (term frequency), 
+отображающая число вхождения некоторого ключевого слова к общему количеству слов в документе.
+Подсчет частот ключевых слов может дать представление о предпочтениях автора в определенного рода конструкциях,
+например, циклов <<for>> относитльно <<while>> или <<do while>>, 
+а также об уровне его профессиональной квалификации (определенные конструкции языка C/C++ используются крайне
+редко, сложны для понимания и предназначены для решения узкоспециализированных задач).
+
+Словарь из 84 ключевых слов С++ (стандарт 11) был взят на сайте с официальной документацией~\cite{cppkeywords} 
+и представлен в таблице~\ref{tab:3}.
+
+\begin{table}[ht]
+\caption{ Ключевые слова языка С++ (стандарт 11) }
+\label{tab:3}
+\begin{center}
+\begin{tabularx}{\linewidth}{|X|X|X|X|X|X|}
+\hline
+\multicolumn{6}{|c|}{Ключевые слова языка С++} \\
+\hline
+alignas & char32\_t & enum & namespace & return & try\\
+alignof & class & explicit & new & short & typedef\\
+and & compl & export & noexcept & signed & typeid\\
+and\_eq & const & extern & not & sizeof & typename\\
+asm & constexpr & false & not\_eq & static & union\\
+auto & const\_cast & float & nullptr & static\_assert & unsigned\\
+bitand & continue & for & operator & static\_cast & using\\
+bitor & decltype & friend & or & struct & virtual\\
+bool & default & goto & or\_eq & switch & void\\
+break & delete & if & private & template & volatile\\
+case & do & inline & protected & this & wchar\_t\\
+catch & double & int & public & thread\_local & while\\
+char & dynamic\_cast & long & register & throw & xor\\
+char16\_t & else & mutable & reinterpret\_cast & true & xor\_eq\\
+\hline
+\end{tabularx}
+\end{center}
+\end{table}
