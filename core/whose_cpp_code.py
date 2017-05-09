@@ -14,7 +14,6 @@ import re
 from itertools import compress
 from sklearn.model_selection import cross_val_score, KFold
 
-from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.ensemble import ExtraTreesClassifier
 from sklearn.ensemble import AdaBoostClassifier
 import json
@@ -50,7 +49,10 @@ def get_sample_matrix(filenames):
 
 def classify_authors(path_to_data, method):
     start_time = time.time()
-    filenames, authors = get_filenames(path_to_data)
+    # filenames = np.load(os.path.join(path_to_data, 'filenames.npy'))
+    authors = np.load(os.path.join(path_to_data, 'authors.npy'))
+    matrix = np.load(os.path.join(path_to_data, 'matrix.npy'))
+
     accuracy = []
     # precision, recall, f1_score, accuracy = []
     # add_test_namespace(filenames)
@@ -58,13 +60,11 @@ def classify_authors(path_to_data, method):
 
     # X is a whole original dataset of samples
     # y is corresponding authors
-    print('Getting sample matrix...')
-    X = get_sample_matrix(filenames)
+
+    X = matrix
     y = authors
 
-    if method == 'GradientBoostingClassifier':
-        classifier = GradientBoostingClassifier()
-    elif method == 'ExtraTreesClassifier':
+    if method == 'ExtraTreesClassifier':
         classifier = ExtraTreesClassifier(n_estimators=100)
     elif method == 'AdaBoostClassifier':
         classifier = AdaBoostClassifier(n_estimators=100)
@@ -102,7 +102,7 @@ def classify_authors(path_to_data, method):
         }
         report.append(fold_report)
 
-    with open('report.json', 'w', encoding='utf-8') as outfile:
+    with open('./results/report.json', 'w', encoding='utf-8') as outfile:
         json.dump(report, outfile, indent=4)
     return report
 
