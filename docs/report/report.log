@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  10 MAY 2017 01:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  10 MAY 2017 01:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -702,20 +702,14 @@ LaTeX Font Info:    Font shape `T2A/ftm/bx/n' in size <12> not available
 \tf@toc=\write3
 \openout3 = `report.toc'.
 
- [3.3.0.0.0.0.0.0.0.1] (./intro.tex)
+ [3.3.0.0.0.0.0.0.0.1] (./intro.tex) [4.4]
 (./kibevs.tex (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-) [4.4.0.0.1])
-Underfull \hbox (badness 10000) in paragraph at lines 21--33
-[]\T2A/ftm/m/n/12 ќфициальный сайт  »-Ѕ-Ё¬— [Ёлек-трон-ный ре-сурс]. ^^U –е-жим
- до-сту-па:
- []
-
-[5.5.0.0.1.0.0.0.0.1] (./overview.tex [6.6.0.0.2]) [7.7.0.0.2.1.0.0.0.1]
-(./features.tex
+)) [5.5.0.0.1.0.0.0.0.1] (./overview.tex [6.6.0.0.2]) [7.7.0.0.2.1.0.0.0.1] (./
+features.tex
 Underfull \hbox (badness 10000) in paragraph at lines 55--55
 \T2A/ftm/m/n/12 ше-ни€ чис-ла од-но-строч-ных
  []
@@ -792,79 +786,85 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--33
 LaTeX Warning: Reference `trees_feat' on page 19 undefined on input line 11.
 
 ) [19.19.0.0.8.0.0.0.0.1] (./report.bbl
-Underfull \hbox (badness 5316) in paragraph at lines 19--24
+Underfull \hbox (badness 2582) in paragraph at lines 19--24
+[]\T2A/ftm/m/n/12  афедра ком-плекс-ной ин-фор-ма-ци-он-ной без-опас-но-сти эле
+ктронно-вычислительных си-стем
+ []
+
+
+Underfull \hbox (badness 5316) in paragraph at lines 27--32
 []\T2A/ftm/m/n/12 Source Code Authorship Analysis For Supporting The Cybercrime
  Investigation Process.
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 19--24
+Underfull \hbox (badness 1028) in paragraph at lines 27--32
 \T2A/ftm/m/n/12 Georgia Frantzeskou, Efstathios Stamatatos, Stefanos Gritzalis 
 [Ёлек-трон-ный ре-сурс]. --- –е-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--33
+Underfull \hbox (badness 10000) in paragraph at lines 35--41
 []\T2A/ftm/m/n/12 ћаевский ƒ.ј. ќпре-де-ле-ние ав-тор-ства про-грамм-но-го обес
 -пе-че-ни€ по ис-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--33
+Underfull \hbox (badness 10000) in paragraph at lines 35--41
 \T2A/ftm/m/n/12 ход-но-му ко-ду про-грамм [Ёлек-трон-ный ре-сурс]. --- –е-жим д
 о-сту-па:
  []
 
 
-Underfull \hbox (badness 7308) in paragraph at lines 27--33
+Underfull \hbox (badness 7308) in paragraph at lines 35--41
 \T2A/ftm/m/n/12 http://www.khai.edu/csp/nauchportal/Arhiv/REKS/2014/REKS614/Mae
 vsky.pdf (да-та об-ра-ще-ни€:
  []
 
 
-Underfull \hbox (badness 2922) in paragraph at lines 36--41
+Underfull \hbox (badness 2922) in paragraph at lines 44--49
 \T2A/ftm/m/n/12 Sciences Department University of Wisconsin [Ёлек-трон-ный ре-с
 урс]. --- –е-жим до-сту-па:
  []
 
 
-Underfull \hbox (badness 4001) in paragraph at lines 36--41
+Underfull \hbox (badness 4001) in paragraph at lines 44--49
 \T2A/ftm/m/n/12 https://pdfs.semanticscholar.org/f9aa/790191a50bed02a877e1696c7
 bb71ea9f33a.pdf (да-та об-ра-ще-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--49
+Underfull \hbox (badness 10000) in paragraph at lines 52--57
 []\T2A/ftm/m/n/12 Source Code Authorship Attribution using n-grams. Steven Burr
 ows,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--49
+Underfull \hbox (badness 10000) in paragraph at lines 52--57
 \T2A/ftm/m/n/12 S.M.M. Tahaghoghi [Ёлек-трон-ный ре-сурс]. --- –е-жим до-сту-па
 :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--49
+Underfull \hbox (badness 10000) in paragraph at lines 52--57
 \T2A/ftm/m/n/12 https://pdfs.semanticscholar.org/79a2/1998c2f0afe2c616c01d590d6
 d0f6e16e9eb.pdf (да-та об-ра-
  []
 
-
-Underfull \hbox (badness 1087) in paragraph at lines 79--82
+[20.20.0.0.8]
+Underfull \hbox (badness 1087) in paragraph at lines 87--90
 []\T2A/ftm/m/n/12 ћакросы (C/C++) [Ёлек-трон-ный ре-сурс]. --- –е-жим до-сту-па
 : https://msdn.microsoft.com/ru-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--88
+Underfull \hbox (badness 10000) in paragraph at lines 93--96
 []\T2A/ftm/m/n/12  лючевые сло-ва C++ [Ёлек-трон-ный ре-сурс]. --- –е-жим до-ст
 у-па:
  []
 
-[20.20.0.0.8]
-Underfull \hbox (badness 4752) in paragraph at lines 104--108
+
+Underfull \hbox (badness 4792) in paragraph at lines 112--116
 []\T2A/ftm/m/n/12 Pygccxml --- pygccxml 1.8.3 documentation [Ёлек-трон-ный ре-с
 урс]. --- –е-жим до-сту-па:
  []
@@ -882,17 +882,17 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 11044 strings out of 493013
- 159923 string characters out of 6135682
- 263939 words of memory out of 5000000
- 14260 multiletter control sequences out of 15000+600000
+ 11045 strings out of 493013
+ 159931 string characters out of 6135682
+ 263944 words of memory out of 5000000
+ 14261 multiletter control sequences out of 15000+600000
  21658 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  52i,10n,42p,1178b,724s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/scalable-cyrfonts-tex/6r.enc}</usr/share/te
 xmf/fonts/type1/public/scalable-cyrfonts-tex/ftmb6w.pfb></usr/share/texmf/fonts
 /type1/public/scalable-cyrfonts-tex/ftmr6w.pfb>
-Output written on report.pdf (22 pages, 137397 bytes).
+Output written on report.pdf (22 pages, 137832 bytes).
 PDF statistics:
  115 PDF objects out of 1000 (max. 8388607)
  86 compressed objects within 1 object stream
