@@ -18,46 +18,50 @@ Warning--empty journal in castxml
 Warning--empty journal in pygccxml
 Warning--empty journal in scikit
 Warning--empty journal in matplotlib
+Warning--empty journal in burrows_big
+Warning--empty journal in GoogleCodeJam
+Warning--empty journal in GitHub
+Warning--empty journal in GH_domain
 Warning--empty journal in metrics
-You've used 17 entries,
+You've used 21 entries,
             2964 wiz_defined-function locations,
-            722 strings with 9360 characters,
-and the built_in function-call counts, 2625 in all, are:
-= -- 303
-> -- 21
+            737 strings with 10025 characters,
+and the built_in function-call counts, 3213 in all, are:
+= -- 371
+> -- 25
 < -- 1
-+ -- 18
++ -- 22
 - -- 1
-* -- 104
-:= -- 296
-add.period$ -- 36
-call.type$ -- 17
+* -- 128
+:= -- 360
+add.period$ -- 44
+call.type$ -- 21
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 33
-duplicate$ -- 171
-empty$ -- 367
+cite$ -- 41
+duplicate$ -- 211
+empty$ -- 451
 format.name$ -- 1
-if$ -- 690
+if$ -- 846
 int.to.chr$ -- 0
-int.to.str$ -- 17
+int.to.str$ -- 21
 missing$ -- 0
-newline$ -- 80
+newline$ -- 96
 num.names$ -- 3
-pop$ -- 137
+pop$ -- 169
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 68
+skip$ -- 84
 stack$ -- 0
 substring$ -- 0
-swap$ -- 38
+swap$ -- 46
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 16
+warning$ -- 20
 while$ -- 1
-width$ -- 19
-write$ -- 186
-(There were 16 warnings)
+width$ -- 23
+write$ -- 226
+(There were 20 warnings)

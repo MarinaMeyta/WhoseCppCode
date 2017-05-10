@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  10 MAY 2017 01:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  10 MAY 2017 23:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -775,17 +775,68 @@ File: images/forest.png Graphic file (type png)
 Package pdftex.def Info: images/forest.png used on input line 23.
 (pdftex.def)             Requested size: 356.5115pt x 176.58713pt.
 ) [13.13.0.0.4.1.0.0.0.1 <./images/forest.png>] [14.14.0.0.4.2]) [15.15.0.0.4.3
-.0.0.0.1] (./tools.tex) [16.16.0.0.5] (./test_data.tex)
-(./evaluation.tex) [17.17.0.0.7.0.0.0.0.1] (./results.tex
-Underfull \hbox (badness 10000) in paragraph at lines 33--33
-[]|\T2A/ftm/m/n/12 Время
+.0.0.0.1] (./tools.tex) [16.16.0.0.5] (./test_data.tex
+[17.17.0.0.6.0.0.0.0.1]
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
+[]\T2A/ftm/m/n/12 На ос-но-ве спис-ка поль-зо-ва-те-лей ав-то-ма-ти-че-ски, сре
+д-ства-ми про-грам-мы
  []
 
-) [18.18.0.0.8] (./conclusions.tex
 
-LaTeX Warning: Reference `trees_feat' on page 19 undefined on input line 11.
+Underfull \hbox (badness 1478) in paragraph at lines 83--83
+[]|\T2A/ftm/m/n/12 Всего фай-лов ис-ход-
+ []
 
-) [19.19.0.0.8.0.0.0.0.1] (./report.bbl
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+[]|\T2A/ftm/m/n/12 Минимальное чис-ло
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+[]|\T2A/ftm/m/n/12 Максимальное чис-ло
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 83--83
+[]|\T2A/ftm/m/n/12 Среднее чис-ло строк
+ []
+
+[18.18.0.0.6]) (./evaluation.tex) [19.19.0.0.7.0.0.0.0.1] (./results.tex
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 40--40
+[]|\T2A/ftm/m/n/12 Классификатор| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\T2A/ftm/m/n/12 Время ра-бо-
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 40--40
+[]|\T2A/ftm/m/n/12 Классификатор| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\T2A/ftm/m/n/12 Время ра-бо-
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 40--40
+[]|\T2A/ftm/m/n/12 Классификатор| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\T2A/ftm/m/n/12 Время ра-бо-
+ []
+
+) [20.20.0.0.8] (./conclusions.tex
+
+LaTeX Warning: Reference `trees_feat' on page 21 undefined on input line 11.
+
+) [21.21.0.0.8.0.0.0.0.1] (./report.bbl
 Underfull \hbox (badness 2582) in paragraph at lines 19--24
 []\T2A/ftm/m/n/12 Кафедра ком-плекс-ной ин-фор-ма-ци-он-ной без-опас-но-сти эле
 ктронно-вычислительных си-стем
@@ -851,7 +902,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--57
 d0f6e16e9eb.pdf (да-та об-ра-
  []
 
-[20.20.0.0.8]
+[22.22.0.0.8]
 Underfull \hbox (badness 1087) in paragraph at lines 87--90
 []\T2A/ftm/m/n/12 Макросы (C/C++) [Элек-трон-ный ре-сурс]. --- Ре-жим до-сту-па
 : https://msdn.microsoft.com/ru-
@@ -869,9 +920,27 @@ Underfull \hbox (badness 4792) in paragraph at lines 112--116
 урс]. --- Ре-жим до-сту-па:
  []
 
-) [21.21.0.0.8.0.0.0.0.1] 
+
+Underfull \hbox (badness 7081) in paragraph at lines 138--141
+[]\T2A/ftm/m/n/12 Code Jam Language Stats [Элек-трон-ный ре-сурс]. --- Ре-жим д
+о-сту-па: https://www.go-
+ []
+
+
+Underfull \hbox (badness 4303) in paragraph at lines 144--146
+[]\T2A/ftm/m/n/12 GitHub [Элек-трон-ный ре-сурс]. --- Ре-жим до-сту-па: https:/
+/github.com/ (да-та об-ра-ще-ния:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--153
+[]\T2A/ftm/m/n/12 GitHub Dominates the Forges [Элек-трон-ный ре-сурс]. --- Ре-ж
+им до-сту-па:
+ []
+
+) [23.23.0.0.8.0.0.0.0.1] 
 AED: lastpage setting LastPage
-[22.22
+[24.24
 
 ] (./report.aux)
 
@@ -882,20 +951,20 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 11045 strings out of 493013
- 159931 string characters out of 6135682
- 263944 words of memory out of 5000000
- 14261 multiletter control sequences out of 15000+600000
+ 11052 strings out of 493013
+ 160016 string characters out of 6135682
+ 263975 words of memory out of 5000000
+ 14266 multiletter control sequences out of 15000+600000
  21658 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  52i,10n,42p,1178b,724s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/scalable-cyrfonts-tex/6r.enc}</usr/share/te
 xmf/fonts/type1/public/scalable-cyrfonts-tex/ftmb6w.pfb></usr/share/texmf/fonts
 /type1/public/scalable-cyrfonts-tex/ftmr6w.pfb>
-Output written on report.pdf (22 pages, 137832 bytes).
+Output written on report.pdf (24 pages, 147084 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
- 86 compressed objects within 1 object stream
- 22 named destinations out of 1000 (max. 500000)
+ 123 PDF objects out of 1000 (max. 8388607)
+ 92 compressed objects within 1 object stream
+ 24 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
