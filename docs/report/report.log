@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  11 MAY 2017 02:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  11 MAY 2017 05:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -556,11 +556,7 @@ LaTeX Font Info:    Try loading font information for T2A+cmr on input line 5.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
-
-LaTeX Warning: Label `tab:3' multiply defined.
-
-)
+))
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
@@ -578,7 +574,8 @@ LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Try loading font information for OT1+ftm on input line 3.
- (/usr/share/texmf/tex/latex/scalable-cyrfonts-tex/ot1ftm.fd
+
+(/usr/share/texmf/tex/latex/scalable-cyrfonts-tex/ot1ftm.fd
 File: ot1ftm.fd 2014/01/03 Fontinst v1.933 font definitions for OT1/ftm.
 )
 LaTeX Font Info:    Try loading font information for T2A+ftm on input line 3.
@@ -692,91 +689,78 @@ Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-) (./title.tex
-LaTeX Font Info:    Font shape `T2A/ftm/bx/n' in size <12> not available
-(Font)              Font shape `T2A/ftm/b/n' tried instead on input line 5.
 )
-(./referat_ru.tex [1.1.0.0.0.0.0.0.0.1
+<title.pdf, id=1, 597.23125pt x 845.1575pt>
+File: title.pdf Graphic file (type pdf)
+ <use title.pdf>
+Package pdftex.def Info: title.pdf used on input line 4.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: title.pdf Graphic file (type pdf)
+ <use title.pdf>
+Package pdftex.def Info: title.pdf used on input line 4.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) [2.2] (./report.toc)
+<title.pdf, id=4, page=1, 597.23125pt x 845.1575pt>
+File: title.pdf Graphic file (type pdf)
+ <use title.pdf, page 1>
+Package pdftex.def Info: title.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: title.pdf Graphic file (type pdf)
+
+<use title.pdf, page 1>
+Package pdftex.def Info: title.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: title.pdf Graphic file (type pdf)
+ <use title.pdf, page 1>
+Package pdftex.def Info: title.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: title.pdf Graphic file (type pdf)
+ <use title.pdf, page 1>
+Package pdftex.def Info: title.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: title.pdf Graphic file (type pdf)
+
+<use title.pdf, page 1>
+Package pdftex.def Info: title.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [2.1.0.0.0.0.0.0.0.1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+ <./title.pdf>] (./referat_ru.tex) [3.2] (./report.toc)
 \tf@toc=\write3
 \openout3 = `report.toc'.
 
- [3.3.0.0.0.0.0.0.0.1] (./intro.tex) [4.4]
-(./kibevs.tex (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
+
+[4.3.0.0.0.0.0.0.0.1] (./intro.tex) [5.4] (./kibevs.tex
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-)) [5.5.0.0.1.0.0.0.0.1] (./overview.tex [6.6.0.0.2]) [7.7.0.0.2.1.0.0.0.1] (./
-features.tex
-Underfull \hbox (badness 10000) in paragraph at lines 55--55
-\T2A/ftm/m/n/12 ше-ни€ чис-ла од-но-строч-ных
+)) [6.5.0.0.1.0.0.0.0.1] (./overview.tex [7.6.0.0.2]
+LaTeX Font Info:    Font shape `T2A/ftm/bx/n' in size <12> not available
+(Font)              Font shape `T2A/ftm/b/n' tried instead on input line 59.
+) [8.7.0.0.2.0.0.0.0.1] (./features.tex
+Underfull \hbox (badness 4391) in paragraph at lines 22--24
+[]\T2A/ftm/m/n/12 —тиль рас-ста-нов-ки фи-гур-ных ско-бок --- к наи-бо-лее из-в
+ест-ным от-но-с€т <<K&R>>,
  []
 
-
-Underfull \hbox (badness 4378) in paragraph at lines 55--55
-\T2A/ftm/m/n/12 ше-ни€ чис-ла мно-го-строч-ных
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--76
-[]|\T2A/ftm/m/n/12  оэффициент про-бель-ных
- []
-
-
-Underfull \hbox (badness 2875) in paragraph at lines 117--117
-[]|\T2A/ftm/m/n/12 „исло рас-кры-ва-ю-щих-с€ ско-
- []
-
-
-Underfull \hbox (badness 2875) in paragraph at lines 117--117
-[]|\T2A/ftm/m/n/12 „исло рас-кры-ва-ю-щих-с€ ско-
- []
-
-
-Underfull \hbox (badness 2875) in paragraph at lines 117--117
-[]|\T2A/ftm/m/n/12 „исло рас-кры-ва-ю-щих-с€ ско-
- []
-
-
-Underfull \hbox (badness 2809) in paragraph at lines 117--117
-\T2A/ftm/m/n/12 ше-ни€ чис-ла за-кры-ва-ю-щих-с€
- []
-
-
-Underfull \hbox (badness 2809) in paragraph at lines 117--117
-\T2A/ftm/m/n/12 ше-ни€ чис-ла за-кры-ва-ю-щих-с€
- []
-
-
-Underfull \hbox (badness 2809) in paragraph at lines 117--117
-\T2A/ftm/m/n/12 ше-ни€ чис-ла за-кры-ва-ю-щих-с€
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[8.8.0.0.3.1] [9.9.0.0.3.1.0.0.0.1] [10.10.0.0.3.1] (./cpp_keywords.tex
+[9.8.0.0.3.1] (./cpp_keywords.tex
 Overfull \hbox (2.47453pt too wide) in paragraph at lines 37--37
 []|\T2A/ftm/m/n/12 reinterpret_cast| 
  []
 
-)) [11.11.0.0.3.2.0.0.0.1
+)) [10.9.0.0.3.2.0.0.0.1
 
-] (./classifiers.tex [12.12.0.0.4]
-(./random_forest.tex <images/forest.png, id=54, 642.4pt x 318.18875pt>
+] (./classifiers.tex [11.10.0.0.4] (./random_forest.tex <images/forest.png, id=
+62, 642.4pt x 318.18875pt>
 File: images/forest.png Graphic file (type png)
-
-<use images/forest.png>
+ <use images/forest.png>
 Package pdftex.def Info: images/forest.png used on input line 23.
 (pdftex.def)             Requested size: 356.5115pt x 176.58713pt.
-) [13.13.0.0.4.1.0.0.0.1 <./images/forest.png>] [14.14.0.0.4.2]) [15.15.0.0.4.3
-.0.0.0.1] (./tools.tex) [16.16.0.0.5] (./test_data.tex
-[17.17.0.0.6.0.0.0.0.1]
+)
+[12.11.0.0.4.1.0.0.0.1 <./images/forest.png>] [13.12.0.0.4.2]) [14.13.0.0.4.3.0
+.0.0.1] (./tools.tex) [15.14.0.0.5] (./test_data.tex [16.15.0.0.6.0.0.0.0.1]
 Underfull \hbox (badness 10000) in paragraph at lines 52--54
 []\T2A/ftm/m/n/12 Ќа ос-но-ве спис-ка поль-зо-ва-те-лей ав-то-ма-ти-че-ски, сре
 д-ства-ми про-грам-мы
@@ -802,7 +786,7 @@ Underfull \hbox (badness 1354) in paragraph at lines 83--83
 []|\T2A/ftm/m/n/12 —реднее чис-ло строк
  []
 
-[18.18.0.0.6]) (./evaluation.tex) [19.19.0.0.7.0.0.0.0.1] (./results.tex
+[17.16.0.0.6]) (./evaluation.tex) [18.17.0.0.7.0.0.0.0.1] (./results.tex
 Overfull \hbox (7.47856pt too wide) in paragraph at lines 40--40
 []|\T2A/ftm/m/n/12  лассификатор| 
  []
@@ -832,11 +816,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--40
 []|\T2A/ftm/m/n/12 ¬рем€ ра-бо-
  []
 
-) [20.20.0.0.8] (./conclusions.tex
+) [19.18.0.0.8] (./conclusions.tex
 
-LaTeX Warning: Reference `trees_feat' on page 21 undefined on input line 11.
+LaTeX Warning: Reference `trees_feat' on page 20 undefined on input line 11.
 
-) [21.21.0.0.8.0.0.0.0.1] (./report.bbl
+) [20.19.0.0.8.0.0.0.0.1] (./report.bbl
 Underfull \hbox (badness 2582) in paragraph at lines 19--24
 []\T2A/ftm/m/n/12  афедра ком-плекс-ной ин-фор-ма-ци-он-ной без-опас-но-сти эле
 ктронно-вычислительных си-стем
@@ -855,170 +839,199 @@ Underfull \hbox (badness 1028) in paragraph at lines 27--32
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--41
-[]\T2A/ftm/m/n/12 ћаевский ƒ.ј. ќпре-де-ле-ние ав-тор-ства про-грамм-но-го обес
--пе-че-ни€ по ис-
+Underfull \hbox (badness 3343) in paragraph at lines 35--40
+[]\T2A/ftm/m/n/12 Identifying Authorship by Byte-Level N-Grams: The Source Code
+ Author Profile (SCAP)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--41
-\T2A/ftm/m/n/12 ход-но-му ко-ду про-грамм [Ёлек-трон-ный ре-сурс]. --- –е-жим д
-о-сту-па:
+Underfull \hbox (badness 1275) in paragraph at lines 35--40
+\T2A/ftm/m/n/12 --- –е-жим до-сту-па: https://www.semanticscholar.org/paper/Ide
+ntifying-Authorship-by-Byte-Level-
  []
 
 
-Underfull \hbox (badness 7308) in paragraph at lines 35--41
-\T2A/ftm/m/n/12 http://www.khai.edu/csp/nauchportal/Arhiv/REKS/2014/REKS614/Mae
-vsky.pdf (да-та об-ра-ще-ни€:
- []
-
-
-Underfull \hbox (badness 2922) in paragraph at lines 44--49
+Underfull \hbox (badness 2922) in paragraph at lines 43--48
 \T2A/ftm/m/n/12 Sciences Department University of Wisconsin [Ёлек-трон-ный ре-с
 урс]. --- –е-жим до-сту-па:
  []
 
 
-Underfull \hbox (badness 4001) in paragraph at lines 44--49
+Underfull \hbox (badness 4001) in paragraph at lines 43--48
 \T2A/ftm/m/n/12 https://pdfs.semanticscholar.org/f9aa/790191a50bed02a877e1696c7
 bb71ea9f33a.pdf (да-та об-ра-ще-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--57
+Underfull \hbox (badness 10000) in paragraph at lines 51--56
 []\T2A/ftm/m/n/12 Source Code Authorship Attribution using n-grams. Steven Burr
 ows,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--57
+Underfull \hbox (badness 10000) in paragraph at lines 51--56
 \T2A/ftm/m/n/12 S.M.M. Tahaghoghi [Ёлек-трон-ный ре-сурс]. --- –е-жим до-сту-па
 :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--57
+Underfull \hbox (badness 10000) in paragraph at lines 51--56
 \T2A/ftm/m/n/12 https://pdfs.semanticscholar.org/79a2/1998c2f0afe2c616c01d590d6
 d0f6e16e9eb.pdf (да-та об-ра-
  []
 
-[22.22.0.0.8]
-Underfull \hbox (badness 1087) in paragraph at lines 87--90
+[21.20.0.0.8]
+Underfull \hbox (badness 1057) in paragraph at lines 101--104
 []\T2A/ftm/m/n/12 ћакросы (C/C++) [Ёлек-трон-ный ре-сурс]. --- –е-жим до-сту-па
 : https://msdn.microsoft.com/ru-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--96
+Underfull \hbox (badness 10000) in paragraph at lines 107--110
 []\T2A/ftm/m/n/12  лючевые сло-ва C++ [Ёлек-трон-ный ре-сурс]. --- –е-жим до-ст
 у-па:
  []
 
 
-Underfull \hbox (badness 4792) in paragraph at lines 112--116
+Underfull \hbox (badness 4792) in paragraph at lines 126--130
 []\T2A/ftm/m/n/12 Pygccxml --- pygccxml 1.8.3 documentation [Ёлек-трон-ный ре-с
 урс]. --- –е-жим до-сту-па:
  []
 
 
-Underfull \hbox (badness 7081) in paragraph at lines 138--141
+Underfull \hbox (badness 7081) in paragraph at lines 145--148
 []\T2A/ftm/m/n/12 Code Jam Language Stats [Ёлек-трон-ный ре-сурс]. --- –е-жим д
 о-сту-па: https://www.go-
  []
 
 
-Underfull \hbox (badness 4303) in paragraph at lines 144--146
+Underfull \hbox (badness 4132) in paragraph at lines 151--153
 []\T2A/ftm/m/n/12 GitHub [Ёлек-трон-ный ре-сурс]. --- –е-жим до-сту-па: https:/
 /github.com/ (да-та об-ра-ще-ни€:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--153
+Underfull \hbox (badness 10000) in paragraph at lines 156--160
 []\T2A/ftm/m/n/12 GitHub Dominates the Forges [Ёлек-трон-ный ре-сурс]. --- –е-ж
 им до-сту-па:
  []
 
-) [23.23.0.0.8.0.0.0.0.1]
-<overview_table.pdf, id=103, 597.23125pt x 845.1575pt>
+) [22.21.0.0.8.0.0.0.0.1] [23.22
+
+]
+<overview_table.pdf, id=115, 597.23125pt x 845.1575pt>
 File: overview_table.pdf Graphic file (type pdf)
 
 <use overview_table.pdf>
-Package pdftex.def Info: overview_table.pdf used on input line 95.
+Package pdftex.def Info: overview_table.pdf used on input line 97.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 File: overview_table.pdf Graphic file (type pdf)
  <use overview_table.pdf>
-Package pdftex.def Info: overview_table.pdf used on input line 95.
+Package pdftex.def Info: overview_table.pdf used on input line 97.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<overview_table.pdf, id=106, page=1, 597.23125pt x 845.1575pt>
+<overview_table.pdf, id=118, page=1, 597.23125pt x 845.1575pt>
 File: overview_table.pdf Graphic file (type pdf)
 
 <use overview_table.pdf, page 1>
-Package pdftex.def Info: overview_table.pdf, page1 used on input line 95.
+Package pdftex.def Info: overview_table.pdf, page1 used on input line 97.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 File: overview_table.pdf Graphic file (type pdf)
  <use overview_table.pdf, page 1>
-Package pdftex.def Info: overview_table.pdf, page1 used on input line 95.
+Package pdftex.def Info: overview_table.pdf, page1 used on input line 97.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [24.24
+ [24.23.0.0.0.0.0.0.0.1
 
 ]
 File: overview_table.pdf Graphic file (type pdf)
-
-<use overview_table.pdf, page 1>
-Package pdftex.def Info: overview_table.pdf, page1 used on input line 95.
+ <use overview_table.pdf, page 1>
+Package pdftex.def Info: overview_table.pdf, page1 used on input line 97.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: overview_table.pdf Graphic file (type pdf)
  <use overview_table.pdf, page 1>
-Package pdftex.def Info: overview_table.pdf, page1 used on input line 95.
+Package pdftex.def Info: overview_table.pdf, page1 used on input line 97.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: overview_table.pdf Graphic file (type pdf)
 
 <use overview_table.pdf, page 1>
-Package pdftex.def Info: overview_table.pdf, page1 used on input line 95.
+Package pdftex.def Info: overview_table.pdf, page1 used on input line 97.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [25.25.0.0.0.0.0.0.0.1 <./overview_table.pdf>] <overview_table.pdf, id=123, pa
-ge=2, 597.23125pt x 845.1575pt>
-File: overview_table.pdf Graphic file (type pdf)
+ [25.24 <./overview_table.pdf>]
+<lexical_features.pdf, id=134, 597.23125pt x 845.1575pt>
+File: lexical_features.pdf Graphic file (type pdf)
 
-<use overview_table.pdf, page 2>
-Package pdftex.def Info: overview_table.pdf, page2 used on input line 95.
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
-File: overview_table.pdf Graphic file (type pdf)
- <use overview_table.pdf, page 2>
-Package pdftex.def Info: overview_table.pdf, page2 used on input line 95.
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
-File: overview_table.pdf Graphic file (type pdf)
+<use lexical_features.pdf>
+Package pdftex.def Info: lexical_features.pdf used on input line 100.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: lexical_features.pdf Graphic file (type pdf)
+ <use lexical_features.pdf>
+Package pdftex.def Info: lexical_features.pdf used on input line 100.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<use overview_table.pdf, page 2>
-Package pdftex.def Info: overview_table.pdf, page2 used on input line 95.
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [26.26 <./overview_table.pdf>]
+<lexical_features.pdf, id=137, page=1, 597.23125pt x 845.1575pt>
+File: lexical_features.pdf Graphic file (type pdf)
 
+<use lexical_features.pdf, page 1>
+Package pdftex.def Info: lexical_features.pdf, page1 used on input line 100.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: lexical_features.pdf Graphic file (type pdf)
+ <use lexical_features.pdf, page 1>
+Package pdftex.def Info: lexical_features.pdf, page1 used on input line 100.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [26.25.0.0.0.0.0.0.0.1
+
+]
+File: lexical_features.pdf Graphic file (type pdf)
+ <use lexical_features.pdf, page 1>
+Package pdftex.def Info: lexical_features.pdf, page1 used on input line 100.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: lexical_features.pdf Graphic file (type pdf)
+
+<use lexical_features.pdf, page 1>
+Package pdftex.def Info: lexical_features.pdf, page1 used on input line 100.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: lexical_features.pdf Graphic file (type pdf)
+ <use lexical_features.pdf, page 1>
+Package pdftex.def Info: lexical_features.pdf, page1 used on input line 100.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [27.26 <./lexical_features.pdf>]
+<lexical_features.pdf, id=154, page=2, 597.23125pt x 845.1575pt>
+File: lexical_features.pdf Graphic file (type pdf)
+
+<use lexical_features.pdf, page 2>
+Package pdftex.def Info: lexical_features.pdf, page2 used on input line 100.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: lexical_features.pdf Graphic file (type pdf)
+ <use lexical_features.pdf, page 2>
+Package pdftex.def Info: lexical_features.pdf, page2 used on input line 100.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: lexical_features.pdf Graphic file (type pdf)
+
+<use lexical_features.pdf, page 2>
+Package pdftex.def Info: lexical_features.pdf, page2 used on input line 100.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [28.27.0.0.0.0.0.0.0.1 <./lexical_features.pdf>] 
 AED: lastpage setting LastPage
 (./report.aux)
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 11065 strings out of 493013
- 160311 string characters out of 6135682
- 263975 words of memory out of 5000000
- 14276 multiletter control sequences out of 15000+600000
+ 11077 strings out of 493013
+ 160620 string characters out of 6135682
+ 263910 words of memory out of 5000000
+ 14288 multiletter control sequences out of 15000+600000
  21658 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 52i,18n,46p,1178b,724s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 52i,18n,46p,760b,724s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/scalable-cyrfonts-tex/6r.enc}</usr/share/te
 xmf/fonts/type1/public/scalable-cyrfonts-tex/ftmb6w.pfb></usr/share/texmf/fonts
 /type1/public/scalable-cyrfonts-tex/ftmr6w.pfb>
-Output written on report.pdf (26 pages, 178150 bytes).
+Output written on report.pdf (27 pages, 219791 bytes).
 PDF statistics:
- 147 PDF objects out of 1000 (max. 8388607)
- 106 compressed objects within 2 object streams
- 26 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 178 PDF objects out of 1000 (max. 8388607)
+ 122 compressed objects within 2 object streams
+ 27 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
 

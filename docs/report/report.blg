@@ -6,11 +6,13 @@ Database file #1: lit.bib
 Warning--empty journal in ostusur
 Warning--empty journal in kibevs
 Warning--empty journal in frantz
-Warning--empty journal in maevsky
+Warning--empty journal in frantz_2
 Warning--empty journal in pellin
 Warning--empty journal in burrows
+Warning--empty journal in burrows_big
 Warning--empty journal in caliskan
 Warning--empty journal in random_forest
+Warning--empty journal in git_blame
 Warning--empty journal in macros
 Warning--empty journal in cppkeywords
 Warning--empty journal in python
@@ -18,50 +20,49 @@ Warning--empty journal in castxml
 Warning--empty journal in pygccxml
 Warning--empty journal in scikit
 Warning--empty journal in matplotlib
-Warning--empty journal in burrows_big
 Warning--empty journal in GoogleCodeJam
 Warning--empty journal in GitHub
 Warning--empty journal in GH_domain
 Warning--empty journal in metrics
-You've used 21 entries,
+You've used 22 entries,
             2964 wiz_defined-function locations,
-            737 strings with 10025 characters,
-and the built_in function-call counts, 3213 in all, are:
-= -- 371
-> -- 25
+            740 strings with 10375 characters,
+and the built_in function-call counts, 3360 in all, are:
+= -- 388
+> -- 26
 < -- 1
-+ -- 22
++ -- 23
 - -- 1
-* -- 128
-:= -- 360
-add.period$ -- 44
-call.type$ -- 21
+* -- 134
+:= -- 376
+add.period$ -- 46
+call.type$ -- 22
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 41
-duplicate$ -- 211
-empty$ -- 451
+cite$ -- 43
+duplicate$ -- 221
+empty$ -- 472
 format.name$ -- 1
-if$ -- 846
+if$ -- 885
 int.to.chr$ -- 0
-int.to.str$ -- 21
+int.to.str$ -- 22
 missing$ -- 0
-newline$ -- 96
+newline$ -- 100
 num.names$ -- 3
-pop$ -- 169
+pop$ -- 177
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 84
+skip$ -- 88
 stack$ -- 0
 substring$ -- 0
-swap$ -- 46
+swap$ -- 48
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 20
+warning$ -- 21
 while$ -- 1
-width$ -- 23
-write$ -- 226
-(There were 20 warnings)
+width$ -- 24
+write$ -- 236
+(There were 21 warnings)

@@ -30,14 +30,13 @@
   http://www.icsd.aegean.gr/lecturers/stamatatos/papers/ICETE2005.pdf (дата
   обращения: 23.10.2016).{}
 
-\bibitem{maevsky}
-\selectlanguageifdefined{russian}
-{Маевский Д.А. Определение авторства
-  программного обеспечения по исходному
-  коду программ [Электронный ресурс]}. ---
-  Режим доступа:
-  http://www.khai.edu/csp/nauchportal/Arhiv/REKS/2014/REKS614/Maevsky.pdf
-  (дата обращения: 17.12.2016).{}
+\bibitem{frantz_2}
+\selectlanguageifdefined{english}
+{Identifying Authorship by Byte-Level N-Grams: The Source Code Author Profile
+  (SCAP) Method. Georgia Frantzeskou, Efstathios Stamatatos, Stefanos Gritzalis
+  [Электронный ресурс]}. --- Режим доступа:
+  https://www.semanticscholar.org/paper/Identifying-Authorship-by-Byte-Level-N-Grams-The-Frantzeskou-Stamatatos/3b2531ea2685b9fb9abf071d119974ac3405874d
+  (дата обращения: 15.02.2017).{}
 
 \bibitem{pellin}
 \selectlanguageifdefined{english}
@@ -54,6 +53,13 @@
   доступа:
   https://pdfs.semanticscholar.org/79a2/1998c2f0afe2c616c01d590d6d0f6e16e9eb.pdf
   (дата обращения: 23.10.2016).{}
+
+\bibitem{burrows_big}
+\selectlanguageifdefined{english}
+{Source Code Authorship Attribution. Steven Burrows [Электронный
+  ресурс]}. --- Режим доступа:
+  http://researchbank.rmit.edu.au/eserv/rmit:10828/Burrows.pdf (дата
+  обращения: 23.10.2016).{}
 
 \bibitem{caliskan}
 \selectlanguageifdefined{english}
@@ -72,6 +78,14 @@
   [Электронный ресурс]}. --- Режим доступа:
   http://stat.ethz.ch/education/semesters/ss2012/ams/slides/v10.2.pdf (дата
   обращения: 23.10.2016).{}
+
+\bibitem{git_blame}
+\selectlanguageifdefined{english}
+{Git Blame Who?: Stylistic Authorship Attribution of Small, Incomplete Source
+  Code Fragments. Edwin Dauber, Aylin Caliskan, Richard Harang, Rachel
+  Greenstadt [Электронный ресурс]}. --- Режим
+  доступа: https://arxiv.org/abs/1701.05681 (дата
+  обращения: 10.03.2017).{}
 
 \bibitem{bracing_styles}
 \selectlanguageifdefined{russian}
@@ -125,13 +139,6 @@
 {Matplotlib: Python Plotting [Электронный ресурс]}. ---
   Режим доступа: http://matplotlib.org/ (дата
   обращения: 25.10.2016).{}
-
-\bibitem{burrows_big}
-\selectlanguageifdefined{english}
-{Source Code Authorship Attribution. Steven Burrows [Электронный
-  ресурс]}. --- Режим доступа:
-  http://researchbank.rmit.edu.au/eserv/rmit:10828/Burrows.pdf (дата
-  обращения: 23.10.2016).{}
 
 \bibitem{GoogleCodeJam}
 \selectlanguageifdefined{english}
