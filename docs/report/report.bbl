@@ -7,6 +7,12 @@
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{(#1)}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
+\bibitem{jupyter}
+\selectlanguageifdefined{english}
+{The Jupyter Notebook [Электронный ресурс]}. --- Режим
+  доступа: http://jupyter.org/ (дата обращения:
+  02.04.2017).{}
+
 \bibitem{ostusur}
 \selectlanguageifdefined{russian}
 {Образовательный стандарт ВУЗа ОС ТУСУР
@@ -108,37 +114,19 @@
   Режим доступа: http://ru.cppreference.com/w/cpp/keyword (дата
   обращения: 12.10.2016).{}
 
-\bibitem{python}
-\selectlanguageifdefined{english}
-{Python 3.5.2 [Электронный ресурс]}. --- Режим
-  доступа: https://www.python.org/ (дата обращения:
-  25.10.2016).{}
+\bibitem{ada_boost}
+\selectlanguageifdefined{russian}
+{Алгоритм AdaBoost [Электронный ресурс]}. ---
+  Режим доступа:
+  http://www.machinelearning.ru/wiki/index.php?title=AdaBoost (дата
+  обращения: 27.04.2017).{}
 
-\bibitem{castxml}
+\bibitem{extra_trees}
 \selectlanguageifdefined{english}
-{CastXML C-family Abstract Syntax Tree XML Output [Электронный
-  ресурс]}. --- Режим доступа:
-  https://github.com/CastXML/CastXML (дата обращения:
-  25.10.2016).{}
-
-\bibitem{pygccxml}
-\selectlanguageifdefined{english}
-{Pygccxml --- pygccxml 1.8.3 documentation [Электронный
-  ресурс]}. --- Режим доступа:
-  http://pygccxml.readthedocs.io/en/develop/ (дата обращения:
-  25.10.2016).{}
-
-\bibitem{scikit}
-\selectlanguageifdefined{english}
-{Scikit-learn --- Machine Learning in Python [Электронный
-  ресурс]}. --- Режим доступа:
-  http://scikit-learn.org/stable/ (дата обращения: 25.10.2016).{}
-
-\bibitem{matplotlib}
-\selectlanguageifdefined{english}
-{Matplotlib: Python Plotting [Электронный ресурс]}. ---
-  Режим доступа: http://matplotlib.org/ (дата
-  обращения: 25.10.2016).{}
+{Extremely randomized trees. Pierre Geurts, Damien Ernst, Louis Wehenkel
+  [Электронный ресурс]}. --- Режим доступа:
+  https://pdfs.semanticscholar.org/336a/165c17c9c56160d332b9f4a2b403fccbdbfb.pdf
+  (дата обращения: 28.04.2017).{}
 
 \bibitem{GoogleCodeJam}
 \selectlanguageifdefined{english}
