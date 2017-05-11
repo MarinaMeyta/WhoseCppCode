@@ -3,8 +3,13 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: report.aux
 The style file: utf8gost705u.bst
 Database file #1: lit.bib
-Warning--empty journal in jupyter
+Repeated entry---line 208 of file lit.bib
+ : @article{scikit
+ :                ,
+I'm skipping whatever remains of this entry
 Warning--empty journal in ostusur
+Warning--empty journal in google_style
+Warning--empty journal in geosoft
 Warning--empty journal in kibevs
 Warning--empty journal in frantz
 Warning--empty journal in frantz_2
@@ -24,46 +29,53 @@ Warning--empty journal in extra_trees
 Warning--empty journal in GoogleCodeJam
 Warning--empty journal in GitHub
 Warning--empty journal in GH_domain
+Warning--empty journal in jupyter
+Warning--empty journal in scikit
+Warning--empty journal in plotly
+Warning--empty journal in numpy
+Warning--empty journal in scipy
+Warning--empty journal in pandas
+Warning--empty journal in widgets
 Warning--empty journal in metrics
-You've used 23 entries,
+You've used 31 entries,
             2964 wiz_defined-function locations,
-            743 strings with 11061 characters,
-and the built_in function-call counts, 3507 in all, are:
-= -- 405
-> -- 27
+            767 strings with 12222 characters,
+and the built_in function-call counts, 4683 in all, are:
+= -- 541
+> -- 35
 < -- 1
-+ -- 24
++ -- 32
 - -- 1
-* -- 140
-:= -- 392
-add.period$ -- 48
-call.type$ -- 23
+* -- 188
+:= -- 520
+add.period$ -- 64
+call.type$ -- 31
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 45
-duplicate$ -- 231
-empty$ -- 493
+cite$ -- 61
+duplicate$ -- 311
+empty$ -- 661
 format.name$ -- 1
-if$ -- 924
+if$ -- 1236
 int.to.chr$ -- 0
-int.to.str$ -- 23
+int.to.str$ -- 31
 missing$ -- 0
-newline$ -- 104
+newline$ -- 136
 num.names$ -- 3
-pop$ -- 185
+pop$ -- 249
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 92
+skip$ -- 124
 stack$ -- 0
 substring$ -- 0
-swap$ -- 50
+swap$ -- 66
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 22
+warning$ -- 30
 while$ -- 1
-width$ -- 25
-write$ -- 246
-(There were 22 warnings)
+width$ -- 33
+write$ -- 326
+(There was 1 error message)

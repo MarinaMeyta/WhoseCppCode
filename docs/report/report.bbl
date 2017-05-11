@@ -7,18 +7,24 @@
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{(#1)}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
-\bibitem{jupyter}
-\selectlanguageifdefined{english}
-{The Jupyter Notebook [Электронный ресурс]}. --- Режим
-  доступа: http://jupyter.org/ (дата обращения:
-  02.04.2017).{}
-
 \bibitem{ostusur}
 \selectlanguageifdefined{russian}
 {Образовательный стандарт ВУЗа ОС ТУСУР
   01-2013 [Электронный ресурс]}. --- Режим
   доступа: https://storage.tusur.ru/files/40668/rules\_tech\_01-2013.pdf
   (дата обращения: 15.12.2016).{}
+
+\bibitem{google_style}
+\selectlanguageifdefined{english}
+{Google C++ Style Guide [Электронный ресурс]}. --- Режим
+  доступа: https://google.github.io/styleguide/cppguide.html (дата
+  обращения: 28.04.2017).{}
+
+\bibitem{geosoft}
+\selectlanguageifdefined{english}
+{C++ Programming Style Guidelines [Электронный ресурс]}. ---
+  Режим доступа: http://geosoft.no/development/cppstyle.html
+  (дата обращения: 28.04.2017).{}
 
 \bibitem{kibevs}
 \selectlanguageifdefined{russian}
@@ -34,7 +40,7 @@
   Process. Georgia Frantzeskou, Efstathios Stamatatos, Stefanos Gritzalis
   [Электронный ресурс]}. --- Режим доступа:
   http://www.icsd.aegean.gr/lecturers/stamatatos/papers/ICETE2005.pdf (дата
-  обращения: 23.10.2016).{}
+  обращения: 17.02.2017).{}
 
 \bibitem{frantz_2}
 \selectlanguageifdefined{english}
@@ -50,7 +56,7 @@
   Pellin Computer Sciences Department University of Wisconsin
   [Электронный ресурс]}. --- Режим доступа:
   https://pdfs.semanticscholar.org/f9aa/790191a50bed02a877e1696c7bb71ea9f33a.pdf
-  (дата обращения: 23.10.2016).{}
+  (дата обращения: 25.02.2017).{}
 
 \bibitem{burrows}
 \selectlanguageifdefined{english}
@@ -58,14 +64,14 @@
   Tahaghoghi [Электронный ресурс]}. --- Режим
   доступа:
   https://pdfs.semanticscholar.org/79a2/1998c2f0afe2c616c01d590d6d0f6e16e9eb.pdf
-  (дата обращения: 23.10.2016).{}
+  (дата обращения: 23.02.2017).{}
 
 \bibitem{burrows_big}
 \selectlanguageifdefined{english}
 {Source Code Authorship Attribution. Steven Burrows [Электронный
   ресурс]}. --- Режим доступа:
   http://researchbank.rmit.edu.au/eserv/rmit:10828/Burrows.pdf (дата
-  обращения: 23.10.2016).{}
+  обращения: 23.02.2017).{}
 
 \bibitem{burrows_3}
 \selectlanguageifdefined{english}
@@ -74,7 +80,7 @@
   ресурс]}. --- Режим доступа:
   https://www.researchgate.net/publication/220787332\_Application\_of\_Information\_Retrieval\_Techni-
   ques\_for\_Source\_Code\_Authorship\_Attribution (дата
-  обращения: 23.10.2016).{}
+  обращения: 23.02.2017).{}
 
 \bibitem{caliskan}
 \selectlanguageifdefined{english}
@@ -85,14 +91,14 @@
   Rachel Greenstadt, Drexel University [Электронный ресурс]}.
   --- Режим доступа:
   https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-caliskan-islam.pdf
-  (дата обращения: 07.09.2016).{}
+  (дата обращения: 18.02.2017).{}
 
 \bibitem{random_forest}
 \selectlanguageifdefined{english}
 {Random Forest. Applied Multivariate Statistics --- Spring 2012
   [Электронный ресурс]}. --- Режим доступа:
   http://stat.ethz.ch/education/semesters/ss2012/ams/slides/v10.2.pdf (дата
-  обращения: 23.10.2016).{}
+  обращения: 17.02.2017).{}
 
 \bibitem{git_blame}
 \selectlanguageifdefined{english}
@@ -121,7 +127,7 @@
 \selectlanguageifdefined{russian}
 {Ключевые слова C++ [Электронный ресурс]}. ---
   Режим доступа: http://ru.cppreference.com/w/cpp/keyword (дата
-  обращения: 12.10.2016).{}
+  обращения: 12.03.2017).{}
 
 \bibitem{data_mining}
 \selectlanguageifdefined{russian}
@@ -170,12 +176,52 @@
   https://github.com/blog/865-github-dominates-the-forges (дата
   обращения: 10.05.2017).{}
 
+\bibitem{jupyter}
+\selectlanguageifdefined{english}
+{The Jupyter Notebook [Электронный ресурс]}. --- Режим
+  доступа: http://jupyter.org/ (дата обращения:
+  02.04.2017).{}
+
+\bibitem{scikit}
+\selectlanguageifdefined{english}
+{Scikit-learn --- Machine Learning in Python [Электронный
+  ресурс]}. --- Режим доступа:
+  http://scikit-learn.org/stable/ (дата обращения: 02.03.2017).{}
+
+\bibitem{plotly}
+\selectlanguageifdefined{english}
+{Plotly Python Library [Электронный ресурс]}. --- Режим
+  доступа: https://plot.ly/python/ (дата обращения:
+  25.02.2017).{}
+
+\bibitem{numpy}
+\selectlanguageifdefined{english}
+{NumPy [Электронный ресурс]}. --- Режим доступа:
+  http://www.numpy.org/ (дата обращения: 25.02.2017).{}
+
+\bibitem{scipy}
+\selectlanguageifdefined{english}
+{SciPy [Электронный ресурс]}. --- Режим доступа:
+  https://www.scipy.org/ (дата обращения: 25.02.2017).{}
+
+\bibitem{pandas}
+\selectlanguageifdefined{english}
+{Python Data Analysis Library [Электронный ресурс]}. ---
+  Режим доступа: http://pandas.pydata.org/ (дата
+  обращения: 25.02.2017).{}
+
+\bibitem{widgets}
+\selectlanguageifdefined{english}
+{ipywidgets: Interactive HTML Widgets [Электронный ресурс]}.
+  --- Режим доступа: https://github.com/jupyter-widgets/ipywidgets
+  (дата обращения: 09.03.2017).{}
+
 \bibitem{metrics}
 \selectlanguageifdefined{russian}
 {Оценка классификатора (точность, полнота,
   F-мера) [Электронный ресурс]}. --- Режим
   доступа:
   http://bazhenov.me/blog/2012/07/21/classification-performance-evaluation.html
-  (дата обращения: 17.12.2016).{}
+  (дата обращения: 17.02.2017).{}
 
 \end{thebibliography}
