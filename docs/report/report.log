@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  11 MAY 2017 22:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  11 MAY 2017 23:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -882,36 +882,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--41
 []|\T2A/ftm/m/n/12 ¬рем€ ра-бо-
  []
 
-<images/students.png, id=117, 455.45157pt x 255.95625pt>
+<images/students.png, id=117, 362.3136pt x 271.2534pt>
 File: images/students.png Graphic file (type png)
 
 <use images/students.png>
 Package pdftex.def Info: images/students.png used on input line 46.
-(pdftex.def)             Requested size: 458.37083pt x 257.60376pt.
-
-<images/google.png, id=118, 455.45157pt x 255.95625pt>
+(pdftex.def)             Requested size: 305.58572pt x 228.78256pt.
+ <images/google.png, id=118, 361.8318pt x 271.2534pt>
 File: images/google.png Graphic file (type png)
- <use images/google.png>
+
+<use images/google.png>
 Package pdftex.def Info: images/google.png used on input line 52.
-(pdftex.def)             Requested size: 458.37083pt x 257.60376pt.
+(pdftex.def)             Requested size: 305.58572pt x 229.09712pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/github.png, id=119, 455.45157pt x 255.95625pt>
+<images/github.png, id=119, 362.3136pt x 271.2534pt>
 File: images/github.png Graphic file (type png)
  <use images/github.png>
 Package pdftex.def Info: images/github.png used on input line 58.
-(pdftex.def)             Requested size: 458.37083pt x 257.60376pt.
+(pdftex.def)             Requested size: 305.58572pt x 228.78256pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[22.21.0.0.9.0.0.0.0.1 <./images/students.png (PNG copy)>] [23.22.0.0.9 <./imag
-es/google.png (PNG copy)> <./images/github.png (PNG copy)>]) (./conclusions.tex
-) [24.23.0.0.9.0.0.0.0.1
+[22.21.0.0.9.0.0.0.0.1 <./images/students.png>] [23.22.0.0.9 <./images/google.p
+ng> <./images/github.png>]) (./conclusions.tex) [24.23.0.0.9.0.0.0.0.1
 
-] (./report.bbl
+]
+(./report.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 19--22
 []\T2A/ftm/m/n/12 Google C++ Style Guide [Ёлек-трон-ный ре-сурс]. --- –е-жим до
 -сту-па:
@@ -1046,7 +1046,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 215--218
 ) [27.26.0.0.9]
 LaTeX Font Info:    Font shape `T2A/ftm/bx/n' in size <12> not available
 (Font)              Font shape `T2A/ftm/b/n' tried instead on input line 99.
- <overview_table.pdf, id=145, 597.23125pt x 845.1575pt>
+ <overview_table.pdf, id=148, 597.23125pt x 845.1575pt>
 File: overview_table.pdf Graphic file (type pdf)
 
 <use overview_table.pdf>
@@ -1057,7 +1057,7 @@ File: overview_table.pdf Graphic file (type pdf)
 Package pdftex.def Info: overview_table.pdf used on input line 109.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<overview_table.pdf, id=148, page=1, 597.23125pt x 845.1575pt>
+<overview_table.pdf, id=151, page=1, 597.23125pt x 845.1575pt>
 File: overview_table.pdf Graphic file (type pdf)
 
 <use overview_table.pdf, page 1>
@@ -1084,7 +1084,7 @@ File: overview_table.pdf Graphic file (type pdf)
 Package pdftex.def Info: overview_table.pdf, page1 used on input line 109.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
  [29.28 <./overview_table.pdf>]
-<overview_table.pdf, id=164, page=2, 597.23125pt x 845.1575pt>
+<overview_table.pdf, id=167, page=2, 597.23125pt x 845.1575pt>
 File: overview_table.pdf Graphic file (type pdf)
 
 <use overview_table.pdf, page 2>
@@ -1099,7 +1099,7 @@ File: overview_table.pdf Graphic file (type pdf)
 <use overview_table.pdf, page 2>
 Package pdftex.def Info: overview_table.pdf, page2 used on input line 109.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [30.29.0.0.0.0.0.0.0.1 <./overview_table.pdf>] <lexical_features.pdf, id=171, 
+ [30.29.0.0.0.0.0.0.0.1 <./overview_table.pdf>] <lexical_features.pdf, id=174, 
 597.23125pt x 845.1575pt>
 File: lexical_features.pdf Graphic file (type pdf)
 
@@ -1111,7 +1111,7 @@ File: lexical_features.pdf Graphic file (type pdf)
 Package pdftex.def Info: lexical_features.pdf used on input line 112.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<lexical_features.pdf, id=174, page=1, 597.23125pt x 845.1575pt>
+<lexical_features.pdf, id=177, page=1, 597.23125pt x 845.1575pt>
 File: lexical_features.pdf Graphic file (type pdf)
 
 <use lexical_features.pdf, page 1>
@@ -1136,7 +1136,7 @@ File: lexical_features.pdf Graphic file (type pdf)
 Package pdftex.def Info: lexical_features.pdf, page1 used on input line 112.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
  [31.30 <./lexical_features.pdf>]
-<lexical_features.pdf, id=186, page=2, 597.23125pt x 845.1575pt>
+<lexical_features.pdf, id=189, page=2, 597.23125pt x 845.1575pt>
 File: lexical_features.pdf Graphic file (type pdf)
 
 <use lexical_features.pdf, page 2>
@@ -1169,9 +1169,9 @@ Here is how much of TeX's memory you used:
 {/usr/share/texmf/fonts/enc/dvips/scalable-cyrfonts-tex/6r.enc}</usr/share/te
 xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fo
 nts/type1/public/scalable-cyrfonts-tex/ftmr6w.pfb>
-Output written on report.pdf (31 pages, 393580 bytes).
+Output written on report.pdf (31 pages, 366787 bytes).
 PDF statistics:
- 211 PDF objects out of 1000 (max. 8388607)
+ 214 PDF objects out of 1000 (max. 8388607)
  137 compressed objects within 2 object streams
  31 named destinations out of 1000 (max. 500000)
  121 words of extra memory for PDF output out of 10000 (max. 10000000)
