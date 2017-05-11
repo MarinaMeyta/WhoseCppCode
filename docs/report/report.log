@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  11 MAY 2017 06:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  11 MAY 2017 07:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -736,10 +736,8 @@ File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-)) [6.5.0.0.1.0.0.0.0.1] (./overview.tex [7.6.0.0.2]
-LaTeX Font Info:    Font shape `T2A/ftm/bx/n' in size <12> not available
-(Font)              Font shape `T2A/ftm/b/n' tried instead on input line 59.
-) [8.7.0.0.2.0.0.0.0.1] (./features.tex
+)) [6.5.0.0.1.0.0.0.0.1] (./overview.tex [7.6.0.0.2]) [8.7.0.0.2.0.0.0.0.1] (./
+features.tex
 Underfull \hbox (badness 4391) in paragraph at lines 22--24
 []\T2A/ftm/m/n/12 Стиль рас-ста-нов-ки фи-гур-ных ско-бок --- к наи-бо-лее из-в
 ест-ным от-но-сят <<K&R>>,
@@ -753,20 +751,20 @@ Overfull \hbox (2.47453pt too wide) in paragraph at lines 37--37
 )) [10.9.0.0.3.2.0.0.0.1
 
 ] (./model.tex
-<images/box_1.png, id=58, 623.32875pt x 408.52625pt>
+<images/box_1.png, id=57, 623.32875pt x 408.52625pt>
 File: images/box_1.png Graphic file (type png)
  <use images/box_1.png>
 Package pdftex.def Info: images/box_1.png used on input line 4.
 (pdftex.def)             Requested size: 305.58572pt x 200.27934pt.
 
-<images/box_2.png, id=59, 1033.8625pt x 618.31pt>
+<images/box_2.png, id=58, 1033.8625pt x 618.31pt>
 File: images/box_2.png Graphic file (type png)
  <use images/box_2.png>
 Package pdftex.def Info: images/box_2.png used on input line 10.
 (pdftex.def)             Requested size: 509.30438pt x 304.5973pt.
 )
 [11.10.0.0.4 <./images/box_1.png> <./images/box_2.png>] (./classifiers.tex
-(./random_forest.tex <images/forest.png, id=64, 642.4pt x 318.18875pt>
+(./random_forest.tex <images/forest.png, id=63, 642.4pt x 318.18875pt>
 File: images/forest.png Graphic file (type png)
 
 <use images/forest.png>
@@ -805,6 +803,8 @@ Underfull \hbox (badness 1354) in paragraph at lines 83--83
 []|\T2A/ftm/m/n/12 Среднее чис-ло строк
  []
 
+LaTeX Font Info:    Font shape `T2A/ftm/bx/n' in size <12> not available
+(Font)              Font shape `T2A/ftm/b/n' tried instead on input line 93.
 [15.14.0.0.6]) (./evaluation.tex) [16.15.0.0.7.0.0.0.0.1] (./results.tex
 Overfull \hbox (7.47856pt too wide) in paragraph at lines 40--40
 []|\T2A/ftm/m/n/12 Классификатор| 
@@ -835,9 +835,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--40
 []|\T2A/ftm/m/n/12 Время ра-бо-
  []
 
-) [17.16.0.0.8] (./admin.tex) [18.17.0.0.9.0.0.0.0.1] (./proger.tex) [19.18.0.0
-.10] (./user.tex) [20.19.0.0.11.0.0.0.0.1] (./conclusions.tex) [21.20.0.0.11]
-(./report.bbl
+) [17.16.0.0.8] (./conclusions.tex) [18.17.0.0.8.0.0.0.0.1] (./report.bbl
 Underfull \hbox (badness 2582) in paragraph at lines 25--30
 []\T2A/ftm/m/n/12 Кафедра ком-плекс-ной ин-фор-ма-ци-он-ной без-опас-но-сти эле
 ктронно-вычислительных си-стем
@@ -897,7 +895,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--62
 d0f6e16e9eb.pdf (да-та об-ра-
  []
 
-[22.21.0.0.11.0.0.0.0.1]
+[19.18.0.0.8]
 Underfull \hbox (badness 1067) in paragraph at lines 107--110
 []\T2A/ftm/m/n/12 Макросы (C/C++) [Элек-трон-ный ре-сурс]. --- Ре-жим до-сту-па
 : https://msdn.microsoft.com/ru-
@@ -933,10 +931,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 144--148
 им до-сту-па:
  []
 
-) [23.22.0.0.11] [24.23.0.0.0.0.0.0.0.1
-
-]
-<overview_table.pdf, id=121, 597.23125pt x 845.1575pt>
+) [20.19.0.0.8.0.0.0.0.1]
+<overview_table.pdf, id=105, 597.23125pt x 845.1575pt>
 File: overview_table.pdf Graphic file (type pdf)
 
 <use overview_table.pdf>
@@ -947,7 +943,7 @@ File: overview_table.pdf Graphic file (type pdf)
 Package pdftex.def Info: overview_table.pdf used on input line 105.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<overview_table.pdf, id=124, page=1, 597.23125pt x 845.1575pt>
+<overview_table.pdf, id=108, page=1, 597.23125pt x 845.1575pt>
 File: overview_table.pdf Graphic file (type pdf)
 
 <use overview_table.pdf, page 1>
@@ -957,7 +953,7 @@ File: overview_table.pdf Graphic file (type pdf)
  <use overview_table.pdf, page 1>
 Package pdftex.def Info: overview_table.pdf, page1 used on input line 105.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [25.24
+ [21.20
 
 ]
 File: overview_table.pdf Graphic file (type pdf)
@@ -974,8 +970,24 @@ File: overview_table.pdf Graphic file (type pdf)
 <use overview_table.pdf, page 1>
 Package pdftex.def Info: overview_table.pdf, page1 used on input line 105.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [26.25.0.0.0.0.0.0.0.1 <./overview_table.pdf>] <lexical_features.pdf, id=141, 
-597.23125pt x 845.1575pt>
+ [22.21.0.0.0.0.0.0.0.1 <./overview_table.pdf>] <overview_table.pdf, id=124, pa
+ge=2, 597.23125pt x 845.1575pt>
+File: overview_table.pdf Graphic file (type pdf)
+
+<use overview_table.pdf, page 2>
+Package pdftex.def Info: overview_table.pdf, page2 used on input line 105.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: overview_table.pdf Graphic file (type pdf)
+ <use overview_table.pdf, page 2>
+Package pdftex.def Info: overview_table.pdf, page2 used on input line 105.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: overview_table.pdf Graphic file (type pdf)
+
+<use overview_table.pdf, page 2>
+Package pdftex.def Info: overview_table.pdf, page2 used on input line 105.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [23.22 <./overview_table.pdf>]
+<lexical_features.pdf, id=130, 597.23125pt x 845.1575pt>
 File: lexical_features.pdf Graphic file (type pdf)
 
 <use lexical_features.pdf>
@@ -986,7 +998,7 @@ File: lexical_features.pdf Graphic file (type pdf)
 Package pdftex.def Info: lexical_features.pdf used on input line 108.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<lexical_features.pdf, id=144, page=1, 597.23125pt x 845.1575pt>
+<lexical_features.pdf, id=133, page=1, 597.23125pt x 845.1575pt>
 File: lexical_features.pdf Graphic file (type pdf)
 
 <use lexical_features.pdf, page 1>
@@ -996,9 +1008,6 @@ File: lexical_features.pdf Graphic file (type pdf)
  <use lexical_features.pdf, page 1>
 Package pdftex.def Info: lexical_features.pdf, page1 used on input line 108.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [27.26
-
-]
 File: lexical_features.pdf Graphic file (type pdf)
 
 <use lexical_features.pdf, page 1>
@@ -1013,7 +1022,7 @@ File: lexical_features.pdf Graphic file (type pdf)
 <use lexical_features.pdf, page 1>
 Package pdftex.def Info: lexical_features.pdf, page1 used on input line 108.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [28.27.0.0.0.0.0.0.0.1 <./lexical_features.pdf>] <lexical_features.pdf, id=160
+ [24.23.0.0.0.0.0.0.0.1 <./lexical_features.pdf>] <lexical_features.pdf, id=145
 , page=2, 597.23125pt x 845.1575pt>
 File: lexical_features.pdf Graphic file (type pdf)
 
@@ -1029,25 +1038,25 @@ File: lexical_features.pdf Graphic file (type pdf)
 <use lexical_features.pdf, page 2>
 Package pdftex.def Info: lexical_features.pdf, page2 used on input line 108.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [29.28 <./lexical_features.pdf>]
+ [25.24 <./lexical_features.pdf>]
 
 AED: lastpage setting LastPage
 (./report.aux) ) 
 Here is how much of TeX's memory you used:
- 11100 strings out of 493013
- 160954 string characters out of 6135682
+ 11091 strings out of 493013
+ 160921 string characters out of 6135682
  263922 words of memory out of 5000000
- 14294 multiletter control sequences out of 15000+600000
+ 14297 multiletter control sequences out of 15000+600000
  21658 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  52i,18n,46p,1156b,724s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/scalable-cyrfonts-tex/6r.enc}
 </usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmb6w.pfb></usr/sha
 re/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmr6w.pfb>
-Output written on report.pdf (28 pages, 258538 bytes).
+Output written on report.pdf (24 pages, 257576 bytes).
 PDF statistics:
- 184 PDF objects out of 1000 (max. 8388607)
- 125 compressed objects within 2 object streams
- 28 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 168 PDF objects out of 1000 (max. 8388607)
+ 112 compressed objects within 2 object streams
+ 24 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 
