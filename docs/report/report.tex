@@ -1,8 +1,11 @@
 \input{config}
 
 \begin{document}
+\newpage
+\ESKDthisStyle{empty}
  \includepdf[pages={1}]{title}
-%  \includepdf[pages={1}]{practise_task}
+ \ESKDthisStyle{empty}
+ \includepdf{practise_task}
  \input{referat_ru}
 %  \input{referat_en}
  
@@ -25,7 +28,7 @@
 \newpage
 \ESKDstyle{plain}
 \setcounter{section}{0}
-\section*{Ведение}
+\section*{Введение}
 \addcontentsline{toc}{section}{Введение}
 \input{intro}
 
@@ -56,6 +59,9 @@
 \section{Классификация}\label{classifiers}
 \input{classifiers}
 
+\newpage
+\section{Тестирование модели}\label{testing}
+\input{testing}
 
 \newpage 
 \section{Описание тестового набора данных}\label{test_data}
@@ -105,10 +111,10 @@
  \item тестовые данные для работы с программой.
  \end{itemize}
  
- %\ESKDappendix{Справочное}{\normalfont Сравнительный обзор информационных источников }
+ \ESKDappendix{Справочное}{\normalfont Сравнительный обзор информационных источников }
  \includepdf[pages={1-2}]{overview_table}
  
- %\ESKDappendix{Справочное}{\normalfont Описание стилистических признаков}
+ \ESKDappendix{Справочное}{\normalfont Описание стилистических признаков}
  \includepdf[pages={1-2}]{lexical_features}
  
 \end{document}

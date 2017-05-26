@@ -23,9 +23,9 @@ Warning--empty journal in git_blame
 Warning--empty journal in macros
 Warning--empty journal in cppkeywords
 Warning--empty journal in data_mining
-Warning--empty journal in crossval
 Warning--empty journal in ada_boost
 Warning--empty journal in extra_trees
+Warning--empty journal in crossval
 Warning--empty journal in GoogleCodeJam
 Warning--empty journal in GitHub
 Warning--empty journal in GH_domain
@@ -39,7 +39,7 @@ Warning--empty journal in widgets
 Warning--empty journal in metrics
 You've used 31 entries,
             2964 wiz_defined-function locations,
-            767 strings with 12222 characters,
+            767 strings with 12701 characters,
 and the built_in function-call counts, 4683 in all, are:
 = -- 541
 > -- 35
