@@ -5,7 +5,8 @@
 % \ESKDthisStyle{empty}
 %  \includepdf[pages={1}]{title}
  \input{title}
-%  \ESKDthisStyle{empty}
+ \newpage
+ \ESKDthisStyle{empty}
  \includepdf{practise_task}
  \input{referat_ru}
  \input{referat_en}
@@ -114,12 +115,17 @@
  \item тестовые данные для работы с программой.
  \end{itemize}
  
- \ESKDappendix{Справочное}{\normalfont Сравнительный обзор информационных источников }
-%  \includepdf[pages={1-2}]{overview_table}
+%  \ESKDappendix{Справочное}{\normalfont Сравнительный обзор информационных источников }
+ \newpage
+ \addcontentsline{toc}{section}{Приложение Б Сравнительный обзор информационных источников}
+ \includepdf[pages={1-2}]{overview_table}
 %  \includepdf[pages={1-}, width=1\linewidth]{overview_table}
- \input{overview_table}
  
- \ESKDappendix{Справочное}{\normalfont Описание стилистических признаков}
+%  \input{overview_table}
+ 
+%  \ESKDappendix{Справочное}{\normalfont Описание стилистических признаков}
+ \newpage
+ \addcontentsline{toc}{section}{Приложение В Описание стилистических признаков}
  \includepdf[pages={1-2}]{lexical_features}
  
 \end{document}
