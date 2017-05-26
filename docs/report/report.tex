@@ -2,17 +2,19 @@
 
 \begin{document}
 \newpage
-\ESKDthisStyle{empty}
+% \ESKDthisStyle{empty}
 %  \includepdf[pages={1}]{title}
  \input{title}
- \ESKDthisStyle{empty}
+%  \ESKDthisStyle{empty}
  \includepdf{practise_task}
  \input{referat_ru}
  \input{referat_en}
  
  % - содержание
  \newpage
- \ESKDstyle{plain}
+%  \ESKDstyle{plain}
+\ESKDstyle{formIIab}
+\ESKDthisStyle{formII}
  \tableofcontents
 
 % \newpage
@@ -27,7 +29,7 @@
 
 
 \newpage
-\ESKDstyle{plain}
+% \ESKDstyle{plain}
 \setcounter{section}{0}
 \section*{Введение}
 \addcontentsline{toc}{section}{Введение}
@@ -113,7 +115,9 @@
  \end{itemize}
  
  \ESKDappendix{Справочное}{\normalfont Сравнительный обзор информационных источников }
- \includepdf[pages={1-2}]{overview_table}
+%  \includepdf[pages={1-2}]{overview_table}
+%  \includepdf[pages={1-}, width=1\linewidth]{overview_table}
+ \input{overview_table}
  
  \ESKDappendix{Справочное}{\normalfont Описание стилистических признаков}
  \includepdf[pages={1-2}]{lexical_features}
