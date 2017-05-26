@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  12 MAY 2017 11:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  26 MAY 2017 17:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -689,129 +689,99 @@ Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+) (./title.tex
+LaTeX Font Info:    Font shape `T2A/ftm/bx/n' in size <12> not available
+(Font)              Font shape `T2A/ftm/b/n' tried instead on input line 5.
 )
-<title.pdf, id=1, 597.23125pt x 845.1575pt>
-File: title.pdf Graphic file (type pdf)
- <use title.pdf>
-Package pdftex.def Info: title.pdf used on input line 6.
-(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-File: title.pdf Graphic file (type pdf)
- <use title.pdf>
-Package pdftex.def Info: title.pdf used on input line 6.
-(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-
-<title.pdf, id=4, page=1, 597.23125pt x 845.1575pt>
-File: title.pdf Graphic file (type pdf)
- <use title.pdf, page 1>
-Package pdftex.def Info: title.pdf, page1 used on input line 6.
-(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-File: title.pdf Graphic file (type pdf)
-
-<use title.pdf, page 1>
-Package pdftex.def Info: title.pdf, page1 used on input line 6.
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
-File: title.pdf Graphic file (type pdf)
- <use title.pdf, page 1>
-Package pdftex.def Info: title.pdf, page1 used on input line 6.
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
-File: title.pdf Graphic file (type pdf)
- <use title.pdf, page 1>
-Package pdftex.def Info: title.pdf, page1 used on input line 6.
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
-File: title.pdf Graphic file (type pdf)
-
-<use title.pdf, page 1>
-Package pdftex.def Info: title.pdf, page1 used on input line 6.
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [1.1.0.0.0.0.0.0.0.1
-
- <./title.pdf>]
-<practise_task.pdf, id=23, 597.23125pt x 845.1575pt>
+<practise_task.pdf, id=1, 597.23125pt x 845.1575pt>
 File: practise_task.pdf Graphic file (type pdf)
  <use practise_task.pdf>
-Package pdftex.def Info: practise_task.pdf used on input line 8.
+Package pdftex.def Info: practise_task.pdf used on input line 9.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 File: practise_task.pdf Graphic file (type pdf)
 
 <use practise_task.pdf>
-Package pdftex.def Info: practise_task.pdf used on input line 8.
+Package pdftex.def Info: practise_task.pdf used on input line 9.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<practise_task.pdf, id=26, page=1, 597.23125pt x 845.1575pt>
+<practise_task.pdf, id=4, page=1, 597.23125pt x 845.1575pt>
 File: practise_task.pdf Graphic file (type pdf)
 
 <use practise_task.pdf, page 1>
-Package pdftex.def Info: practise_task.pdf, page1 used on input line 8.
+Package pdftex.def Info: practise_task.pdf, page1 used on input line 9.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 File: practise_task.pdf Graphic file (type pdf)
  <use practise_task.pdf, page 1>
-Package pdftex.def Info: practise_task.pdf, page1 used on input line 8.
+Package pdftex.def Info: practise_task.pdf, page1 used on input line 9.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [1.1.0.0.0.0.0.0.0.1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 File: practise_task.pdf Graphic file (type pdf)
 
 <use practise_task.pdf, page 1>
-Package pdftex.def Info: practise_task.pdf, page1 used on input line 8.
+Package pdftex.def Info: practise_task.pdf, page1 used on input line 9.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: practise_task.pdf Graphic file (type pdf)
  <use practise_task.pdf, page 1>
-Package pdftex.def Info: practise_task.pdf, page1 used on input line 8.
+Package pdftex.def Info: practise_task.pdf, page1 used on input line 9.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: practise_task.pdf Graphic file (type pdf)
 
 <use practise_task.pdf, page 1>
-Package pdftex.def Info: practise_task.pdf, page1 used on input line 8.
+Package pdftex.def Info: practise_task.pdf, page1 used on input line 9.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
  [2.2 <./practise_task.pdf>] (./referat_ru.tex)
-[3.3.0.0.0.0.0.0.0.1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-(./report.toc)
+[3.3.0.0.0.0.0.0.0.1] (./report.toc)
 \tf@toc=\write3
 \openout3 = `report.toc'.
 
- [4.4] (./intro.tex) [5.5.0.0.0.0.0.0.0.1] (./kibevs.tex
-(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
+ [4.4] (./intro.tex) [5.5.0.0.0.0.0.0.0.1]
+(./kibevs.tex (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )) [6.6.0.0.1]
-(./overview.tex [7.7.0.0.2.0.0.0.0.1]) [8.8.0.0.2] (./features.tex
+(./overview.tex [7.7.0.0.2.0.0.0.0.1]) [8.8.0.0.2] (./testing.tex) [9.9.0.0.3.0
+.0.0.0.1] (./features.tex
 Underfull \hbox (badness 4391) in paragraph at lines 20--22
 []\T2A/ftm/m/n/12 —тиль рас-ста-нов-ки фи-гур-ных ско-бок --- к наи-бо-лее из-в
 ест-ным от-но-с€т <<K&R>>,
  []
 
-(./cpp_keywords.tex [9.9.0.0.3.2.0.0.0.1]
+(./cpp_keywords.tex [10.10.0.0.4.2]
 Overfull \hbox (2.47453pt too wide) in paragraph at lines 37--37
 []|\T2A/ftm/m/n/12 reinterpret_cast| 
  []
 
-)) [10.10.0.0.3.2] (./model.tex
-<images/box_1.png, id=77, 623.32875pt x 408.52625pt>
+)) [11.11.0.0.4.2.0.0.0.1] (./model.tex
+<images/box_1.png, id=66, 623.32875pt x 408.52625pt>
 File: images/box_1.png Graphic file (type png)
  <use images/box_1.png>
 Package pdftex.def Info: images/box_1.png used on input line 4.
 (pdftex.def)             Requested size: 305.58572pt x 200.27934pt.
 
-<images/box_2.png, id=78, 1033.8625pt x 618.31pt>
+<images/box_2.png, id=67, 1033.8625pt x 618.31pt>
 File: images/box_2.png Graphic file (type png)
  <use images/box_2.png>
 Package pdftex.def Info: images/box_2.png used on input line 10.
 (pdftex.def)             Requested size: 509.30438pt x 304.5973pt.
 )
-[11.11.0.0.4.0.0.0.0.1 <./images/box_1.png> <./images/box_2.png>]
-(./classifiers.tex (./random_forest.tex
-<images/forest.png, id=83, 642.4pt x 318.18875pt>
+[12.12.0.0.5 <./images/box_1.png> <./images/box_2.png>] (./classifiers.tex
+(./random_forest.tex <images/forest.png, id=72, 642.4pt x 318.18875pt>
 File: images/forest.png Graphic file (type png)
- <use images/forest.png>
+
+<use images/forest.png>
 Package pdftex.def Info: images/forest.png used on input line 23.
 (pdftex.def)             Requested size: 305.58572pt x 151.36455pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (./ada_boost.tex [12.12.0.0.5.2]) (./extra_trees.tex)) [13.13.0.0.5.3.0.0.0.1
- <./images/forest.png>] (./testing.tex) [14.14.0.0.6] (./test_data.tex [15.15.0
-.0.7.0.0.0.0.1]
+) (./ada_boost.tex [13.13.0.0.6.2.0.0.0.1]) (./extra_trees.tex)) [14.14.0.0.6.3
+ <./images/forest.png>] (./testing.tex) [15.15.0.0.7.0.0.0.0.1]
+(./test_data.tex [16.16.0.0.8]
 Underfull \hbox (badness 10000) in paragraph at lines 52--54
 []\T2A/ftm/m/n/12 Ќа ос-но-ве спис-ка поль-зо-ва-те-лей ав-то-ма-ти-че-ски, сре
 д-ства-ми про-грам-мы
@@ -837,15 +807,15 @@ Underfull \hbox (badness 1354) in paragraph at lines 83--83
 []|\T2A/ftm/m/n/12 —реднее чис-ло строк
  []
 
-) [16.16.0.0.7] (./whosecpp.tex [17.17.0.0.8.0.0.0.0.1]
-<images/flowchart.png, id=111, 638.385pt x 587.19376pt>
+) [17.17.0.0.8.0.0.0.0.1] (./whosecpp.tex [18.18.0.0.9]
+<images/flowchart.png, id=100, 638.385pt x 587.19376pt>
 File: images/flowchart.png Graphic file (type png)
 
 <use images/flowchart.png>
 Package pdftex.def Info: images/flowchart.png used on input line 43.
 (pdftex.def)             Requested size: 458.37083pt x 421.6144pt.
 
-<images/main_module.png, id=112, 790.955pt x 393.47pt>
+<images/main_module.png, id=101, 790.955pt x 393.47pt>
 File: images/main_module.png Graphic file (type png)
 
 <use images/main_module.png>
@@ -855,7 +825,7 @@ Package pdftex.def Info: images/main_module.png used on input line 50.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/newplot.png, id=113, 702.625pt x 451.6875pt>
+<images/newplot.png, id=102, 702.625pt x 451.6875pt>
 File: images/newplot.png Graphic file (type png)
  <use images/newplot.png>
 Package pdftex.def Info: images/newplot.png used on input line 56.
@@ -864,7 +834,7 @@ Package pdftex.def Info: images/newplot.png used on input line 56.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/newplot2.png, id=114, 702.625pt x 370.38374pt>
+<images/newplot2.png, id=103, 702.625pt x 370.38374pt>
 File: images/newplot2.png Graphic file (type png)
 
 <use images/newplot2.png>
@@ -874,12 +844,12 @@ Package pdftex.def Info: images/newplot2.png used on input line 62.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [18.18.0.0.8 <./images/flowchart.png>]
+) [19.19.0.0.9.0.0.0.0.1 <./images/flowchart.png>]
 
-LaTeX Warning: Text page 19 contains only floats.
+LaTeX Warning: Text page 20 contains only floats.
 
-[19.19.0.0.8.0.0.0.0.1 <./images/main_module.png> <./images/newplot.png> <./ima
-ges/newplot2.png>] (./evaluation.tex) [20.20.0.0.9
+[20.20.0.0.9 <./images/main_module.png> <./images/newplot.png> <./images/newplo
+t2.png>] (./evaluation.tex) [21.21.0.0.10.0.0.0.0.1
 
 ] (./results.tex
 Overfull \hbox (7.47856pt too wide) in paragraph at lines 41--41
@@ -911,13 +881,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--41
 []|\T2A/ftm/m/n/12 ¬рем€ ра-бо-
  []
 
-<images/students.png, id=132, 362.3136pt x 271.2534pt>
+<images/students.png, id=121, 362.3136pt x 271.2534pt>
 File: images/students.png Graphic file (type png)
 
 <use images/students.png>
 Package pdftex.def Info: images/students.png used on input line 46.
 (pdftex.def)             Requested size: 305.58572pt x 228.78256pt.
- <images/google.png, id=133, 361.8318pt x 271.2534pt>
+ <images/google.png, id=122, 361.8318pt x 271.2534pt>
 File: images/google.png Graphic file (type png)
 
 <use images/google.png>
@@ -927,7 +897,7 @@ Package pdftex.def Info: images/google.png used on input line 52.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/github.png, id=134, 362.3136pt x 271.2534pt>
+<images/github.png, id=123, 362.3136pt x 271.2534pt>
 File: images/github.png Graphic file (type png)
  <use images/github.png>
 Package pdftex.def Info: images/github.png used on input line 58.
@@ -936,11 +906,10 @@ Package pdftex.def Info: images/github.png used on input line 58.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[21.21.0.0.10.0.0.0.0.1 <./images/students.png>] [22.22.0.0.10 <./images/google
-.png> <./images/github.png>]) (./conclusions.tex) [23.23.0.0.10.0.0.0.0.1
+[22.22.0.0.11 <./images/students.png>] [23.23.0.0.11.0.0.0.0.1 <./images/google
+.png> <./images/github.png>]) (./conclusions.tex) [24.24.0.0.11
 
-]
-(./report.bbl
+] (./report.bbl
 Underfull \hbox (badness 2635) in paragraph at lines 12--17
 []\T2A/ftm/m/n/12 ќбразовательный стан-дарт ¬”-«а ќ— “”-—”– 01-2013 [Ёлек-трон-
 ный ре-сурс]. --- –е-жим
@@ -1018,32 +987,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--85
 of_Information_Retrieval_Techni-
  []
 
-[24.24.0.0.10]
+[25.25.0.0.11.0.0.0.0.1]
 Underfull \hbox (badness 1038) in paragraph at lines 88--96
 \T2A/ftm/m/n/12 па: https://www.usenix.org/system/files/conference/usenixsecuri
 ty15/sec15-paper-caliskan-islam.pdf,
  []
 
 
-Underfull \hbox (badness 1062) in paragraph at lines 123--126
+Underfull \hbox (badness 1087) in paragraph at lines 130--133
 []\T2A/ftm/m/n/12 ћакросы (C/C++) [Ёлек-трон-ный ре-сурс]. --- –е-жим до-сту-па
 : https://msdn.microsoft.com/ru-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--132
+Underfull \hbox (badness 10000) in paragraph at lines 136--139
 []\T2A/ftm/m/n/12  лючевые сло-ва C++ [Ёлек-трон-ный ре-сурс]. --- –е-жим до-ст
 у-па:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--147
+Underfull \hbox (badness 10000) in paragraph at lines 150--154
 []\T2A/ftm/m/n/12 јлгоритм AdaBoost [Ёлек-трон-ный ре-сурс]. --- –е-жим до-сту-
 па:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--147
+Underfull \hbox (badness 10000) in paragraph at lines 150--154
 \T2A/ftm/m/n/12 http://www.machinelearning.ru/wiki/index.php?title=AdaBoost, св
 о-бод-ный (да-та об-ра-ще-ни€:
  []
@@ -1054,7 +1023,7 @@ Underfull \hbox (badness 7081) in paragraph at lines 164--167
 о-сту-па: https://www.go-
  []
 
-[25.25.0.0.10.0.0.0.0.1]
+[26.26.0.0.11]
 Underfull \hbox (badness 10000) in paragraph at lines 176--180
 []\T2A/ftm/m/n/12 GitHub Dominates the Forges [Ёлек-трон-ный ре-сурс]. --- –е-ж
 им до-сту-па:
@@ -1066,137 +1035,136 @@ Underfull \hbox (badness 10000) in paragraph at lines 220--223
  --- –е-жим до-сту-па:
  []
 
-) [26.26.0.0.10]
-LaTeX Font Info:    Font shape `T2A/ftm/bx/n' in size <12> not available
-(Font)              Font shape `T2A/ftm/b/n' tried instead on input line 105.
- [27.27.0.0.0.0.0.0.0.1
+) [27.27.0.0.11.0.0.0.0.1] [28.28
 
 ]
-<overview_table.pdf, id=167, 597.23125pt x 845.1575pt>
+<overview_table.pdf, id=156, 597.23125pt x 845.1575pt>
 File: overview_table.pdf Graphic file (type pdf)
 
 <use overview_table.pdf>
-Package pdftex.def Info: overview_table.pdf used on input line 115.
+Package pdftex.def Info: overview_table.pdf used on input line 116.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 File: overview_table.pdf Graphic file (type pdf)
  <use overview_table.pdf>
-Package pdftex.def Info: overview_table.pdf used on input line 115.
+Package pdftex.def Info: overview_table.pdf used on input line 116.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<overview_table.pdf, id=170, page=1, 597.23125pt x 845.1575pt>
+<overview_table.pdf, id=159, page=1, 597.23125pt x 845.1575pt>
 File: overview_table.pdf Graphic file (type pdf)
 
 <use overview_table.pdf, page 1>
-Package pdftex.def Info: overview_table.pdf, page1 used on input line 115.
+Package pdftex.def Info: overview_table.pdf, page1 used on input line 116.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 File: overview_table.pdf Graphic file (type pdf)
  <use overview_table.pdf, page 1>
-Package pdftex.def Info: overview_table.pdf, page1 used on input line 115.
+Package pdftex.def Info: overview_table.pdf, page1 used on input line 116.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [28.28
+ [29.29.0.0.0.0.0.0.0.1
 
 ]
 File: overview_table.pdf Graphic file (type pdf)
-
-<use overview_table.pdf, page 1>
-Package pdftex.def Info: overview_table.pdf, page1 used on input line 115.
+ <use overview_table.pdf, page 1>
+Package pdftex.def Info: overview_table.pdf, page1 used on input line 116.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: overview_table.pdf Graphic file (type pdf)
  <use overview_table.pdf, page 1>
-Package pdftex.def Info: overview_table.pdf, page1 used on input line 115.
+Package pdftex.def Info: overview_table.pdf, page1 used on input line 116.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: overview_table.pdf Graphic file (type pdf)
 
 <use overview_table.pdf, page 1>
-Package pdftex.def Info: overview_table.pdf, page1 used on input line 115.
+Package pdftex.def Info: overview_table.pdf, page1 used on input line 116.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [29.29.0.0.0.0.0.0.0.1 <./overview_table.pdf>] <overview_table.pdf, id=187, pa
-ge=2, 597.23125pt x 845.1575pt>
+ [30.30 <./overview_table.pdf>]
+<overview_table.pdf, id=176, page=2, 597.23125pt x 845.1575pt>
 File: overview_table.pdf Graphic file (type pdf)
 
 <use overview_table.pdf, page 2>
-Package pdftex.def Info: overview_table.pdf, page2 used on input line 115.
+Package pdftex.def Info: overview_table.pdf, page2 used on input line 116.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: overview_table.pdf Graphic file (type pdf)
  <use overview_table.pdf, page 2>
-Package pdftex.def Info: overview_table.pdf, page2 used on input line 115.
+Package pdftex.def Info: overview_table.pdf, page2 used on input line 116.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: overview_table.pdf Graphic file (type pdf)
 
 <use overview_table.pdf, page 2>
-Package pdftex.def Info: overview_table.pdf, page2 used on input line 115.
+Package pdftex.def Info: overview_table.pdf, page2 used on input line 116.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [30.30 <./overview_table.pdf>]
-<lexical_features.pdf, id=193, 597.23125pt x 845.1575pt>
+ [31.31.0.0.0.0.0.0.0.1 <./overview_table.pdf>] <lexical_features.pdf, id=183, 
+597.23125pt x 845.1575pt>
 File: lexical_features.pdf Graphic file (type pdf)
 
 <use lexical_features.pdf>
-Package pdftex.def Info: lexical_features.pdf used on input line 118.
+Package pdftex.def Info: lexical_features.pdf used on input line 119.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 File: lexical_features.pdf Graphic file (type pdf)
  <use lexical_features.pdf>
-Package pdftex.def Info: lexical_features.pdf used on input line 118.
+Package pdftex.def Info: lexical_features.pdf used on input line 119.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<lexical_features.pdf, id=196, page=1, 597.23125pt x 845.1575pt>
+<lexical_features.pdf, id=186, page=1, 597.23125pt x 845.1575pt>
 File: lexical_features.pdf Graphic file (type pdf)
 
 <use lexical_features.pdf, page 1>
-Package pdftex.def Info: lexical_features.pdf, page1 used on input line 118.
+Package pdftex.def Info: lexical_features.pdf, page1 used on input line 119.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 File: lexical_features.pdf Graphic file (type pdf)
  <use lexical_features.pdf, page 1>
-Package pdftex.def Info: lexical_features.pdf, page1 used on input line 118.
+Package pdftex.def Info: lexical_features.pdf, page1 used on input line 119.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [31.31.0.0.0.0.0.0.0.1
+ [32.32
 
 ]
 File: lexical_features.pdf Graphic file (type pdf)
+
+<use lexical_features.pdf, page 1>
+Package pdftex.def Info: lexical_features.pdf, page1 used on input line 119.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: lexical_features.pdf Graphic file (type pdf)
  <use lexical_features.pdf, page 1>
-Package pdftex.def Info: lexical_features.pdf, page1 used on input line 118.
+Package pdftex.def Info: lexical_features.pdf, page1 used on input line 119.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: lexical_features.pdf Graphic file (type pdf)
 
 <use lexical_features.pdf, page 1>
-Package pdftex.def Info: lexical_features.pdf, page1 used on input line 118.
+Package pdftex.def Info: lexical_features.pdf, page1 used on input line 119.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
-File: lexical_features.pdf Graphic file (type pdf)
- <use lexical_features.pdf, page 1>
-Package pdftex.def Info: lexical_features.pdf, page1 used on input line 118.
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [32.32 <./lexical_features.pdf>]
-<lexical_features.pdf, id=213, page=2, 597.23125pt x 845.1575pt>
+ [33.33.0.0.0.0.0.0.0.1 <./lexical_features.pdf>] <lexical_features.pdf, id=202
+, page=2, 597.23125pt x 845.1575pt>
 File: lexical_features.pdf Graphic file (type pdf)
 
 <use lexical_features.pdf, page 2>
-Package pdftex.def Info: lexical_features.pdf, page2 used on input line 118.
+Package pdftex.def Info: lexical_features.pdf, page2 used on input line 119.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: lexical_features.pdf Graphic file (type pdf)
  <use lexical_features.pdf, page 2>
-Package pdftex.def Info: lexical_features.pdf, page2 used on input line 118.
+Package pdftex.def Info: lexical_features.pdf, page2 used on input line 119.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: lexical_features.pdf Graphic file (type pdf)
 
 <use lexical_features.pdf, page 2>
-Package pdftex.def Info: lexical_features.pdf, page2 used on input line 118.
+Package pdftex.def Info: lexical_features.pdf, page2 used on input line 119.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [33.33.0.0.0.0.0.0.0.1 <./lexical_features.pdf>] 
+ [34.34 <./lexical_features.pdf>]
+
 AED: lastpage setting LastPage
 (./report.aux) ) 
 Here is how much of TeX's memory you used:
- 11170 strings out of 493013
- 162280 string characters out of 6135682
- 263098 words of memory out of 5000000
- 14354 multiletter control sequences out of 15000+600000
- 21307 words of font info for 42 fonts, out of 8000000 for 9000
+ 11169 strings out of 493013
+ 162227 string characters out of 6135682
+ 263102 words of memory out of 5000000
+ 14347 multiletter control sequences out of 15000+600000
+ 21658 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  52i,18n,46p,1156b,724s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/scalable-cyrfonts-tex/6r.enc}
-</usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmr6w.pfb>
-Output written on report.pdf (33 pages, 384829 bytes).
+</usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmb6w.pfb></usr/sha
+re/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmr6w.pfb>
+Output written on report.pdf (34 pages, 392577 bytes).
 PDF statistics:
- 234 PDF objects out of 1000 (max. 8388607)
- 148 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 500000)
- 141 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 226 PDF objects out of 1000 (max. 8388607)
+ 146 compressed objects within 2 object streams
+ 34 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
 

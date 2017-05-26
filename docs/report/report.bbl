@@ -109,6 +109,13 @@
   доступа: https://arxiv.org/abs/1701.05681, свободный
   (дата обращения: 10.03.2017).{}
 
+\bibitem{crossval}
+\selectlanguageifdefined{russian}
+{Перекрёстная проверка [Электронный
+  ресурс]}. --- Режим доступа:
+  https://ru.wikipedia.org/wiki/, свободный (дата
+  обращения: 01.05.2017).{}
+
 \bibitem{bracing_styles}
 \selectlanguageifdefined{russian}
 {Хэзфилд Р.} {Искусство программирования на
@@ -151,13 +158,6 @@
   [Электронный ресурс]}. --- Режим доступа:
   https://pdfs.semanticscholar.org/336a/165c17c9c56160d332b9f4a2b403fccbdbfb.pdf,
   свободный (дата обращения: 28.04.2017).{}
-
-\bibitem{crossval}
-\selectlanguageifdefined{russian}
-{Перекрёстная проверка [Электронный
-  ресурс]}. --- Режим доступа:
-  https://ru.wikipedia.org/wiki/, свободный (дата
-  обращения: 01.05.2017).{}
 
 \bibitem{GoogleCodeJam}
 \selectlanguageifdefined{english}
