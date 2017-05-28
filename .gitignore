@@ -9,3 +9,4 @@ output.csv
 results.csv
 data/
 *.backup
+*.swp
