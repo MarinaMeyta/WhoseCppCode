@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  28 MAY 2017 21:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  29 MAY 2017 00:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -920,14 +920,50 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 0.0.0.0.1
 
 ] (./economics.tex
-<economics_tables.pdf, id=161, page=1, 597.23125pt x 623.32875pt>
-File: economics_tables.pdf Graphic file (type pdf)
+<schedule.pdf, id=161, page=1, 597.23125pt x 623.32875pt>
+File: schedule.pdf Graphic file (type pdf)
 
-<use economics_tables.pdf, page 1>
-Package pdftex.def Info: economics_tables.pdf, page1 used on input line 34.
+<use schedule.pdf, page 1>
+Package pdftex.def Info: schedule.pdf, page1 used on input line 34.
 (pdftex.def)             Requested size: 509.30438pt x 531.56297pt.
- [30.30.0.0.9.2] [31.31.0.0.9.2.0.0.0.1 <./economics_tables.pdf>]) (./conclusio
-ns.tex) [32.32.0.0.9.2
+
+<schedule_2.pdf, id=162, page=1, 483.8075pt x 403.5075pt>
+File: schedule_2.pdf Graphic file (type pdf)
+
+<use schedule_2.pdf, page 1>
+Package pdftex.def Info: schedule_2.pdf, page1 used on input line 42.
+(pdftex.def)             Requested size: 509.30438pt x 424.79134pt.
+
+<schedule_3.pdf, id=163, page=1, 597.23125pt x 845.1575pt>
+File: schedule_3.pdf Graphic file (type pdf)
+
+<use schedule_3.pdf, page 1>
+Package pdftex.def Info: schedule_3.pdf, page1 used on input line 49.
+(pdftex.def)             Requested size: 509.30438pt x 720.73436pt.
+
+
+LaTeX Warning: Float too large for page by 42.26065pt on input line 51.
+
+<schedule_4.pdf, id=164, page=1, 597.23125pt x 249.93375pt>
+File: schedule_4.pdf Graphic file (type pdf)
+
+<use schedule_4.pdf, page 1>
+Package pdftex.def Info: schedule_4.pdf, page1 used on input line 56.
+(pdftex.def)             Requested size: 509.30438pt x 213.13878pt.
+
+<schedule_5.pdf, id=165, page=1, 597.23125pt x 227.85126pt>
+File: schedule_5.pdf Graphic file (type pdf)
+
+<use schedule_5.pdf, page 1>
+Package pdftex.def Info: schedule_5.pdf, page1 used on input line 63.
+(pdftex.def)             Requested size: 509.30438pt x 194.30724pt.
+ [30.30.0.0.9.2] [31.31.0.0.9.2.0.0.0.1 <./schedule.pdf>] [32.32.0.0.9.2 <./sch
+edule_2.pdf>] [33.33.0.0.9.2.0.0.0.1 <./schedule_3.pdf>] [34.34.0.0.9.2 <./sche
+dule_4.pdf> <./schedule_5.pdf
+
+pdfTeX warning: pdflatex (file ./schedule_5.pdf): PDF inclusion: multiple pdfs 
+with page group included in a single page
+>]) (./conclusions.tex) [35.35.0.0.9.2.0.0.0.1
 
 ] (./report.bbl
 Underfull \hbox (badness 2635) in paragraph at lines 12--17
@@ -1007,7 +1043,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--85
 of_Information_Retrieval_Techni-
  []
 
-[33.33.0.0.9.2.0.0.0.1]
+[36.36.0.0.9.2]
 Underfull \hbox (badness 1038) in paragraph at lines 88--96
 \T2A/ftm/m/n/12 па: https://www.usenix.org/system/files/conference/usenixsecuri
 ty15/sec15-paper-caliskan-islam.pdf,
@@ -1037,7 +1073,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 143--147
 о-бод-ный (да-та об-ра-ще-ни€:
  []
 
-[34.34.0.0.9.2]
+[37.37.0.0.9.2.0.0.0.1]
 Underfull \hbox (badness 10000) in paragraph at lines 200--203
 []\T2A/ftm/m/n/12 ipywidgets: Interactive HTML Widgets [Ёлек-трон-ный ре-сурс].
  --- –е-жим до-сту-па:
@@ -1061,10 +1097,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 228--232
 им до-сту-па:
  []
 
-[35.35.0.0.9.2.0.0.0.1]) [36.36.0.0.9.2] [37.37.0.0.0.2.0.0.0.1
+[38.38.0.0.9.2]) [39.39.0.0.9.2.0.0.0.1] [40.40.0.0.0.2
 
 ]
-<overview_table.pdf, id=204, 597.23125pt x 845.1575pt>
+<overview_table.pdf, id=247, 597.23125pt x 845.1575pt>
 File: overview_table.pdf Graphic file (type pdf)
 
 <use overview_table.pdf>
@@ -1075,7 +1111,7 @@ File: overview_table.pdf Graphic file (type pdf)
 Package pdftex.def Info: overview_table.pdf used on input line 142.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<overview_table.pdf, id=207, page=1, 597.23125pt x 845.1575pt>
+<overview_table.pdf, id=250, page=1, 597.23125pt x 845.1575pt>
 File: overview_table.pdf Graphic file (type pdf)
 
 <use overview_table.pdf, page 1>
@@ -1099,8 +1135,8 @@ File: overview_table.pdf Graphic file (type pdf)
 <use overview_table.pdf, page 1>
 Package pdftex.def Info: overview_table.pdf, page1 used on input line 142.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [38.38.0.0.0.2 <./overview_table.pdf>]
-<overview_table.pdf, id=219, page=2, 597.23125pt x 845.1575pt>
+ [41.41.0.0.0.2.0.0.0.1 <./overview_table.pdf>] <overview_table.pdf, id=262, pa
+ge=2, 597.23125pt x 845.1575pt>
 File: overview_table.pdf Graphic file (type pdf)
 
 <use overview_table.pdf, page 2>
@@ -1115,8 +1151,8 @@ File: overview_table.pdf Graphic file (type pdf)
 <use overview_table.pdf, page 2>
 Package pdftex.def Info: overview_table.pdf, page2 used on input line 142.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [39.39.0.0.0.2.0.0.0.1 <./overview_table.pdf>] <lexical_features.pdf, id=225, 
-597.23125pt x 845.1575pt>
+ [42.42.0.0.0.2 <./overview_table.pdf>]
+<lexical_features.pdf, id=268, 597.23125pt x 845.1575pt>
 File: lexical_features.pdf Graphic file (type pdf)
 
 <use lexical_features.pdf>
@@ -1127,7 +1163,7 @@ File: lexical_features.pdf Graphic file (type pdf)
 Package pdftex.def Info: lexical_features.pdf used on input line 150.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<lexical_features.pdf, id=228, page=1, 597.23125pt x 845.1575pt>
+<lexical_features.pdf, id=271, page=1, 597.23125pt x 845.1575pt>
 File: lexical_features.pdf Graphic file (type pdf)
 
 <use lexical_features.pdf, page 1>
@@ -1151,8 +1187,8 @@ File: lexical_features.pdf Graphic file (type pdf)
 <use lexical_features.pdf, page 1>
 Package pdftex.def Info: lexical_features.pdf, page1 used on input line 150.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [40.40.0.0.0.2 <./lexical_features.pdf>]
-<lexical_features.pdf, id=240, page=2, 597.23125pt x 845.1575pt>
+ [43.43.0.0.0.2.0.0.0.1 <./lexical_features.pdf>] <lexical_features.pdf, id=284
+, page=2, 597.23125pt x 845.1575pt>
 File: lexical_features.pdf Graphic file (type pdf)
 
 <use lexical_features.pdf, page 2>
@@ -1167,7 +1203,8 @@ File: lexical_features.pdf Graphic file (type pdf)
 <use lexical_features.pdf, page 2>
 Package pdftex.def Info: lexical_features.pdf, page2 used on input line 150.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [41.41.0.0.0.2.0.0.0.1 <./lexical_features.pdf>] 
+ [44.44.0.0.0.2 <./lexical_features.pdf>]
+
 AED: lastpage setting LastPage
 (./report.aux)
 
@@ -1175,10 +1212,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 11196 strings out of 493013
- 162595 string characters out of 6135682
- 262875 words of memory out of 5000000
- 14353 multiletter control sequences out of 15000+600000
+ 11223 strings out of 493013
+ 163056 string characters out of 6135682
+ 262919 words of memory out of 5000000
+ 14373 multiletter control sequences out of 15000+600000
  23956 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  52i,18n,46p,1156b,724s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1186,10 +1223,10 @@ Here is how much of TeX's memory you used:
 xmf/fonts/type1/public/scalable-cyrfonts-tex/ftmb6w.pfb></usr/share/texmf/fonts
 /type1/public/scalable-cyrfonts-tex/ftmr6w.pfb></usr/share/texmf/fonts/type1/pu
 blic/scalable-cyrfonts-tex/ftmr6w.pfb>
-Output written on report.pdf (41 pages, 466688 bytes).
+Output written on report.pdf (44 pages, 531609 bytes).
 PDF statistics:
- 272 PDF objects out of 1000 (max. 8388607)
- 181 compressed objects within 2 object streams
- 41 named destinations out of 1000 (max. 500000)
- 126 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 318 PDF objects out of 1000 (max. 8388607)
+ 211 compressed objects within 3 object streams
+ 44 named destinations out of 1000 (max. 500000)
+ 146 words of extra memory for PDF output out of 10000 (max. 10000000)
 
