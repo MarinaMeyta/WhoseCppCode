@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  29 MAY 2017 00:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  29 MAY 2017 15:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -957,13 +957,33 @@ File: schedule_5.pdf Graphic file (type pdf)
 <use schedule_5.pdf, page 1>
 Package pdftex.def Info: schedule_5.pdf, page1 used on input line 63.
 (pdftex.def)             Requested size: 509.30438pt x 194.30724pt.
- [30.30.0.0.9.2] [31.31.0.0.9.2.0.0.0.1 <./schedule.pdf>] [32.32.0.0.9.2 <./sch
-edule_2.pdf>] [33.33.0.0.9.2.0.0.0.1 <./schedule_3.pdf>] [34.34.0.0.9.2 <./sche
-dule_4.pdf> <./schedule_5.pdf
+
+<econom.pdf, id=166, page=1, 597.23125pt x 128.48pt>
+File: econom.pdf Graphic file (type pdf)
+ <use econom.pdf, page 1>
+Package pdftex.def Info: econom.pdf, page1 used on input line 77.
+(pdftex.def)             Requested size: 509.30438pt x 109.5653pt.
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-33.def
+File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
+) [30.30.0.0.9.2.2] [31.31.0.0.9.2.2.0.0.1 <./schedule.pdf>]
+<econom_2.pdf, id=184, page=1, 597.23125pt x 241.90375pt>
+File: econom_2.pdf Graphic file (type pdf)
+
+<use econom_2.pdf, page 1>
+Package pdftex.def Info: econom_2.pdf, page1 used on input line 91.
+(pdftex.def)             Requested size: 509.30438pt x 206.29094pt.
+ [32.32.0.0.9.2.2 <./schedule_2.pdf>] [33.33.0.0.9.2.2.0.0.1 <./schedule_3.pdf>
+] [34.34.0.0.9.2.2 <./schedule_4.pdf> <./schedule_5.pdf
 
 pdfTeX warning: pdflatex (file ./schedule_5.pdf): PDF inclusion: multiple pdfs 
 with page group included in a single page
->]) (./conclusions.tex) [35.35.0.0.9.2.0.0.0.1
+> <./econom.pdf
+
+pdfTeX warning: pdflatex (file ./econom.pdf): PDF inclusion: multiple pdfs with
+ page group included in a single page
+>] [35.35.0.0.9.2.2.0.0.1 <./econom_2.pdf>]) (./conclusions.tex) [36.36.0.0.9.2
+.2
 
 ] (./report.bbl
 Underfull \hbox (badness 2635) in paragraph at lines 12--17
@@ -1043,7 +1063,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--85
 of_Information_Retrieval_Techni-
  []
 
-[36.36.0.0.9.2]
+[37.37.0.0.9.2.2.0.0.1]
 Underfull \hbox (badness 1038) in paragraph at lines 88--96
 \T2A/ftm/m/n/12 па: https://www.usenix.org/system/files/conference/usenixsecuri
 ty15/sec15-paper-caliskan-islam.pdf,
@@ -1073,7 +1093,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 143--147
 о-бод-ный (да-та об-ра-ще-ни€:
  []
 
-[37.37.0.0.9.2.0.0.0.1]
+[38.38.0.0.9.2.2]
 Underfull \hbox (badness 10000) in paragraph at lines 200--203
 []\T2A/ftm/m/n/12 ipywidgets: Interactive HTML Widgets [Ёлек-трон-ный ре-сурс].
  --- –е-жим до-сту-па:
@@ -1097,10 +1117,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 228--232
 им до-сту-па:
  []
 
-[38.38.0.0.9.2]) [39.39.0.0.9.2.0.0.0.1] [40.40.0.0.0.2
+[39.39.0.0.9.2.2.0.0.1]) [40.40.0.0.9.2.2] [41.41.0.0.0.2.2.0.0.1
 
 ]
-<overview_table.pdf, id=247, 597.23125pt x 845.1575pt>
+<overview_table.pdf, id=266, 597.23125pt x 845.1575pt>
 File: overview_table.pdf Graphic file (type pdf)
 
 <use overview_table.pdf>
@@ -1111,7 +1131,7 @@ File: overview_table.pdf Graphic file (type pdf)
 Package pdftex.def Info: overview_table.pdf used on input line 142.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<overview_table.pdf, id=250, page=1, 597.23125pt x 845.1575pt>
+<overview_table.pdf, id=269, page=1, 597.23125pt x 845.1575pt>
 File: overview_table.pdf Graphic file (type pdf)
 
 <use overview_table.pdf, page 1>
@@ -1135,8 +1155,8 @@ File: overview_table.pdf Graphic file (type pdf)
 <use overview_table.pdf, page 1>
 Package pdftex.def Info: overview_table.pdf, page1 used on input line 142.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [41.41.0.0.0.2.0.0.0.1 <./overview_table.pdf>] <overview_table.pdf, id=262, pa
-ge=2, 597.23125pt x 845.1575pt>
+ [42.42.0.0.0.2.2 <./overview_table.pdf>]
+<overview_table.pdf, id=281, page=2, 597.23125pt x 845.1575pt>
 File: overview_table.pdf Graphic file (type pdf)
 
 <use overview_table.pdf, page 2>
@@ -1151,8 +1171,8 @@ File: overview_table.pdf Graphic file (type pdf)
 <use overview_table.pdf, page 2>
 Package pdftex.def Info: overview_table.pdf, page2 used on input line 142.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [42.42.0.0.0.2 <./overview_table.pdf>]
-<lexical_features.pdf, id=268, 597.23125pt x 845.1575pt>
+ [43.43.0.0.0.2.2.0.0.1 <./overview_table.pdf>] <lexical_features.pdf, id=288, 
+597.23125pt x 845.1575pt>
 File: lexical_features.pdf Graphic file (type pdf)
 
 <use lexical_features.pdf>
@@ -1163,7 +1183,7 @@ File: lexical_features.pdf Graphic file (type pdf)
 Package pdftex.def Info: lexical_features.pdf used on input line 150.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<lexical_features.pdf, id=271, page=1, 597.23125pt x 845.1575pt>
+<lexical_features.pdf, id=291, page=1, 597.23125pt x 845.1575pt>
 File: lexical_features.pdf Graphic file (type pdf)
 
 <use lexical_features.pdf, page 1>
@@ -1187,8 +1207,8 @@ File: lexical_features.pdf Graphic file (type pdf)
 <use lexical_features.pdf, page 1>
 Package pdftex.def Info: lexical_features.pdf, page1 used on input line 150.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [43.43.0.0.0.2.0.0.0.1 <./lexical_features.pdf>] <lexical_features.pdf, id=284
-, page=2, 597.23125pt x 845.1575pt>
+ [44.44.0.0.0.2.2 <./lexical_features.pdf>]
+<lexical_features.pdf, id=303, page=2, 597.23125pt x 845.1575pt>
 File: lexical_features.pdf Graphic file (type pdf)
 
 <use lexical_features.pdf, page 2>
@@ -1203,8 +1223,7 @@ File: lexical_features.pdf Graphic file (type pdf)
 <use lexical_features.pdf, page 2>
 Package pdftex.def Info: lexical_features.pdf, page2 used on input line 150.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [44.44.0.0.0.2 <./lexical_features.pdf>]
-
+ [45.45.0.0.0.2.2.0.0.1 <./lexical_features.pdf>] 
 AED: lastpage setting LastPage
 (./report.aux)
 
@@ -1212,10 +1231,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 11223 strings out of 493013
- 163056 string characters out of 6135682
- 262919 words of memory out of 5000000
- 14373 multiletter control sequences out of 15000+600000
+ 11463 strings out of 493013
+ 165896 string characters out of 6135682
+ 262942 words of memory out of 5000000
+ 14607 multiletter control sequences out of 15000+600000
  23956 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  52i,18n,46p,1156b,724s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1223,10 +1242,10 @@ Here is how much of TeX's memory you used:
 xmf/fonts/type1/public/scalable-cyrfonts-tex/ftmb6w.pfb></usr/share/texmf/fonts
 /type1/public/scalable-cyrfonts-tex/ftmr6w.pfb></usr/share/texmf/fonts/type1/pu
 blic/scalable-cyrfonts-tex/ftmr6w.pfb>
-Output written on report.pdf (44 pages, 531609 bytes).
+Output written on report.pdf (45 pages, 563795 bytes).
 PDF statistics:
- 318 PDF objects out of 1000 (max. 8388607)
- 211 compressed objects within 3 object streams
- 44 named destinations out of 1000 (max. 500000)
- 146 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 337 PDF objects out of 1000 (max. 8388607)
+ 223 compressed objects within 3 object streams
+ 45 named destinations out of 1000 (max. 500000)
+ 156 words of extra memory for PDF output out of 10000 (max. 10000000)
 
