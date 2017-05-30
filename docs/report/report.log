@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  30 MAY 2017 19:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  30 MAY 2017 19:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1024,201 +1024,153 @@ e 186.
  [36.36.0.0.9.4
 
 ] (./report.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 12--16
+Underfull \hbox (badness 2635) in paragraph at lines 12--17
 []\T2A/ftm/m/n/12 ќбразовательный стан-дарт ¬”-«а ќ— “”-—”– 01-2013 [Ёлек-трон-
-ный ре-сурс]. URL:
+ный ре-сурс]. --- –е-жим
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--16
-\T2A/ftm/m/n/12 https://storage.tusur.ru/files/40668/rules_tech_01-2013.pdf, св
-о-бод-ный (да-та об-ра-ще-ни€:
+Underfull \hbox (badness 10000) in paragraph at lines 20--23
+[]\T2A/ftm/m/n/12 Google C++ Style Guide [Ёлек-трон-ный ре-сурс]. --- –е-жим до
+-сту-па:
  []
 
 
-Overfull \hbox (16.92642pt too wide) in paragraph at lines 19--22
-[]\T2A/ftm/m/n/12 Google C++ Style Guide [Ёлек-трон-ный ре-сурс]. URL: https://
-google.github.io/styleguide/cppguide.html,
+Underfull \hbox (badness 10000) in paragraph at lines 26--29
+[]\T2A/ftm/m/n/12 C++ Programming Style Guidelines [Ёлек-трон-ный ре-сурс]. ---
+ –е-жим до-сту-па:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--28
-[]\T2A/ftm/m/n/12 C++ Programming Style Guidelines [Ёлек-трон-ный ре-сурс]. URL
-:
- []
-
-
-Underfull \hbox (badness 2582) in paragraph at lines 31--36
+Underfull \hbox (badness 2582) in paragraph at lines 32--37
 []\T2A/ftm/m/n/12  афедра ком-плекс-ной ин-фор-ма-ци-он-ной без-опас-но-сти эле
 ктронно-вычислительных си-стем
  []
 
 
-Underfull \hbox (badness 5316) in paragraph at lines 39--44
-[]\T2A/ftm/m/n/12 Source Code Authorship Analysis For Supporting The Cybercrime
- Investigation Process.
- []
-
-
-Underfull \hbox (badness 1975) in paragraph at lines 39--44
-\T2A/ftm/m/n/12 Georgia Frantzeskou, Efstathios Stamatatos, Stefanos Gritzalis 
-[Ёлек-трон-ный ре-сурс]. URL:
- []
-
-
-Underfull \hbox (badness 3343) in paragraph at lines 47--52
+Underfull \hbox (badness 3343) in paragraph at lines 48--53
 []\T2A/ftm/m/n/12 Identifying Authorship by Byte-Level N-Grams: The Source Code
  Author Profile (SCAP)
  []
 
 
-Underfull \hbox (badness 4595) in paragraph at lines 47--52
-\T2A/ftm/m/n/12 Method. Georgia Frantzeskou, Efstathios Stamatatos, Stefanos Gr
-itzalis [Ёлек-трон-ный ре-
+Underfull \hbox (badness 2922) in paragraph at lines 56--61
+\T2A/ftm/m/n/12 Sciences Department University of Wisconsin [Ёлек-трон-ный ре-с
+урс]. --- –е-жим до-сту-па:
  []
 
 
-Underfull \hbox (badness 5696) in paragraph at lines 55--60
-[]\T2A/ftm/m/n/12 Using Classification Techniques to Determine Source Code Auth
-orship. Brian N. Pellin
+Underfull \hbox (badness 10000) in paragraph at lines 64--69
+[]\T2A/ftm/m/n/12 Source Code Authorship Attribution using n-grams. Steven Burr
+ows,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--60
-\T2A/ftm/m/n/12 Computer Sciences Department University of Wisconsin [Ёлек-трон
--ный ре-сурс]. URL:
+Underfull \hbox (badness 10000) in paragraph at lines 64--69
+\T2A/ftm/m/n/12 S.M.M. Tahaghoghi [Ёлек-трон-ный ре-сурс]. --- –е-жим до-сту-па
+:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--60
-\T2A/ftm/m/n/12 https://pdfs.semanticscholar.org/f9aa/790191a50bed02a877e1696c7
-bb71ea9f33a.pdf, сво-бод-ный
+Underfull \hbox (badness 10000) in paragraph at lines 64--69
+\T2A/ftm/m/n/12 https://pdfs.semanticscholar.org/79a2/1998c2f0afe2c616c01d590d6
+d0f6e16e9eb.pdf, сво-бод-ный
  []
 
 
-Overfull \hbox (10.30246pt too wide) in paragraph at lines 63--67
-\T2A/ftm/m/n/12 ный ре-сурс]. URL: https://pdfs.semanticscholar.org/79a2/1998c2
-f0afe2c616c01d590d6d0f6e16e9eb.pdf,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--74
+Underfull \hbox (badness 1297) in paragraph at lines 72--76
 []\T2A/ftm/m/n/12 Source Code Authorship Attribution. Steven Burrows [Ёлек-трон
--ный ре-сурс]. URL:
+-ный ре-сурс]. --- –е-жим до-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--74
-\T2A/ftm/m/n/12 http://researchbank.rmit.edu.au/eserv/rmit:10828/Burrows.pdf, с
-во-бод-ный (да-та об-ра-ще-ни€:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--83
+Underfull \hbox (badness 10000) in paragraph at lines 79--85
 []\T2A/ftm/m/n/12 Application of information retrieval techniques for source co
-de authorship
+de authorship attribution.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--83
-\T2A/ftm/m/n/12 attribution. S. Burrows, A. Uitdenbogerd, T. Urpin [Ёлек-трон-н
-ый ре-сурс]. URL:
+Underfull \hbox (badness 10000) in paragraph at lines 79--85
+\T2A/ftm/m/n/12 S. Burrows, A. Uitdenbogerd, T. Urpin [Ёлек-трон-ный ре-сурс]. 
+--- –е-жим до-сту-па:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--83
+Underfull \hbox (badness 10000) in paragraph at lines 79--85
 \T2A/ftm/m/n/12 https://www.researchgate.net/publication/220787332_Application_
 of_Information_Retrieval_Techni-
  []
 
 [37.37.0.0.9.4.0.0.0.1]
-Underfull \hbox (badness 1867) in paragraph at lines 86--94
-[]\T2A/ftm/m/n/12 De-anonymizing Programmers via Code Stylometry. Aylin Caliska
-n-Islam, Drexel University;
+Underfull \hbox (badness 1038) in paragraph at lines 88--96
+\T2A/ftm/m/n/12 па: https://www.usenix.org/system/files/conference/usenixsecuri
+ty15/sec15-paper-caliskan-islam.pdf,
  []
 
 
-Underfull \hbox (badness 4872) in paragraph at lines 86--94
-\T2A/ftm/m/n/12 Richard Harang, U.S. Army Research Laboratory; Andrew Liu, Univ
-ersity of Maryland;
+Underfull \hbox (badness 10000) in paragraph at lines 157--160
+[]\T2A/ftm/m/n/12 ipywidgets: Interactive HTML Widgets [Ёлек-трон-ный ре-сурс].
+ --- –е-жим до-сту-па:
+ []
+
+[38.38.0.0.9.4]
+Underfull \hbox (badness 1009) in paragraph at lines 172--175
+[]\T2A/ftm/m/n/12 ћакросы (C/C++) [Ёлек-трон-ный ре-сурс]. --- –е-жим до-сту-па
+: https://msdn.microsoft.com/ru-
  []
 
 
-Underfull \hbox (badness 3439) in paragraph at lines 97--101
-\T2A/ftm/m/n/12 http://stat.ethz.ch/education/semesters/ss2012/ams/slides/v10.2
-.pdf, сво-бод-ный (да-та об-ра-ще-ни€:
+Underfull \hbox (badness 10000) in paragraph at lines 178--181
+[]\T2A/ftm/m/n/12  лючевые сло-ва C++ [Ёлек-трон-ный ре-сурс]. --- –е-жим до-ст
+у-па:
  []
 
 
-Underfull \hbox (badness 6675) in paragraph at lines 123--126
-[]\T2A/ftm/m/n/12 Scikit-learn --- Machine Learning in Python [Ёлек-трон-ный ре
--сурс]. URL: http://scikit-
+Underfull \hbox (badness 10000) in paragraph at lines 192--196
+[]\T2A/ftm/m/n/12 јлгоритм AdaBoost [Ёлек-трон-ный ре-сурс]. --- –е-жим до-сту-
+па:
  []
 
 
-Underfull \hbox (badness 2680) in paragraph at lines 135--137
-[]\T2A/ftm/m/n/12 NumPy [Ёлек-трон-ный ре-сурс]. URL: http://www.numpy.org/, св
+Underfull \hbox (badness 10000) in paragraph at lines 192--196
+\T2A/ftm/m/n/12 http://www.machinelearning.ru/wiki/index.php?title=AdaBoost, св
 о-бод-ный (да-та об-ра-ще-ни€:
  []
 
 
-Underfull \hbox (badness 5985) in paragraph at lines 140--142
-[]\T2A/ftm/m/n/12 SciPy [Ёлек-трон-ный ре-сурс]. URL: https://www.scipy.org/, с
-во-бод-ный (да-та об-ра-ще-ни€:
- []
-
-[38.38.0.0.9.4]
-Underfull \hbox (badness 10000) in paragraph at lines 166--169
-[]\T2A/ftm/m/n/12 ћакросы (C/C++) [Ёлек-трон-ный ре-сурс]. URL: https://msdn.mi
-crosoft.com/ru-
+Underfull \hbox (badness 10000) in paragraph at lines 206--212
+\T2A/ftm/m/n/12 sistema-programmnoy-dokumentatsii-Programma-i-metodika-ispitani
+y-Trebovaniya-k-soderganiyu-i-
  []
 
 
-Underfull \hbox (badness 1622) in paragraph at lines 178--182
-\T2A/ftm/m/n/12 сурс]. URL: http://www.intuit.ru/studies/courses/6/6/lecture/17
-40, сво-бод-ный (да-та об-ра-ще-ни€:
+Underfull \hbox (badness 6876) in paragraph at lines 222--225
+[]\T2A/ftm/m/n/12 Code Jam Language Stats [Ёлек-трон-ный ре-сурс]. --- –е-жим д
+о-сту-па: https://www.go-
  []
 
 
-Overfull \hbox (68.13037pt too wide) in paragraph at lines 185--188
-[]\T2A/ftm/m/n/12 јлгоритм AdaBoost [Ёлек-трон-ный ре-сурс]. URL: http://www.ma
-chinelearning.ru/wiki/index.php?title=AdaBoost,
+Underfull \hbox (badness 10000) in paragraph at lines 228--232
+[]\T2A/ftm/m/n/12 GitHub Dominates the Forges [Ёлек-трон-ный ре-сурс]. --- –е-ж
+им до-сту-па:
  []
 
 
-Underfull \hbox (badness 2005) in paragraph at lines 191--195
-\T2A/ftm/m/n/12 URL: https://pdfs.semanticscholar.org/336a/165c17c9c56160d332b9
-f4a2b403fccbdbfb.pdf, сво-бод-
+Underfull \hbox (badness 4634) in paragraph at lines 243--250
+[]\T2A/ftm/m/n/12 ѕоложение об опла-те тру-да ра-бот-ни-ков уни-вер-си-те-та. ѕ
+ри-каз рек-то-ра от 22.03.2013
  []
 
-
-Underfull \hbox (badness 1077) in paragraph at lines 198--203
-[]\T2A/ftm/m/n/12 √ќ—“ 19.301-79. ≈—ѕƒ. ѕро-грам-ма и ме-то-ди-ка ис-пы-та-ний.
- “ре-бо-ва-ни€ к со-дер-жа-нию и
+[39.39.0.0.9.4.0.0.0.1]
+Underfull \hbox (badness 1533) in paragraph at lines 253--260
+\T2A/ftm/m/n/12 ние ѕра-ви-тель-ства –‘ Э 1 от 1 €н-ва-р€ 2002 г. [Ёлек-трон-ны
+й ре-сурс]. --- –е-жим до-
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 198--203
-\T2A/ftm/m/n/12 programmnoy-dokumentatsii-Programma-i-metodika-ispitaniy-Trebov
-aniya-k-soderganiyu-i-19301-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 224--228
-[]\T2A/ftm/m/n/12 ќценка клас-си-фи-ка-то-ра (точ-ность, пол-но-та, F-мера) [Ёл
-ек-трон-ный ре-сурс]. URL:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 224--228
-\T2A/ftm/m/n/12 http://bazhenov.me/blog/2012/07/21/classification-performance-e
-valuation.html, сво-бод-ный (да-
- []
-
-) [39.39.0.0.9.4.0.0.0.1] [40.40.0.0.0.4
+) [40.40.0.0.9.4] [41.41.0.0.0.4.0.0.0.1
 
 ]
-<overview_table.pdf, id=302, 597.23125pt x 845.1575pt>
+<overview_table.pdf, id=306, 597.23125pt x 845.1575pt>
 File: overview_table.pdf Graphic file (type pdf)
 
 <use overview_table.pdf>
@@ -1229,7 +1181,7 @@ File: overview_table.pdf Graphic file (type pdf)
 Package pdftex.def Info: overview_table.pdf used on input line 127.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<overview_table.pdf, id=305, page=1, 597.23125pt x 845.1575pt>
+<overview_table.pdf, id=309, page=1, 597.23125pt x 845.1575pt>
 File: overview_table.pdf Graphic file (type pdf)
 
 <use overview_table.pdf, page 1>
@@ -1253,8 +1205,8 @@ File: overview_table.pdf Graphic file (type pdf)
 <use overview_table.pdf, page 1>
 Package pdftex.def Info: overview_table.pdf, page1 used on input line 127.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [41.41.0.0.0.4.0.0.0.1 <./overview_table.pdf>] <overview_table.pdf, id=317, pa
-ge=2, 597.23125pt x 845.1575pt>
+ [42.42.0.0.0.4 <./overview_table.pdf>]
+<overview_table.pdf, id=321, page=2, 597.23125pt x 845.1575pt>
 File: overview_table.pdf Graphic file (type pdf)
 
 <use overview_table.pdf, page 2>
@@ -1269,8 +1221,8 @@ File: overview_table.pdf Graphic file (type pdf)
 <use overview_table.pdf, page 2>
 Package pdftex.def Info: overview_table.pdf, page2 used on input line 127.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [42.42.0.0.0.4 <./overview_table.pdf>]
-<lexical_features.pdf, id=323, 597.23125pt x 845.1575pt>
+ [43.43.0.0.0.4.0.0.0.1 <./overview_table.pdf>] <lexical_features.pdf, id=328, 
+597.23125pt x 845.1575pt>
 File: lexical_features.pdf Graphic file (type pdf)
 
 <use lexical_features.pdf>
@@ -1281,7 +1233,7 @@ File: lexical_features.pdf Graphic file (type pdf)
 Package pdftex.def Info: lexical_features.pdf used on input line 135.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<lexical_features.pdf, id=326, page=1, 597.23125pt x 845.1575pt>
+<lexical_features.pdf, id=331, page=1, 597.23125pt x 845.1575pt>
 File: lexical_features.pdf Graphic file (type pdf)
 
 <use lexical_features.pdf, page 1>
@@ -1305,8 +1257,8 @@ File: lexical_features.pdf Graphic file (type pdf)
 <use lexical_features.pdf, page 1>
 Package pdftex.def Info: lexical_features.pdf, page1 used on input line 135.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [43.43.0.0.0.4.0.0.0.1 <./lexical_features.pdf>] <lexical_features.pdf, id=340
-, page=2, 597.23125pt x 845.1575pt>
+ [44.44.0.0.0.4 <./lexical_features.pdf>]
+<lexical_features.pdf, id=344, page=2, 597.23125pt x 845.1575pt>
 File: lexical_features.pdf Graphic file (type pdf)
 
 <use lexical_features.pdf, page 2>
@@ -1321,8 +1273,7 @@ File: lexical_features.pdf Graphic file (type pdf)
 <use lexical_features.pdf, page 2>
 Package pdftex.def Info: lexical_features.pdf, page2 used on input line 135.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [44.44.0.0.0.4 <./lexical_features.pdf>]
-
+ [45.45.0.0.0.4.0.0.0.1 <./lexical_features.pdf>] 
 AED: lastpage setting LastPage
 (./report.aux)
 
@@ -1330,10 +1281,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 11271 strings out of 493013
- 164461 string characters out of 6135682
- 265976 words of memory out of 5000000
- 14408 multiletter control sequences out of 15000+600000
+ 11275 strings out of 493013
+ 164500 string characters out of 6135682
+ 265991 words of memory out of 5000000
+ 14411 multiletter control sequences out of 15000+600000
  29622 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  52i,18n,46p,1156b,724s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1347,10 +1298,10 @@ c/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts
 -tex/ftmb6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmr
 6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmr6w.pfb></
 usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmri6w.pfb>
-Output written on report.pdf (44 pages, 687250 bytes).
+Output written on report.pdf (45 pages, 689115 bytes).
 PDF statistics:
- 394 PDF objects out of 1000 (max. 8388607)
- 261 compressed objects within 3 object streams
- 44 named destinations out of 1000 (max. 500000)
+ 398 PDF objects out of 1000 (max. 8388607)
+ 264 compressed objects within 3 object streams
+ 45 named destinations out of 1000 (max. 500000)
  171 words of extra memory for PDF output out of 10000 (max. 10000000)
 

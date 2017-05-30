@@ -10,35 +10,36 @@
 \bibitem{ostusur}
 \selectlanguageifdefined{russian}
 {Образовательный стандарт ВУЗа ОС ТУСУР
-  01-2013 [Электронный ресурс]}. URL:
+  01-2013 [Электронный ресурс]}. --- Режим
+  доступа:
   https://storage.tusur.ru/files/40668/rules\_tech\_01-2013.pdf,
   свободный (дата обращения: 28.05.2017).{}
 
 \bibitem{google_style}
 \selectlanguageifdefined{english}
-{Google C++ Style Guide [Электронный ресурс]}. URL:
-  https://google.github.io/styleguide/cppguide.html, свободный
-  (дата обращения: 28.04.2017).{}
+{Google C++ Style Guide [Электронный ресурс]}. --- Режим
+  доступа: https://google.github.io/styleguide/cppguide.html,
+  свободный (дата обращения: 28.04.2017).{}
 
 \bibitem{geosoft}
 \selectlanguageifdefined{english}
-{C++ Programming Style Guidelines [Электронный ресурс]}. URL:
-  http://geosoft.no/development/cppstyle.html, свободный (дата
-  обращения: 28.04.2017).{}
+{C++ Programming Style Guidelines [Электронный ресурс]}. ---
+  Режим доступа: http://geosoft.no/development/cppstyle.html,
+  свободный (дата обращения: 28.04.2017).{}
 
 \bibitem{kibevs}
 \selectlanguageifdefined{russian}
 {Кафедра комплексной информационной
   безопасности электронно-вычислительных
-  систем [Электронный ресурс]}. URL: доступа:
-  http://kibevs.tusur.ru/pages/kafedra/index, свободный (дата
-  обращения: 01.05.2017).{}
+  систем [Электронный ресурс]}. --- Режим
+  доступа: доступа: http://kibevs.tusur.ru/pages/kafedra/index,
+  свободный (дата обращения: 01.05.2017).{}
 
 \bibitem{frantz}
 \selectlanguageifdefined{english}
 {Source Code Authorship Analysis For Supporting The Cybercrime Investigation
   Process. Georgia Frantzeskou, Efstathios Stamatatos, Stefanos Gritzalis
-  [Электронный ресурс]}. URL:
+  [Электронный ресурс]}. --- Режим доступа:
   http://www.icsd.aegean.gr/lecturers/stamatatos/papers/ICETE2005.pdf,
   свободный (дата обращения: 17.02.2017).{}
 
@@ -46,7 +47,7 @@
 \selectlanguageifdefined{english}
 {Identifying Authorship by Byte-Level N-Grams: The Source Code Author Profile
   (SCAP) Method. Georgia Frantzeskou, Efstathios Stamatatos, Stefanos Gritzalis
-  [Электронный ресурс]}. URL:
+  [Электронный ресурс]}. --- Режим доступа:
   https://www.semanticscholar.org/paper/Identifying-Authorship-by-Byte-Level-N-Grams-The-Frantzeskou-Stamatatos/3b2531ea2685b9fb9abf071d119974ac3405874d,
   свободный (дата обращения: 15.02.2017).{}
 
@@ -54,21 +55,22 @@
 \selectlanguageifdefined{english}
 {Using Classification Techniques to Determine Source Code Authorship. Brian N.
   Pellin Computer Sciences Department University of Wisconsin
-  [Электронный ресурс]}. URL:
+  [Электронный ресурс]}. --- Режим доступа:
   https://pdfs.semanticscholar.org/f9aa/790191a50bed02a877e1696c7bb71ea9f33a.pdf,
   свободный (дата обращения: 25.02.2017).{}
 
 \bibitem{burrows}
 \selectlanguageifdefined{english}
 {Source Code Authorship Attribution using n-grams. Steven Burrows, S.M.M.
-  Tahaghoghi [Электронный ресурс]}. URL:
+  Tahaghoghi [Электронный ресурс]}. --- Режим
+  доступа:
   https://pdfs.semanticscholar.org/79a2/1998c2f0afe2c616c01d590d6d0f6e16e9eb.pdf,
   свободный (дата обращения: 23.02.2017).{}
 
 \bibitem{burrows_big}
 \selectlanguageifdefined{english}
 {Source Code Authorship Attribution. Steven Burrows [Электронный
-  ресурс]}. URL:
+  ресурс]}. --- Режим доступа:
   http://researchbank.rmit.edu.au/eserv/rmit:10828/Burrows.pdf,
   свободный (дата обращения: 23.02.2017).{}
 
@@ -76,7 +78,7 @@
 \selectlanguageifdefined{english}
 {Application of information retrieval techniques for source code authorship
   attribution. S. Burrows, A. Uitdenbogerd, T. Urpin [Электронный
-  ресурс]}. URL:
+  ресурс]}. --- Режим доступа:
   https://www.researchgate.net/publication/220787332\_Application\_of\_Information\_Retrieval\_Techni-
   ques\_for\_Source\_Code\_Authorship\_Attribution, свободный
   (дата обращения: 23.02.2017).{}
@@ -88,14 +90,14 @@
   University of Maryland; Arvind Narayanan, Princeton University; Clare Voss,
   U.S. Army Research Laboratory; Fabian Yamaguchi, University of Goettingen;
   Rachel Greenstadt, Drexel University [Электронный ресурс]}.
-  URL:
+  --- Режим доступа:
   https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-caliskan-islam.pdf,
   свободный (дата обращения: 18.02.2017).{}
 
 \bibitem{random_forest}
 \selectlanguageifdefined{english}
 {Random Forest. Applied Multivariate Statistics --- Spring 2012
-  [Электронный ресурс]}. URL:
+  [Электронный ресурс]}. --- Режим доступа:
   http://stat.ethz.ch/education/semesters/ss2012/ams/slides/v10.2.pdf,
   свободный (дата обращения: 17.02.2017).{}
 
@@ -103,54 +105,58 @@
 \selectlanguageifdefined{english}
 {Git Blame Who?: Stylistic Authorship Attribution of Small, Incomplete Source
   Code Fragments. Edwin Dauber, Aylin Caliskan, Richard Harang, Rachel
-  Greenstadt [Электронный ресурс]}. URL:
-  https://arxiv.org/abs/1701.05681, свободный (дата
-  обращения: 10.03.2017).{}
+  Greenstadt [Электронный ресурс]}. --- Режим
+  доступа: https://arxiv.org/abs/1701.05681, свободный
+  (дата обращения: 10.03.2017).{}
 
 \bibitem{jupyter}
 \selectlanguageifdefined{english}
-{The Jupyter Notebook [Электронный ресурс]}. URL:
-  http://jupyter.org/, свободный (дата обращения:
-  02.04.2017).{}
+{The Jupyter Notebook [Электронный ресурс]}. --- Режим
+  доступа: http://jupyter.org/, свободный (дата
+  обращения: 02.04.2017).{}
 
 \bibitem{GitHub}
 \selectlanguageifdefined{english}
-{GitHub [Электронный ресурс]}. URL: https://github.com/,
-  свободный (дата обращения: 10.05.2017).{}
+{GitHub [Электронный ресурс]}. --- Режим доступа:
+  https://github.com/, свободный (дата обращения:
+  10.05.2017).{}
 
 \bibitem{scikit}
 \selectlanguageifdefined{english}
 {Scikit-learn --- Machine Learning in Python [Электронный
-  ресурс]}. URL: http://scikit-learn.org/stable/, свободный
-  (дата обращения: 02.03.2017).{}
+  ресурс]}. --- Режим доступа:
+  http://scikit-learn.org/stable/, свободный (дата
+  обращения: 02.03.2017).{}
 
 \bibitem{plotly}
 \selectlanguageifdefined{english}
-{Plotly Python Library [Электронный ресурс]}. URL:
-  https://plot.ly/python/, свободный (дата обращения:
-  25.02.2017).{}
+{Plotly Python Library [Электронный ресурс]}. --- Режим
+  доступа: https://plot.ly/python/, свободный (дата
+  обращения: 25.02.2017).{}
 
 \bibitem{numpy}
 \selectlanguageifdefined{english}
-{NumPy [Электронный ресурс]}. URL: http://www.numpy.org/,
-  свободный (дата обращения: 25.02.2017).{}
+{NumPy [Электронный ресурс]}. --- Режим доступа:
+  http://www.numpy.org/, свободный (дата обращения:
+  25.02.2017).{}
 
 \bibitem{scipy}
 \selectlanguageifdefined{english}
-{SciPy [Электронный ресурс]}. URL: https://www.scipy.org/,
-  свободный (дата обращения: 25.02.2017).{}
+{SciPy [Электронный ресурс]}. --- Режим доступа:
+  https://www.scipy.org/, свободный (дата обращения:
+  25.02.2017).{}
 
 \bibitem{pandas}
 \selectlanguageifdefined{english}
-{Python Data Analysis Library [Электронный ресурс]}. URL:
-  http://pandas.pydata.org/, свободный (дата обращения:
-  25.02.2017).{}
+{Python Data Analysis Library [Электронный ресурс]}. ---
+  Режим доступа: http://pandas.pydata.org/, свободный
+  (дата обращения: 25.02.2017).{}
 
 \bibitem{widgets}
 \selectlanguageifdefined{english}
 {ipywidgets: Interactive HTML Widgets [Электронный ресурс]}.
-  URL: https://github.com/jupyter-widgets/ipywidgets, свободный
-  (дата обращения: 09.03.2017).{}
+  --- Режим доступа: https://github.com/jupyter-widgets/ipywidgets,
+  свободный (дата обращения: 09.03.2017).{}
 
 \bibitem{bracing_styles}
 \selectlanguageifdefined{russian}
@@ -163,33 +169,35 @@
 
 \bibitem{macros}
 \selectlanguageifdefined{russian}
-{Макросы (C/C++) [Электронный ресурс]}. URL:
-  https://msdn.microsoft.com/ru-ru/library/503x3e3s.aspx, свободный
-  (дата обращения: 23.02.2017).{}
+{Макросы (C/C++) [Электронный ресурс]}. --- Режим
+  доступа: https://msdn.microsoft.com/ru-ru/library/503x3e3s.aspx,
+  свободный (дата обращения: 23.02.2017).{}
 
 \bibitem{cppkeywords}
 \selectlanguageifdefined{russian}
-{Ключевые слова C++ [Электронный ресурс]}. URL:
-  http://ru.cppreference.com/w/cpp/keyword, свободный (дата
-  обращения: 12.03.2017).{}
+{Ключевые слова C++ [Электронный ресурс]}. ---
+  Режим доступа: http://ru.cppreference.com/w/cpp/keyword,
+  свободный (дата обращения: 12.03.2017).{}
 
 \bibitem{data_mining}
 \selectlanguageifdefined{russian}
 {Методы классификации и прогнозирования.
   Деревья решений. ИНТУИТ [Электронный
-  ресурс]}. URL: http://www.intuit.ru/studies/courses/6/6/lecture/1740,
-  свободный (дата обращения: 01.05.2017).{}
+  ресурс]}. --- Режим доступа:
+  http://www.intuit.ru/studies/courses/6/6/lecture/1740, свободный
+  (дата обращения: 01.05.2017).{}
 
 \bibitem{ada_boost}
 \selectlanguageifdefined{russian}
-{Алгоритм AdaBoost [Электронный ресурс]}. URL:
+{Алгоритм AdaBoost [Электронный ресурс]}. ---
+  Режим доступа:
   http://www.machinelearning.ru/wiki/index.php?title=AdaBoost,
   свободный (дата обращения: 27.04.2017).{}
 
 \bibitem{extra_trees}
 \selectlanguageifdefined{english}
 {Extremely randomized trees. Pierre Geurts, Damien Ernst, Louis Wehenkel
-  [Электронный ресурс]}. URL:
+  [Электронный ресурс]}. --- Режим доступа:
   https://pdfs.semanticscholar.org/336a/165c17c9c56160d332b9f4a2b403fccbdbfb.pdf,
   свободный (дата обращения: 28.04.2017).{}
 
@@ -197,33 +205,67 @@
 \selectlanguageifdefined{russian}
 {ГОСТ 19.301-79. ЕСПД. Программа и методика
   испытаний. Требования к содержанию и
-  оформлению [Электронный ресурс]}. URL:
+  оформлению [Электронный ресурс]}. --- Режим
+  доступа:
   http://xn----etbwobqde.xn--p1ai\/GOST\_Edinaya-sistema-programmnoy-dokumentatsii-Programma-i-metodika-ispitaniy-Trebovaniya-k-soderganiyu-i-19301-79\_2088.html,
   свободный (дата обращения: 28.05.2017).{}
 
 \bibitem{crossval}
 \selectlanguageifdefined{russian}
 {Перекрёстная проверка [Электронный
-  ресурс]}. URL: https://ru.wikipedia.org/wiki/, свободный
-  (дата обращения: 01.05.2017).{}
+  ресурс]}. --- Режим доступа:
+  https://ru.wikipedia.org/wiki/, свободный (дата
+  обращения: 01.05.2017).{}
 
 \bibitem{GoogleCodeJam}
 \selectlanguageifdefined{english}
-{Code Jam Language Stats [Электронный ресурс]}. URL:
-  https://www.go-hero.net/jam/16, свободный (дата
+{Code Jam Language Stats [Электронный ресурс]}. --- Режим
+  доступа: https://www.go-hero.net/jam/16, свободный (дата
   обращения: 10.02.2017).{}
 
 \bibitem{GH_domain}
 \selectlanguageifdefined{english}
-{GitHub Dominates the Forges [Электронный ресурс]}. URL:
+{GitHub Dominates the Forges [Электронный ресурс]}. ---
+  Режим доступа:
   https://github.com/blog/865-github-dominates-the-forges, свободный
   (дата обращения: 10.05.2017).{}
 
 \bibitem{metrics}
 \selectlanguageifdefined{russian}
 {Оценка классификатора (точность, полнота,
-  F-мера) [Электронный ресурс]}. URL:
+  F-мера) [Электронный ресурс]}. --- Режим
+  доступа:
   http://bazhenov.me/blog/2012/07/21/classification-performance-evaluation.html,
   свободный (дата обращения: 17.02.2017).{}
+
+\bibitem{rector_3106}
+\selectlanguageifdefined{russian}
+{Положение об оплате труда работников
+  университета. Приказ ректора от 22.03.2013
+  г.~\textnumero~3106. с изменениями от 09.12.2013
+  г.~\textnumero~14249 [Электронный ресурс]}. --- Режим
+  доступа:
+  http://old.tusur.ru/ru/education/documents/inside/doc-table.html,
+  свободный (дата обращения: 29.05.2017).{}
+
+\bibitem{amort}
+\selectlanguageifdefined{russian}
+{О классификации основных средств,
+  включаемых в амортизационные группы:
+  постановление Правительства РФ~\textnumero~1 от
+  1 января 2002 г. [Электронный ресурс]}. ---
+  Режим доступа:
+  http://www.consultant.ru/document/cons\_doc\_LAW\_34710/, свободный
+  (дата обращения: 29.05.2017).{}
+
+\bibitem{electr}
+\selectlanguageifdefined{russian}
+{Приказ от 23.12.2016 г. \textnumero~6-840 <<О тарифах на
+  электрическую энергию для населения и
+  потребителей, приравненных к категории
+  население по Томской области на 2017 год>>
+  [Электронный ресурс]}. --- Режим доступа:
+  http://energovopros.ru/spravochnik/elektrosnabzhenie/tarify-na-elektroenergiju/tomskaya\_oblast/39310/,
+  свободный (дата обращения: 29.05.2017).{}
 
 \end{thebibliography}

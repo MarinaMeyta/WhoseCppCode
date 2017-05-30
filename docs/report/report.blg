@@ -38,45 +38,48 @@ Warning--empty journal in crossval
 Warning--empty journal in GoogleCodeJam
 Warning--empty journal in GH_domain
 Warning--empty journal in metrics
-You've used 32 entries,
+Warning--empty journal in rector_3106
+Warning--empty journal in amort
+Warning--empty journal in electr
+You've used 35 entries,
             2964 wiz_defined-function locations,
-            770 strings with 13103 characters,
-and the built_in function-call counts, 4830 in all, are:
-= -- 558
-> -- 36
+            779 strings with 14428 characters,
+and the built_in function-call counts, 5271 in all, are:
+= -- 609
+> -- 39
 < -- 1
-+ -- 33
++ -- 36
 - -- 1
-* -- 194
-:= -- 536
-add.period$ -- 66
-call.type$ -- 32
+* -- 212
+:= -- 584
+add.period$ -- 72
+call.type$ -- 35
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 63
-duplicate$ -- 321
-empty$ -- 682
+cite$ -- 69
+duplicate$ -- 351
+empty$ -- 745
 format.name$ -- 1
-if$ -- 1275
+if$ -- 1392
 int.to.chr$ -- 0
-int.to.str$ -- 32
+int.to.str$ -- 35
 missing$ -- 0
-newline$ -- 140
+newline$ -- 152
 num.names$ -- 3
-pop$ -- 257
+pop$ -- 281
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 128
+skip$ -- 140
 stack$ -- 0
 substring$ -- 0
-swap$ -- 68
+swap$ -- 74
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 31
+warning$ -- 34
 while$ -- 1
-width$ -- 34
-write$ -- 336
+width$ -- 37
+write$ -- 366
 (There was 1 error message)
