@@ -1,10 +1,9 @@
 \documentclass[russian,12pt,floatsection,nocolumnsxix]{eskdtext}
-
+\usepackage[utf8x]{inputenc}
 
 % закомментировать для рамок 
 \usepackage[numbertop, numbercenter]{eskdplain}
 
-\usepackage[utf8x]{inputenc}
 
 \usepackage{setspace}
 \onehalfspacing % полуторный интервал для всего текста
@@ -26,7 +25,7 @@
 % - Точки для всех пунктов в оглавлении
 \renewcommand*{\l@section}{\@dottedtocline{1}{1.5em}{2.3em}}
 \renewcommand*{\l@subsection}{\@dottedtocline{1}{1.5em}{2.3em}}
-\renewcommand*{\l@subsubsection}{\@dottedtocline{1}{1.5em}{2.3em}}
+% \renewcommand*{\l@subsubsection}{\@dottedtocline{1}{1.5em}{2.3em}}
 
 % - Для переопределения списков
 \renewcommand{\theenumi}{\arabic{enumi}}
