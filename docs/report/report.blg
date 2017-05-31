@@ -20,6 +20,11 @@ Warning--empty journal in burrows_3
 Warning--empty journal in caliskan
 Warning--empty journal in random_forest
 Warning--empty journal in git_blame
+Warning--empty journal in macros
+Warning--empty journal in cppkeywords
+Warning--empty journal in data_mining
+Warning--empty journal in ada_boost
+Warning--empty journal in extra_trees
 Warning--empty journal in jupyter
 Warning--empty journal in GitHub
 Warning--empty journal in scikit
@@ -28,11 +33,6 @@ Warning--empty journal in numpy
 Warning--empty journal in scipy
 Warning--empty journal in pandas
 Warning--empty journal in widgets
-Warning--empty journal in macros
-Warning--empty journal in cppkeywords
-Warning--empty journal in data_mining
-Warning--empty journal in ada_boost
-Warning--empty journal in extra_trees
 Warning--empty journal in gost_19301
 Warning--empty journal in crossval
 Warning--empty journal in GoogleCodeJam
