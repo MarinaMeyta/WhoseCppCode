@@ -38,48 +38,50 @@ Warning--empty journal in crossval
 Warning--empty journal in GoogleCodeJam
 Warning--empty journal in GH_domain
 Warning--empty journal in metrics
+Warning--empty journal in sanpin_2.4.1340-03
+Warning--empty journal in sanpin_mikroclimate
 Warning--empty journal in rector_3106
 Warning--empty journal in amort
 Warning--empty journal in electr
-You've used 35 entries,
+You've used 37 entries,
             2964 wiz_defined-function locations,
-            779 strings with 14428 characters,
-and the built_in function-call counts, 5271 in all, are:
-= -- 609
-> -- 39
+            785 strings with 15220 characters,
+and the built_in function-call counts, 5565 in all, are:
+= -- 643
+> -- 41
 < -- 1
-+ -- 36
++ -- 38
 - -- 1
-* -- 212
-:= -- 584
-add.period$ -- 72
-call.type$ -- 35
+* -- 224
+:= -- 616
+add.period$ -- 76
+call.type$ -- 37
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 69
-duplicate$ -- 351
-empty$ -- 745
+cite$ -- 73
+duplicate$ -- 371
+empty$ -- 787
 format.name$ -- 1
-if$ -- 1392
+if$ -- 1470
 int.to.chr$ -- 0
-int.to.str$ -- 35
+int.to.str$ -- 37
 missing$ -- 0
-newline$ -- 152
+newline$ -- 160
 num.names$ -- 3
-pop$ -- 281
+pop$ -- 297
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 140
+skip$ -- 148
 stack$ -- 0
 substring$ -- 0
-swap$ -- 74
+swap$ -- 78
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 34
+warning$ -- 36
 while$ -- 1
-width$ -- 37
-write$ -- 366
+width$ -- 39
+write$ -- 386
 (There was 1 error message)
