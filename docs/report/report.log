@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  31 MAY 2017 16:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  31 MAY 2017 23:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -926,76 +926,137 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [26.26.0.0.7.9] [27.27.0.0.7.9.0.0.0.1 <./images/students.png> <./images/google
 .png>] [28.28.0.0.7.9 <./images/github.png>]) (./life_safety.tex
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
+Underfull \hbox (badness 1728) in paragraph at lines 27--30
+[]\T2A/ftm/m/n/12 ќсновыва€сь на клас-си-фи-ка-ции вред-ных и опас-ных фак-то-р
+ов про-из-вод-ства из √ќ—“
+ []
+
+[29.29.0.0.8.1.0.0.0.1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
 []\T2A/ftm/m/n/12 визуальные по-ка-за-те-ли ви-део-дис-плей-но-го
  []
 
 
-Overfull \vbox (14.50002pt too high) detected at line 65
+Overfull \vbox (14.50002pt too high) detected at line 111
  []
 
 
-Overfull \vbox (14.50002pt too high) detected at line 65
+Overfull \vbox (14.50002pt too high) detected at line 111
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--65
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
 []|\T2A/ftm/m/n/12 2000
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--65
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
 []|\T2A/ftm/m/n/12 4000
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--65
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
 []|\T2A/ftm/m/n/12 8000
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--65
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
 []|\T2A/ftm/m/n/12 2000
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--65
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
 []|\T2A/ftm/m/n/12 4000
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--65
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
 []|\T2A/ftm/m/n/12 8000
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[29.29.0.0.8.1.4.0.0.1
-
-]
-Underfull \hbox (badness 1406) in paragraph at lines 162--162
+[30.30.0.0.8.1.3] [31.31.0.0.8.1.4.0.0.1]
+Underfull \hbox (badness 1406) in paragraph at lines 209--209
 []|\T2A/ftm/m/n/12 “емпература по-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--162
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
 []|\T2A/ftm/m/n/12 ќтносительна€
  []
 
+[32.32.0.0.8.1.6] [33.33.0.0.8.1.6.0.0.1]
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 291.
 
-) [30.30.0.0.8.2.3] [31.31.0.0.8.2.3.0.0.1] (./economics.tex
-<tables/economics/schedule.pdf, id=175, page=1, 597.23125pt x 665.48625pt>
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 291.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 291.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 291.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 291.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 291.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 291.
+
+Missing character: There is no с in font cmr8!
+Missing character: There is no т in font cmr8!
+Missing character: There is no о in font cmr8!
+Missing character: There is no л in font cmr8!
+Missing character: There is no а in font cmr8!
+
+LaTeX Warning: Command \cyrerev invalid in math mode on input line 296.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 296.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 296.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 296.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 296.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 296.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 296.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 296.
+
+Missing character: There is no э in font cmr8!
+Missing character: There is no к in font cmr8!
+Missing character: There is no р in font cmr8!
+Missing character: There is no а in font cmr8!
+Missing character: There is no н in font cmr8!
+Missing character: There is no а in font cmr8!
+[34.34.0.0.8.1.7] [35.35.0.0.8.2.1.0.0.1] [36.36.0.0.8.2.2] [37.37.0.0.8.2.3.0.
+0.1]) [38.38.0.0.8.2.3] (./economics.tex
+<tables/economics/schedule.pdf, id=206, page=1, 597.23125pt x 665.48625pt>
 File: tables/economics/schedule.pdf Graphic file (type pdf)
 
 <use tables/economics/schedule.pdf, page 1>
 Package pdftex.def Info: tables/economics/schedule.pdf, page1 used on input lin
 e 46.
 (pdftex.def)             Requested size: 509.30438pt x 567.5141pt.
- [32.32.0.0.9.2]
-<tables/economics/schedule_2.pdf, id=180, page=1, 483.8075pt x 463.7325pt>
+ [39.39.0.0.9.2.0.0.0.1]
+<tables/economics/schedule_2.pdf, id=211, page=1, 483.8075pt x 463.7325pt>
 File: tables/economics/schedule_2.pdf Graphic file (type pdf)
 
 <use tables/economics/schedule_2.pdf, page 1>
@@ -1003,36 +1064,36 @@ Package pdftex.def Info: tables/economics/schedule_2.pdf, page1 used on input l
 ine 54.
 (pdftex.def)             Requested size: 509.30438pt x 488.19301pt.
 
-<tables/economics/schedule_3.pdf, id=181, page=1, 597.23125pt x 517.935pt>
+<tables/economics/schedule_3.pdf, id=212, page=1, 597.23125pt x 517.935pt>
 File: tables/economics/schedule_3.pdf Graphic file (type pdf)
 
 <use tables/economics/schedule_3.pdf, page 1>
 Package pdftex.def Info: tables/economics/schedule_3.pdf, page1 used on input l
 ine 61.
 (pdftex.def)             Requested size: 509.30438pt x 441.68517pt.
- [33.33.0.0.9.3.1.0.0.1 <./tables/economics/schedule.pdf>] [34.34.0.0.9.3.1 <./
+ [40.40.0.0.9.3.1 <./tables/economics/schedule.pdf>] [41.41.0.0.9.3.1.0.0.1 <./
 tables/economics/schedule_2.pdf>]
-<tables/economics/schedule_4.pdf, id=204, page=1, 597.23125pt x 249.93375pt>
+<tables/economics/schedule_4.pdf, id=235, page=1, 597.23125pt x 249.93375pt>
 File: tables/economics/schedule_4.pdf Graphic file (type pdf)
 
 <use tables/economics/schedule_4.pdf, page 1>
 Package pdftex.def Info: tables/economics/schedule_4.pdf, page1 used on input l
 ine 89.
 (pdftex.def)             Requested size: 509.30438pt x 213.13878pt.
- [35.35.0.0.9.3.3.0.0.1 <./tables/economics/schedule_3.pdf>]
-<tables/economics/schedule_5.pdf, id=216, page=1, 597.23125pt x 227.85126pt>
+ [42.42.0.0.9.3.3 <./tables/economics/schedule_3.pdf>]
+<tables/economics/schedule_5.pdf, id=247, page=1, 597.23125pt x 227.85126pt>
 File: tables/economics/schedule_5.pdf Graphic file (type pdf)
 
 <use tables/economics/schedule_5.pdf, page 1>
 Package pdftex.def Info: tables/economics/schedule_5.pdf, page1 used on input l
 ine 106.
 (pdftex.def)             Requested size: 509.30438pt x 194.30724pt.
- [36.36.0.0.9.3.4 <./tables/economics/schedule_4.pdf> <./tables/economics/sched
-ule_5.pdf
+ [43.43.0.0.9.3.4.0.0.1 <./tables/economics/schedule_4.pdf> <./tables/economics
+/schedule_5.pdf
 
 pdfTeX warning: pdflatex (file ./tables/economics/schedule_5.pdf): PDF inclusio
 n: multiple pdfs with page group included in a single page
->] <tables/economics/econom.pdf, id=234, page=1, 597.23125pt x 128.48pt>
+>] <tables/economics/econom.pdf, id=266, page=1, 597.23125pt x 128.48pt>
 File: tables/economics/econom.pdf Graphic file (type pdf)
 
 <use tables/economics/econom.pdf, page 1>
@@ -1040,7 +1101,7 @@ Package pdftex.def Info: tables/economics/econom.pdf, page1 used on input line
 124.
 (pdftex.def)             Requested size: 509.30438pt x 109.5653pt.
 
-<tables/economics/econom_2.pdf, id=235, page=1, 597.23125pt x 241.90375pt>
+<tables/economics/econom_2.pdf, id=267, page=1, 597.23125pt x 241.90375pt>
 File: tables/economics/econom_2.pdf Graphic file (type pdf)
 
 <use tables/economics/econom_2.pdf, page 1>
@@ -1048,7 +1109,7 @@ Package pdftex.def Info: tables/economics/econom_2.pdf, page1 used on input lin
 e 141.
 (pdftex.def)             Requested size: 509.30438pt x 206.29094pt.
 
-<tables/economics/econom_3.pdf, id=236, page=1, 597.23125pt x 108.405pt>
+<tables/economics/econom_3.pdf, id=268, page=1, 597.23125pt x 108.405pt>
 File: tables/economics/econom_3.pdf Graphic file (type pdf)
 
 <use tables/economics/econom_3.pdf, page 1>
@@ -1056,14 +1117,14 @@ Package pdftex.def Info: tables/economics/econom_3.pdf, page1 used on input lin
 e 153.
 (pdftex.def)             Requested size: 509.30438pt x 92.44572pt.
 
-<tables/economics/econom_4.pdf, id=237, page=1, 597.23125pt x 153.57375pt>
+<tables/economics/econom_4.pdf, id=269, page=1, 597.23125pt x 153.57375pt>
 File: tables/economics/econom_4.pdf Graphic file (type pdf)
 
 <use tables/economics/econom_4.pdf, page 1>
 Package pdftex.def Info: tables/economics/econom_4.pdf, page1 used on input lin
 e 165.
 (pdftex.def)             Requested size: 509.30438pt x 130.96478pt.
- [37.37.0.0.9.4.0.0.0.1 <./tables/economics/econom.pdf>] [38.38.0.0.9.4 <./tabl
+ [44.44.0.0.9.4 <./tables/economics/econom.pdf>] [45.45.0.0.9.4.0.0.0.1 <./tabl
 es/economics/econom_2.pdf> <./tables/economics/econom_3.pdf
 
 pdfTeX warning: pdflatex (file ./tables/economics/econom_3.pdf): PDF inclusion:
@@ -1072,15 +1133,15 @@ pdfTeX warning: pdflatex (file ./tables/economics/econom_3.pdf): PDF inclusion:
 
 pdfTeX warning: pdflatex (file ./tables/economics/econom_4.pdf): PDF inclusion:
  multiple pdfs with page group included in a single page
->] <tables/economics/econom_5.pdf, id=277, page=1, 597.23125pt x 198.7425pt>
+>] <tables/economics/econom_5.pdf, id=306, page=1, 597.23125pt x 198.7425pt>
 File: tables/economics/econom_5.pdf Graphic file (type pdf)
 
 <use tables/economics/econom_5.pdf, page 1>
 Package pdftex.def Info: tables/economics/econom_5.pdf, page1 used on input lin
 e 186.
 (pdftex.def)             Requested size: 509.30438pt x 169.48384pt.
- [39.39.0.0.9.4.0.0.0.1 <./tables/economics/econom_5.pdf>]) (./conclusions.tex)
- [40.40.0.0.9.4
+ [46.46.0.0.9.4 <./tables/economics/econom_5.pdf>]) (./conclusions.tex) [47.47.
+0.0.9.4.0.0.0.1
 
 ] (./report.bbl
 Underfull \hbox (badness 2635) in paragraph at lines 12--17
@@ -1160,7 +1221,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--85
 of_Information_Retrieval_Techni-
  []
 
-[41.41.0.0.9.4.0.0.0.1]
+[48.48.0.0.9.4]
 Underfull \hbox (badness 1038) in paragraph at lines 88--96
 \T2A/ftm/m/n/12 па: https://www.usenix.org/system/files/conference/usenixsecuri
 ty15/sec15-paper-caliskan-islam.pdf,
@@ -1190,7 +1251,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 143--147
 о-бод-ный (да-та об-ра-ще-ни€:
  []
 
-[42.42.0.0.9.4]
+[49.49.0.0.9.4.0.0.0.1]
 Underfull \hbox (badness 10000) in paragraph at lines 200--203
 []\T2A/ftm/m/n/12 ipywidgets: Interactive HTML Widgets [Ёлек-трон-ный ре-сурс].
  --- –е-жим до-сту-па:
@@ -1214,28 +1275,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 228--232
 им до-сту-па:
  []
 
-[43.43.0.0.9.4.0.0.0.1]
-Underfull \hbox (badness 10000) in paragraph at lines 243--249
+[50.50.0.0.9.4]
+Underfull \hbox (badness 2393) in paragraph at lines 243--249
+[]\T2A/ftm/m/n/12 √ќ—“ 12.0.003-2015 —и-сте-ма стан-дар-тов без-опас-но-сти тру
+-да (——Ѕ“). ќпас-ные и вред-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--258
 []\T2A/ftm/m/n/12 —анѕиЌ 2.2.2/2.4.1340-03 √и-ги-е-ни-че-ские тре-бо-ва-ни€ к п
 ер-со-наль-ным электронно-
  []
 
 
-Underfull \hbox (badness 4634) in paragraph at lines 262--269
+Underfull \hbox (badness 1701) in paragraph at lines 271--275
+[]\T2A/ftm/m/n/12 √ќ—“ »—ќ 8895-2002 ќсве-ще-ние ра-бо-чих си-стем внут-ри по-м
+е-ще-ний [Ёлек-трон-ный ре-
+ []
+
+
+Underfull \hbox (badness 4634) in paragraph at lines 289--296
 []\T2A/ftm/m/n/12 ѕоложение об опла-те тру-да ра-бот-ни-ков уни-вер-си-те-та. ѕ
 ри-каз рек-то-ра от 22.03.2013
  []
 
 
-Underfull \hbox (badness 1533) in paragraph at lines 272--279
+Underfull \hbox (badness 1533) in paragraph at lines 299--306
 \T2A/ftm/m/n/12 ние ѕра-ви-тель-ства –‘ Э 1 от 1 €н-ва-р€ 2002 г. [Ёлек-трон-ны
 й ре-сурс]. --- –е-жим до-
  []
 
-) [44.44.0.0.9.4] [45.45.0.0.0.4.0.0.0.1
+[51.51.0.0.9.4.0.0.0.1]) [52.52.0.0.9.4] [53.53.0.0.0.4.0.0.0.1
 
 ]
-<overview_table.pdf, id=324, 597.23125pt x 845.1575pt>
+<overview_table.pdf, id=358, 597.23125pt x 845.1575pt>
 File: overview_table.pdf Graphic file (type pdf)
 
 <use overview_table.pdf>
@@ -1246,7 +1319,7 @@ File: overview_table.pdf Graphic file (type pdf)
 Package pdftex.def Info: overview_table.pdf used on input line 127.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<overview_table.pdf, id=327, page=1, 597.23125pt x 845.1575pt>
+<overview_table.pdf, id=361, page=1, 597.23125pt x 845.1575pt>
 File: overview_table.pdf Graphic file (type pdf)
 
 <use overview_table.pdf, page 1>
@@ -1270,8 +1343,8 @@ File: overview_table.pdf Graphic file (type pdf)
 <use overview_table.pdf, page 1>
 Package pdftex.def Info: overview_table.pdf, page1 used on input line 127.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [46.46.0.0.0.4 <./overview_table.pdf>]
-<overview_table.pdf, id=340, page=2, 597.23125pt x 845.1575pt>
+ [54.54.0.0.0.4 <./overview_table.pdf>]
+<overview_table.pdf, id=373, page=2, 597.23125pt x 845.1575pt>
 File: overview_table.pdf Graphic file (type pdf)
 
 <use overview_table.pdf, page 2>
@@ -1286,7 +1359,7 @@ File: overview_table.pdf Graphic file (type pdf)
 <use overview_table.pdf, page 2>
 Package pdftex.def Info: overview_table.pdf, page2 used on input line 127.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [47.47.0.0.0.4.0.0.0.1 <./overview_table.pdf>] <lexical_features.pdf, id=346, 
+ [55.55.0.0.0.4.0.0.0.1 <./overview_table.pdf>] <lexical_features.pdf, id=380, 
 597.23125pt x 845.1575pt>
 File: lexical_features.pdf Graphic file (type pdf)
 
@@ -1298,7 +1371,7 @@ File: lexical_features.pdf Graphic file (type pdf)
 Package pdftex.def Info: lexical_features.pdf used on input line 135.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<lexical_features.pdf, id=349, page=1, 597.23125pt x 845.1575pt>
+<lexical_features.pdf, id=383, page=1, 597.23125pt x 845.1575pt>
 File: lexical_features.pdf Graphic file (type pdf)
 
 <use lexical_features.pdf, page 1>
@@ -1322,8 +1395,8 @@ File: lexical_features.pdf Graphic file (type pdf)
 <use lexical_features.pdf, page 1>
 Package pdftex.def Info: lexical_features.pdf, page1 used on input line 135.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [48.48.0.0.0.4 <./lexical_features.pdf>]
-<lexical_features.pdf, id=361, page=2, 597.23125pt x 845.1575pt>
+ [56.56.0.0.0.4 <./lexical_features.pdf>]
+<lexical_features.pdf, id=395, page=2, 597.23125pt x 845.1575pt>
 File: lexical_features.pdf Graphic file (type pdf)
 
 <use lexical_features.pdf, page 2>
@@ -1338,8 +1411,8 @@ File: lexical_features.pdf Graphic file (type pdf)
 <use lexical_features.pdf, page 2>
 Package pdftex.def Info: lexical_features.pdf, page2 used on input line 135.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [49.49.0.0.0.4.0.0.0.1 <./lexical_features.pdf>] <manuals/proger_manual.pdf, i
-d=368, 597.23125pt x 845.1575pt>
+ [57.57.0.0.0.4.0.0.0.1 <./lexical_features.pdf>] <manuals/proger_manual.pdf, i
+d=401, 597.23125pt x 845.1575pt>
 File: manuals/proger_manual.pdf Graphic file (type pdf)
 
 <use manuals/proger_manual.pdf>
@@ -1350,7 +1423,7 @@ File: manuals/proger_manual.pdf Graphic file (type pdf)
 Package pdftex.def Info: manuals/proger_manual.pdf used on input line 143.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<manuals/proger_manual.pdf, id=371, page=1, 597.23125pt x 845.1575pt>
+<manuals/proger_manual.pdf, id=404, page=1, 597.23125pt x 845.1575pt>
 File: manuals/proger_manual.pdf Graphic file (type pdf)
 
 <use manuals/proger_manual.pdf, page 1>
@@ -1381,8 +1454,8 @@ File: manuals/proger_manual.pdf Graphic file (type pdf)
 Package pdftex.def Info: manuals/proger_manual.pdf, page1 used on input line 14
 3.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [50.50.0.0.0.4 <./manuals/proger_manual.pdf>] <manuals/proger_manual.pdf, id=3
-83, page=2, 597.23125pt x 845.1575pt>
+ [58.58.0.0.0.4 <./manuals/proger_manual.pdf>] <manuals/proger_manual.pdf, id=4
+16, page=2, 597.23125pt x 845.1575pt>
 File: manuals/proger_manual.pdf Graphic file (type pdf)
 
 <use manuals/proger_manual.pdf, page 2>
@@ -1401,7 +1474,7 @@ File: manuals/proger_manual.pdf Graphic file (type pdf)
 Package pdftex.def Info: manuals/proger_manual.pdf, page2 used on input line 14
 3.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [51.51.0.0.0.4.0.0.0.1 <./manuals/proger_manual.pdf>] 
+ [59.59.0.0.0.4.0.0.0.1 <./manuals/proger_manual.pdf>] 
 AED: lastpage setting LastPage
 (./report.aux)
 
@@ -1409,10 +1482,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 11320 strings out of 493013
- 165405 string characters out of 6135682
- 263491 words of memory out of 5000000
- 14443 multiletter control sequences out of 15000+600000
+ 11332 strings out of 493013
+ 165549 string characters out of 6135682
+ 263506 words of memory out of 5000000
+ 14447 multiletter control sequences out of 15000+600000
  29622 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  52i,18n,46p,1345b,724s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1427,10 +1500,10 @@ onts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ft
 mb6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmr6w.pfb>
 </usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmr6w.pfb></usr/sha
 re/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmri6w.pfb>
-Output written on report.pdf (51 pages, 724938 bytes).
+Output written on report.pdf (59 pages, 748205 bytes).
 PDF statistics:
- 441 PDF objects out of 1000 (max. 8388607)
- 293 compressed objects within 3 object streams
- 51 named destinations out of 1000 (max. 500000)
+ 476 PDF objects out of 1000 (max. 8388607)
+ 319 compressed objects within 4 object streams
+ 59 named destinations out of 1000 (max. 500000)
  196 words of extra memory for PDF output out of 10000 (max. 10000000)
 
