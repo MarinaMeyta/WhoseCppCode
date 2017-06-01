@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  31 MAY 2017 23:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  1 JUN 2017 19:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -694,8 +694,22 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ) (./title.tex
 LaTeX Font Info:    Font shape `T2A/ftm/bx/n' in size <12> not available
 (Font)              Font shape `T2A/ftm/b/n' tried instead on input line 5.
-)
-[1.1.0.0.0.0.0.0.0.1
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--66
+
+ []
+
+) [1.1.0.0.0.0.0.0.0.1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 <practise_task.pdf, id=9, 597.23125pt x 845.1575pt>
@@ -1474,7 +1488,105 @@ File: manuals/proger_manual.pdf Graphic file (type pdf)
 Package pdftex.def Info: manuals/proger_manual.pdf, page2 used on input line 14
 3.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [59.59.0.0.0.4.0.0.0.1 <./manuals/proger_manual.pdf>] 
+ [59.59.0.0.0.4.0.0.0.1 <./manuals/proger_manual.pdf>] <manuals/user_manual.pdf
+, id=422, 597.23125pt x 845.1575pt>
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf>
+Package pdftex.def Info: manuals/user_manual.pdf used on input line 147.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+ <use manuals/user_manual.pdf>
+Package pdftex.def Info: manuals/user_manual.pdf used on input line 147.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+
+<manuals/user_manual.pdf, id=425, page=1, 597.23125pt x 845.1575pt>
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 1>
+Package pdftex.def Info: manuals/user_manual.pdf, page1 used on input line 147.
+
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+ <use manuals/user_manual.pdf, page 1>
+Package pdftex.def Info: manuals/user_manual.pdf, page1 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 1>
+Package pdftex.def Info: manuals/user_manual.pdf, page1 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+ <use manuals/user_manual.pdf, page 1>
+Package pdftex.def Info: manuals/user_manual.pdf, page1 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 1>
+Package pdftex.def Info: manuals/user_manual.pdf, page1 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [60.60.0.0.0.4 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, id=442, 
+page=2, 597.23125pt x 845.1575pt>
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 2>
+Package pdftex.def Info: manuals/user_manual.pdf, page2 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+ <use manuals/user_manual.pdf, page 2>
+Package pdftex.def Info: manuals/user_manual.pdf, page2 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 2>
+Package pdftex.def Info: manuals/user_manual.pdf, page2 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [61.61.0.0.0.4.0.0.0.1 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, 
+id=449, page=3, 597.23125pt x 845.1575pt>
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 3>
+Package pdftex.def Info: manuals/user_manual.pdf, page3 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+ <use manuals/user_manual.pdf, page 3>
+Package pdftex.def Info: manuals/user_manual.pdf, page3 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 3>
+Package pdftex.def Info: manuals/user_manual.pdf, page3 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [62.62.0.0.0.4 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, id=455, 
+page=4, 597.23125pt x 845.1575pt>
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 4>
+Package pdftex.def Info: manuals/user_manual.pdf, page4 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+ <use manuals/user_manual.pdf, page 4>
+Package pdftex.def Info: manuals/user_manual.pdf, page4 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 4>
+Package pdftex.def Info: manuals/user_manual.pdf, page4 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [63.63.0.0.0.4.0.0.0.1 <./manuals/user_manual.pdf>] 
 AED: lastpage setting LastPage
 (./report.aux)
 
@@ -1482,10 +1594,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 11332 strings out of 493013
- 165549 string characters out of 6135682
- 263506 words of memory out of 5000000
- 14447 multiletter control sequences out of 15000+600000
+ 11360 strings out of 493013
+ 166209 string characters out of 6135682
+ 263558 words of memory out of 5000000
+ 14469 multiletter control sequences out of 15000+600000
  29622 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  52i,18n,46p,1345b,724s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1500,10 +1612,10 @@ onts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ft
 mb6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmr6w.pfb>
 </usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmr6w.pfb></usr/sha
 re/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmri6w.pfb>
-Output written on report.pdf (59 pages, 748205 bytes).
+Output written on report.pdf (63 pages, 784995 bytes).
 PDF statistics:
- 476 PDF objects out of 1000 (max. 8388607)
- 319 compressed objects within 4 object streams
- 59 named destinations out of 1000 (max. 500000)
- 196 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 516 PDF objects out of 1000 (max. 8388607)
+ 344 compressed objects within 4 object streams
+ 63 named destinations out of 1000 (max. 500000)
+ 231 words of extra memory for PDF output out of 10000 (max. 10000000)
 
