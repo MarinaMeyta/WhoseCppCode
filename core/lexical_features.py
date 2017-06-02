@@ -61,7 +61,7 @@ def get_lexical_features(filename):
             lines_of_code = len([line for line in lines if line.strip(' \n') != ''])
             whitespace_ratio = (spaces + tabs + newlines) / file_length
 
-            print('Got lexical features for', filename)
+            # print('Got lexical features for', filename)
 
             lexical_features = np.array([ln_comments, ln_inline_comments, ln_multiline_comments,
                                          ln_macros, ln_spaces, ln_tabs, ln_newlines, whitespace_ratio,

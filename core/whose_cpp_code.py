@@ -34,17 +34,17 @@ def get_filenames(path_to_data):
     return filenames_list, authors
 
 
-def get_sample_matrix(filenames):
-    # features = np.array([lexical_features.get_lexical_features(filename) +
-    # syntactic_features.get_syntactic_features(filename) for filename in
-    # filenames])
-
-    print('Getting lexical features...')
-    features = np.array([get_lexical_features(filename) for filename in filenames])
-    print('Getting keywords...')
-    keywords = count_cppkeywords_tf(filenames)
-    matrix = np.hstack((features, keywords))
-    return matrix
+# def get_sample_matrix(filenames):
+#     # features = np.array([lexical_features.get_lexical_features(filename) +
+#     # syntactic_features.get_syntactic_features(filename) for filename in
+#     # filenames])
+#
+#     print('Getting lexical features...')
+#     features = np.array([get_lexical_features(filename) for filename in filenames])
+#     print('Getting keywords...')
+#     keywords = count_cppkeywords_tf(filenames)
+#     matrix = np.hstack((features, keywords))
+#     return matrix
 
 
 def classify_authors(path_to_data, method):
@@ -71,10 +71,10 @@ def classify_authors(path_to_data, method):
     else:
         classifier = RandomForestClassifier(n_estimators=100, n_jobs=-1)
 
-    print('Cross-validating...')
+    print('Кросс-валидация...')
     kf = KFold(n_splits=10, shuffle=True)
     report = []
-    print('Classifying...')
+    print('Классификация...')
     for train_index, test_index in kf.split(X):
         X_train = X[train_index]
         y_train = y[train_index]
