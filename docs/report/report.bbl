@@ -229,14 +229,13 @@
   --- Режим доступа: https://github.com/jupyter-widgets/ipywidgets,
   свободный (дата обращения: 09.03.2017).{}
 
-\bibitem{gost_19301}
+\bibitem{gost_19.504}
 \selectlanguageifdefined{russian}
-{ГОСТ 19.301-79. ЕСПД. Программа и методика
-  испытаний. Требования к содержанию и
-  оформлению [Электронный ресурс]}. --- Режим
-  доступа:
-  http://xn----etbwobqde.xn--p1ai\/GOST\_Edinaya-sistema-programmnoy-dokumentatsii-Programma-i-metodika-ispitaniy-Trebovaniya-k-soderganiyu-i-19301-79\_2088.html,
-  свободный (дата обращения: 28.05.2017).{}
+{ГОСТ 19.504-79 ЕСПД. Руководство программиста.
+  Требования к содержанию и оформлению
+  [Электронный ресурс]}. --- Режим доступа:
+  http://www.rugost.com/index.php?option=com\_content\&view=article\&id=64:19504-79\&catid=19\&Itemid=50,
+  свободный (дата обращения: 3.06.2017).{}
 
 \bibitem{gost_19.505}
 \selectlanguageifdefined{russian}
@@ -246,13 +245,35 @@
   http://techwrconsult.com/library/19.505, свободный (дата
   обращения: 3.06.2017).{}
 
-\bibitem{gost_19.504}
+\bibitem{rector_3106}
 \selectlanguageifdefined{russian}
-{ГОСТ 19.504-79 ЕСПД. Руководство программиста.
-  Требования к содержанию и оформлению
+{Положение об оплате труда работников
+  университета. Приказ ректора от 22.03.2013
+  г.~\textnumero~3106. с изменениями от 09.12.2013
+  г.~\textnumero~14249 [Электронный ресурс]}. --- Режим
+  доступа:
+  http://old.tusur.ru/ru/education/documents/inside/doc-table.html,
+  свободный (дата обращения: 29.05.2017).{}
+
+\bibitem{amort}
+\selectlanguageifdefined{russian}
+{О классификации основных средств,
+  включаемых в амортизационные группы:
+  постановление Правительства РФ~\textnumero~1 от
+  1 января 2002 г. [Электронный ресурс]}. ---
+  Режим доступа:
+  http://www.consultant.ru/document/cons\_doc\_LAW\_34710/, свободный
+  (дата обращения: 29.05.2017).{}
+
+\bibitem{electr}
+\selectlanguageifdefined{russian}
+{Приказ от 23.12.2016 г. \textnumero~6-840 <<О тарифах на
+  электрическую энергию для населения и
+  потребителей, приравненных к категории
+  население по Томской области на 2017 год>>
   [Электронный ресурс]}. --- Режим доступа:
-  http://www.rugost.com/index.php?option=com\_content\&view=article\&id=64:19504-79\&catid=19\&Itemid=50,
-  свободный (дата обращения: 3.06.2017).{}
+  http://energovopros.ru/spravochnik/elektrosnabzhenie/tarify-na-elektroenergiju/tomskaya\_oblast/39310/,
+  свободный (дата обращения: 29.05.2017).{}
 
 \bibitem{gost_12.0.003-2015}
 \selectlanguageifdefined{russian}
@@ -299,35 +320,5 @@
   ресурс]}. --- Режим доступа:
   http://forca.ru/instrukcii/dolzhnostnye/instrukciya-po-ohrane-truda-dlya-polzovateley-pevm.html,
   свободный (дата обращения: 31.05.2017).{}
-
-\bibitem{rector_3106}
-\selectlanguageifdefined{russian}
-{Положение об оплате труда работников
-  университета. Приказ ректора от 22.03.2013
-  г.~\textnumero~3106. с изменениями от 09.12.2013
-  г.~\textnumero~14249 [Электронный ресурс]}. --- Режим
-  доступа:
-  http://old.tusur.ru/ru/education/documents/inside/doc-table.html,
-  свободный (дата обращения: 29.05.2017).{}
-
-\bibitem{amort}
-\selectlanguageifdefined{russian}
-{О классификации основных средств,
-  включаемых в амортизационные группы:
-  постановление Правительства РФ~\textnumero~1 от
-  1 января 2002 г. [Электронный ресурс]}. ---
-  Режим доступа:
-  http://www.consultant.ru/document/cons\_doc\_LAW\_34710/, свободный
-  (дата обращения: 29.05.2017).{}
-
-\bibitem{electr}
-\selectlanguageifdefined{russian}
-{Приказ от 23.12.2016 г. \textnumero~6-840 <<О тарифах на
-  электрическую энергию для населения и
-  потребителей, приравненных к категории
-  население по Томской области на 2017 год>>
-  [Электронный ресурс]}. --- Режим доступа:
-  http://energovopros.ru/spravochnik/elektrosnabzhenie/tarify-na-elektroenergiju/tomskaya\_oblast/39310/,
-  свободный (дата обращения: 29.05.2017).{}
 
 \end{thebibliography}
