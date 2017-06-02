@@ -9,10 +9,12 @@ ext = [".cpp", ".c", ".h", ".hpp", ".cxx", ".cc", ".ii", ".ixx", ".ipp",
 
 
 def get_response(url, user, pswd):
-    r = requests.get(url, auth=(user, pswd))
+    r = requests.get('https://api.github.com/', auth=(user, pswd))
     if r.ok:
-        r = json.loads(r.text or r.content)
-        return r
+        r = requests.get(url, auth=(user, pswd))
+        if r.ok:
+            r = json.loads(r.text or r.content)
+            return r
 
 
 def get_files(url, user, repo_name, auth_user, pswd):

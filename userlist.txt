@@ -1,0 +1,6 @@
+['paroj', 'asmorkalov', 'edgarriba', 'mariarti91', 'GoodRon',
+            'Mooophy', 'pezy', 'Soyn', 'sipa', 'gavinandresen',
+            'theuni', 'luke-jr', 'ddunbar', 'redboltz', 'frsyuki',
+            'tanakh', 'danmar', 'orbitcowboy', 'XhmikosR', 'zblair',
+            'ghewgill', 'singku', 'eriklax', 'HeisSpiter', 'JIghtuse',
+            'rpavlik', 'gavofyork', 'chfast', 'debris', 'lballabio']

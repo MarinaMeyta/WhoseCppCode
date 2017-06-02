@@ -1,8 +1,8 @@
 import os
 
 
-def file_is_empty(path):
-    return os.stat(path).st_size == 0
+def file_is_empty(filename):
+    return os.stat(filename).st_size == 0
 
 
 def correctEncoding(filename, encoding_from="ISO-8859-14", encoding_to='UTF-8'):
@@ -19,5 +19,5 @@ def correctEncoding(filename, encoding_from="ISO-8859-14", encoding_to='UTF-8'):
                 for line in fr:
                     fw.write(line[:-1] + '\r\n')
     else:
-        print('Removing empty file...')
+        print('Удаление пустого файла ' + filename + '...')
         os.remove(filename)
