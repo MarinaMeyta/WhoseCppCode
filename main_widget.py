@@ -173,7 +173,7 @@ def classify_mul(b):
     # saving results to csv
     metrics.update({'classifier': classifier.value})
     result_df = pd.DataFrame(metrics)
-    result_df.to_csv('./results/results.csv', mode='w')
+    result_df.to_csv('./results/results.csv', mode='a')
 
 
 def display_main_form():
