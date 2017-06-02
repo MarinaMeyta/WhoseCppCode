@@ -45,38 +45,33 @@
 \section{Моделирование}\label{modeling}
 \input{model}
  
-% \newpage
-% \section{Тестирование модели}
-% \input{}
  
 \newpage  
 \section{Классификация}\label{classifiers}
 \input{classifiers}
 
+\newpage
+\section{Тестирование модели}\label{crossval}
+\input{cross_val}
+
+\newpage 
+\section{Описание тестового набора данных}\label{test_data}
+\input{test_data}
+\clearpage
+\section{Критерии оценки эффективности классификации}\label{eval}
+\input{evaluation}
+\newpage
+\section{Результаты классификации}
+\input{results}
 
 \newpage
-\section{Конструкторско-технологическая часть}
-\input{tech}
-
-
-
-
-
-
-
+\section{Описание программного обеспечения <<WhoseCppCode>>}
+\input{whosecpp}
 
 \clearpage
 \section{Программа и методика испытаний}
 \input{testing}
-\newpage 
-\subsection{Описание тестового набора данных}\label{test_data}
-\input{test_data}
-\clearpage
-\subsection{Критерии оценки эффективности классификации}\label{eval}
-\input{evaluation}
-\newpage
-\subsection{Результаты классификации}
-\input{results}
+
 
 
 \newpage
@@ -87,19 +82,6 @@
 \section{Технико-экономическое обоснование}
 \input{economics}
 
-
-
-% \newpage  
-% \section{Руководство администратора}
-% \input{admin}
-% 
-% \newpage  
-% \section{Руководство программиста}
-% \input{proger}
-% 
-% \newpage  
-% \section{Руководство пользователя}
-% \input{user}
  
 \newpage
 \section*{Заключение}
@@ -135,16 +117,17 @@
  \includepdf[pages={1-2}]{lexical_features}
  
  \newpage
- \addcontentsline{toc}{section}{Приложение Г Руководство администратора}
-%  \includepdf[pages={1-2}]{manuals/admin_manual.pdf}
+ \addcontentsline{toc}{section}{Приложение Г Декомпозиция процесса определения авторства исходного кода по
+методологии IDEF0}
+ \includepdf[pages={1}]{box_2.pdf}
  
  \newpage
  \addcontentsline{toc}{section}{Приложение Д Руководство программиста}
- \includepdf[pages={1-2}]{manuals/proger_manual.pdf}
+ \includepdf[pages={1-10}]{manuals/proger_manual.pdf}
  
  \newpage
  \addcontentsline{toc}{section}{Приложение Е Руководство пользователя}
- \includepdf[pages={1-4}]{manuals/user_manual.pdf}
+ \includepdf[pages={1-8}]{manuals/user_manual.pdf}
 %  \input{user}
  
 \end{document}

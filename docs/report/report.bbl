@@ -152,17 +152,45 @@
   https://pdfs.semanticscholar.org/336a/165c17c9c56160d332b9f4a2b403fccbdbfb.pdf,
   свободный (дата обращения: 28.04.2017).{}
 
-\bibitem{jupyter}
+\bibitem{crossval}
+\selectlanguageifdefined{russian}
+{Перекрёстная проверка [Электронный
+  ресурс]}. --- Режим доступа:
+  https://ru.wikipedia.org/wiki/, свободный (дата
+  обращения: 01.05.2017).{}
+
+\bibitem{GoogleCodeJam}
 \selectlanguageifdefined{english}
-{The Jupyter Notebook [Электронный ресурс]}. --- Режим
-  доступа: http://jupyter.org/, свободный (дата
-  обращения: 02.04.2017).{}
+{Code Jam Language Stats [Электронный ресурс]}. --- Режим
+  доступа: https://www.go-hero.net/jam/16, свободный (дата
+  обращения: 10.02.2017).{}
 
 \bibitem{GitHub}
 \selectlanguageifdefined{english}
 {GitHub [Электронный ресурс]}. --- Режим доступа:
   https://github.com/, свободный (дата обращения:
   10.05.2017).{}
+
+\bibitem{GH_domain}
+\selectlanguageifdefined{english}
+{GitHub Dominates the Forges [Электронный ресурс]}. ---
+  Режим доступа:
+  https://github.com/blog/865-github-dominates-the-forges, свободный
+  (дата обращения: 10.05.2017).{}
+
+\bibitem{metrics}
+\selectlanguageifdefined{russian}
+{Оценка классификатора (точность, полнота,
+  F-мера) [Электронный ресурс]}. --- Режим
+  доступа:
+  http://bazhenov.me/blog/2012/07/21/classification-performance-evaluation.html,
+  свободный (дата обращения: 17.02.2017).{}
+
+\bibitem{jupyter}
+\selectlanguageifdefined{english}
+{The Jupyter Notebook [Электронный ресурс]}. --- Режим
+  доступа: http://jupyter.org/, свободный (дата
+  обращения: 02.04.2017).{}
 
 \bibitem{scikit}
 \selectlanguageifdefined{english}
@@ -210,33 +238,21 @@
   http://xn----etbwobqde.xn--p1ai\/GOST\_Edinaya-sistema-programmnoy-dokumentatsii-Programma-i-metodika-ispitaniy-Trebovaniya-k-soderganiyu-i-19301-79\_2088.html,
   свободный (дата обращения: 28.05.2017).{}
 
-\bibitem{crossval}
+\bibitem{gost_19.505}
 \selectlanguageifdefined{russian}
-{Перекрёстная проверка [Электронный
-  ресурс]}. --- Режим доступа:
-  https://ru.wikipedia.org/wiki/, свободный (дата
-  обращения: 01.05.2017).{}
+{ГОСТ 19.505-79 ЕСПД. Руководство оператора.
+  Требования к содержанию и оформлению
+  [Электронный ресурс]}. --- Режим доступа:
+  http://techwrconsult.com/library/19.505, свободный (дата
+  обращения: 3.06.2017).{}
 
-\bibitem{GoogleCodeJam}
-\selectlanguageifdefined{english}
-{Code Jam Language Stats [Электронный ресурс]}. --- Режим
-  доступа: https://www.go-hero.net/jam/16, свободный (дата
-  обращения: 10.02.2017).{}
-
-\bibitem{GH_domain}
-\selectlanguageifdefined{english}
-{GitHub Dominates the Forges [Электронный ресурс]}. ---
-  Режим доступа:
-  https://github.com/blog/865-github-dominates-the-forges, свободный
-  (дата обращения: 10.05.2017).{}
-
-\bibitem{metrics}
+\bibitem{gost_19.504}
 \selectlanguageifdefined{russian}
-{Оценка классификатора (точность, полнота,
-  F-мера) [Электронный ресурс]}. --- Режим
-  доступа:
-  http://bazhenov.me/blog/2012/07/21/classification-performance-evaluation.html,
-  свободный (дата обращения: 17.02.2017).{}
+{ГОСТ 19.504-79 ЕСПД. Руководство программиста.
+  Требования к содержанию и оформлению
+  [Электронный ресурс]}. --- Режим доступа:
+  http://www.rugost.com/index.php?option=com\_content\&view=article\&id=64:19504-79\&catid=19\&Itemid=50,
+  свободный (дата обращения: 3.06.2017).{}
 
 \bibitem{gost_12.0.003-2015}
 \selectlanguageifdefined{russian}
