@@ -10,7 +10,6 @@ I'm skipping whatever remains of this entry
 Warning--empty journal in ostusur
 Warning--empty journal in google_style
 Warning--empty journal in geosoft
-Warning--empty journal in kibevs
 Warning--empty journal in frantz
 Warning--empty journal in frantz_2
 Warning--empty journal in pellin
@@ -47,45 +46,45 @@ Warning--empty journal in sanpin_2.4.1340-03
 Warning--empty journal in sanpin_mikroclimate
 Warning--empty journal in gost_8995
 Warning--empty journal in rd_computer
-You've used 41 entries,
+You've used 40 entries,
             2964 wiz_defined-function locations,
-            797 strings with 16583 characters,
-and the built_in function-call counts, 6153 in all, are:
-= -- 711
-> -- 45
+            794 strings with 16263 characters,
+and the built_in function-call counts, 6006 in all, are:
+= -- 694
+> -- 44
 < -- 1
-+ -- 42
++ -- 41
 - -- 1
-* -- 248
-:= -- 680
-add.period$ -- 84
-call.type$ -- 41
+* -- 242
+:= -- 664
+add.period$ -- 82
+call.type$ -- 40
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 81
-duplicate$ -- 411
-empty$ -- 871
+cite$ -- 79
+duplicate$ -- 401
+empty$ -- 850
 format.name$ -- 1
-if$ -- 1626
+if$ -- 1587
 int.to.chr$ -- 0
-int.to.str$ -- 41
+int.to.str$ -- 40
 missing$ -- 0
-newline$ -- 176
+newline$ -- 172
 num.names$ -- 3
-pop$ -- 329
+pop$ -- 321
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 164
+skip$ -- 160
 stack$ -- 0
 substring$ -- 0
-swap$ -- 86
+swap$ -- 84
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 40
+warning$ -- 39
 while$ -- 1
-width$ -- 43
-write$ -- 426
+width$ -- 42
+write$ -- 416
 (There was 1 error message)
