@@ -32,7 +32,8 @@ form_item_layout = Layout(
 # loops = IntSlider(min=1, max=10)
 data = Dropdown(options={'students': './matricies/students/',
                          'GoogleCodeJam': './matricies/GoogleCodeJam/',
-                         'GitHub': './matricies/GitHub_short/'})
+                         'GitHub': './matricies/GitHub_short/',
+                         'user_data': './data/matricies'})
 classifier = Dropdown(options={'RandomForest': 'RandomForestClassifier',
                                'ExtraTrees': 'ExtraTreesClassifier',
                                'AdaBoost': 'AdaBoostClassifier'})
