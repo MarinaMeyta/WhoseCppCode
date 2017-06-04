@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  4 JUN 2017 18:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  4 JUN 2017 21:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1524,7 +1524,7 @@ Package pdftex.def Info: manuals/proger_manual.pdf, page1 used on input line 12
 4.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
  [57.57.0.0.0.2.3.0.0.1 <./manuals/proger_manual.pdf>]
-<manuals/proger_manual.pdf, id=425, page=2, 597.23125pt x 845.1575pt>
+<manuals/proger_manual.pdf, id=464, page=2, 597.23125pt x 845.1575pt>
 File: manuals/proger_manual.pdf Graphic file (type pdf)
 
 <use manuals/proger_manual.pdf, page 2>
@@ -1544,7 +1544,7 @@ Package pdftex.def Info: manuals/proger_manual.pdf, page2 used on input line 12
 4.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
  [58.58.0.0.0.2.3 <./manuals/proger_manual.pdf>] <manuals/proger_manual.pdf, id
-=431, page=3, 597.23125pt x 845.1575pt>
+=470, page=3, 597.23125pt x 845.1575pt>
 File: manuals/proger_manual.pdf Graphic file (type pdf)
 
 <use manuals/proger_manual.pdf, page 3>
@@ -1564,7 +1564,7 @@ Package pdftex.def Info: manuals/proger_manual.pdf, page3 used on input line 12
 4.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
  [59.59.0.0.0.2.3.0.0.1 <./manuals/proger_manual.pdf>]
-<manuals/proger_manual.pdf, id=437, page=4, 597.23125pt x 845.1575pt>
+<manuals/proger_manual.pdf, id=476, page=4, 597.23125pt x 845.1575pt>
 File: manuals/proger_manual.pdf Graphic file (type pdf)
 
 <use manuals/proger_manual.pdf, page 4>
@@ -1584,7 +1584,7 @@ Package pdftex.def Info: manuals/proger_manual.pdf, page4 used on input line 12
 4.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
  [60.60.0.0.0.2.3 <./manuals/proger_manual.pdf>] <manuals/proger_manual.pdf, id
-=443, page=5, 597.23125pt x 845.1575pt>
+=482, page=5, 597.23125pt x 845.1575pt>
 File: manuals/proger_manual.pdf Graphic file (type pdf)
 
 <use manuals/proger_manual.pdf, page 5>
@@ -1604,7 +1604,7 @@ Package pdftex.def Info: manuals/proger_manual.pdf, page5 used on input line 12
 4.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
  [61.61.0.0.0.2.3.0.0.1 <./manuals/proger_manual.pdf>]
-<manuals/proger_manual.pdf, id=450, page=6, 597.23125pt x 845.1575pt>
+<manuals/proger_manual.pdf, id=489, page=6, 597.23125pt x 845.1575pt>
 File: manuals/proger_manual.pdf Graphic file (type pdf)
 
 <use manuals/proger_manual.pdf, page 6>
@@ -1624,7 +1624,7 @@ Package pdftex.def Info: manuals/proger_manual.pdf, page6 used on input line 12
 4.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
  [62.62.0.0.0.2.3 <./manuals/proger_manual.pdf>] <manuals/proger_manual.pdf, id
-=456, page=7, 597.23125pt x 845.1575pt>
+=495, page=7, 597.23125pt x 845.1575pt>
 File: manuals/proger_manual.pdf Graphic file (type pdf)
 
 <use manuals/proger_manual.pdf, page 7>
@@ -1644,7 +1644,7 @@ Package pdftex.def Info: manuals/proger_manual.pdf, page7 used on input line 12
 4.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
  [63.63.0.0.0.2.3.0.0.1 <./manuals/proger_manual.pdf>]
-<manuals/proger_manual.pdf, id=462, page=8, 597.23125pt x 845.1575pt>
+<manuals/proger_manual.pdf, id=501, page=8, 597.23125pt x 845.1575pt>
 File: manuals/proger_manual.pdf Graphic file (type pdf)
 
 <use manuals/proger_manual.pdf, page 8>
@@ -1664,7 +1664,7 @@ Package pdftex.def Info: manuals/proger_manual.pdf, page8 used on input line 12
 4.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
  [64.64.0.0.0.2.3 <./manuals/proger_manual.pdf>] <manuals/proger_manual.pdf, id
-=468, page=9, 597.23125pt x 845.1575pt>
+=508, page=9, 597.23125pt x 845.1575pt>
 File: manuals/proger_manual.pdf Graphic file (type pdf)
 
 <use manuals/proger_manual.pdf, page 9>
@@ -1684,7 +1684,7 @@ Package pdftex.def Info: manuals/proger_manual.pdf, page9 used on input line 12
 4.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
  [65.65.0.0.0.2.3.0.0.1 <./manuals/proger_manual.pdf>]
-<manuals/proger_manual.pdf, id=474, page=10, 597.23125pt x 845.1575pt>
+<manuals/proger_manual.pdf, id=514, page=10, 597.23125pt x 845.1575pt>
 File: manuals/proger_manual.pdf Graphic file (type pdf)
 
 <use manuals/proger_manual.pdf, page 10>
@@ -1703,8 +1703,128 @@ File: manuals/proger_manual.pdf Graphic file (type pdf)
 Package pdftex.def Info: manuals/proger_manual.pdf, page10 used on input line 1
 24.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [66.66.0.0.0.2.3 <./manuals/proger_manual.pdf>] <manuals/user_manual.pdf, id=4
-80, 597.23125pt x 845.1575pt>
+ [66.66.0.0.0.2.3 <./manuals/proger_manual.pdf>]
+<manuals/proger_manual.pdf, id=520, page=11, 597.23125pt x 845.1575pt>
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 11>
+Package pdftex.def Info: manuals/proger_manual.pdf, page11 used on input line 1
+24.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 11>
+Package pdftex.def Info: manuals/proger_manual.pdf, page11 used on input line 1
+24.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 11>
+Package pdftex.def Info: manuals/proger_manual.pdf, page11 used on input line 1
+24.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [67.67.0.0.0.2.3.0.0.1 <./manuals/proger_manual.pdf>]
+<manuals/proger_manual.pdf, id=527, page=12, 597.23125pt x 845.1575pt>
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 12>
+Package pdftex.def Info: manuals/proger_manual.pdf, page12 used on input line 1
+24.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 12>
+Package pdftex.def Info: manuals/proger_manual.pdf, page12 used on input line 1
+24.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 12>
+Package pdftex.def Info: manuals/proger_manual.pdf, page12 used on input line 1
+24.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [68.68.0.0.0.2.3 <./manuals/proger_manual.pdf>]
+<manuals/proger_manual.pdf, id=533, page=13, 597.23125pt x 845.1575pt>
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 13>
+Package pdftex.def Info: manuals/proger_manual.pdf, page13 used on input line 1
+24.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 13>
+Package pdftex.def Info: manuals/proger_manual.pdf, page13 used on input line 1
+24.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 13>
+Package pdftex.def Info: manuals/proger_manual.pdf, page13 used on input line 1
+24.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [69.69.0.0.0.2.3.0.0.1 <./manuals/proger_manual.pdf>]
+<manuals/proger_manual.pdf, id=539, page=14, 597.23125pt x 845.1575pt>
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 14>
+Package pdftex.def Info: manuals/proger_manual.pdf, page14 used on input line 1
+24.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 14>
+Package pdftex.def Info: manuals/proger_manual.pdf, page14 used on input line 1
+24.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 14>
+Package pdftex.def Info: manuals/proger_manual.pdf, page14 used on input line 1
+24.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [70.70.0.0.0.2.3 <./manuals/proger_manual.pdf>]
+<manuals/proger_manual.pdf, id=545, page=15, 597.23125pt x 845.1575pt>
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 15>
+Package pdftex.def Info: manuals/proger_manual.pdf, page15 used on input line 1
+24.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 15>
+Package pdftex.def Info: manuals/proger_manual.pdf, page15 used on input line 1
+24.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 15>
+Package pdftex.def Info: manuals/proger_manual.pdf, page15 used on input line 1
+24.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [71.71.0.0.0.2.3.0.0.1 <./manuals/proger_manual.pdf>]
+<manuals/proger_manual.pdf, id=551, page=16, 597.23125pt x 845.1575pt>
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 16>
+Package pdftex.def Info: manuals/proger_manual.pdf, page16 used on input line 1
+24.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 16>
+Package pdftex.def Info: manuals/proger_manual.pdf, page16 used on input line 1
+24.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 16>
+Package pdftex.def Info: manuals/proger_manual.pdf, page16 used on input line 1
+24.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [72.72.0.0.0.2.3 <./manuals/proger_manual.pdf>] <manuals/user_manual.pdf, id=5
+57, 597.23125pt x 845.1575pt>
 File: manuals/user_manual.pdf Graphic file (type pdf)
 
 <use manuals/user_manual.pdf>
@@ -1715,7 +1835,7 @@ File: manuals/user_manual.pdf Graphic file (type pdf)
 Package pdftex.def Info: manuals/user_manual.pdf used on input line 128.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<manuals/user_manual.pdf, id=483, page=1, 597.23125pt x 845.1575pt>
+<manuals/user_manual.pdf, id=560, page=1, 597.23125pt x 845.1575pt>
 File: manuals/user_manual.pdf Graphic file (type pdf)
 
 <use manuals/user_manual.pdf, page 1>
@@ -1744,8 +1864,8 @@ File: manuals/user_manual.pdf Graphic file (type pdf)
 Package pdftex.def Info: manuals/user_manual.pdf, page1 used on input line 128.
 
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [67.67.0.0.0.2.3.0.0.1 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, 
-id=542, page=2, 597.23125pt x 845.1575pt>
+ [73.73.0.0.0.2.3.0.0.1 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, 
+id=618, page=2, 597.23125pt x 845.1575pt>
 File: manuals/user_manual.pdf Graphic file (type pdf)
 
 <use manuals/user_manual.pdf, page 2>
@@ -1763,7 +1883,7 @@ File: manuals/user_manual.pdf Graphic file (type pdf)
 Package pdftex.def Info: manuals/user_manual.pdf, page2 used on input line 128.
 
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [68.68.0.0.0.2.3 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, id=548
+ [74.74.0.0.0.2.3 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, id=624
 , page=3, 597.23125pt x 845.1575pt>
 File: manuals/user_manual.pdf Graphic file (type pdf)
 
@@ -1782,8 +1902,8 @@ File: manuals/user_manual.pdf Graphic file (type pdf)
 Package pdftex.def Info: manuals/user_manual.pdf, page3 used on input line 128.
 
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [69.69.0.0.0.2.3.0.0.1 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, 
-id=554, page=4, 597.23125pt x 845.1575pt>
+ [75.75.0.0.0.2.3.0.0.1 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, 
+id=630, page=4, 597.23125pt x 845.1575pt>
 File: manuals/user_manual.pdf Graphic file (type pdf)
 
 <use manuals/user_manual.pdf, page 4>
@@ -1801,7 +1921,7 @@ File: manuals/user_manual.pdf Graphic file (type pdf)
 Package pdftex.def Info: manuals/user_manual.pdf, page4 used on input line 128.
 
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [70.70.0.0.0.2.3 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, id=560
+ [76.76.0.0.0.2.3 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, id=636
 , page=5, 597.23125pt x 845.1575pt>
 File: manuals/user_manual.pdf Graphic file (type pdf)
 
@@ -1820,8 +1940,8 @@ File: manuals/user_manual.pdf Graphic file (type pdf)
 Package pdftex.def Info: manuals/user_manual.pdf, page5 used on input line 128.
 
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [71.71.0.0.0.2.3.0.0.1 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, 
-id=566, page=6, 597.23125pt x 845.1575pt>
+ [77.77.0.0.0.2.3.0.0.1 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, 
+id=642, page=6, 597.23125pt x 845.1575pt>
 File: manuals/user_manual.pdf Graphic file (type pdf)
 
 <use manuals/user_manual.pdf, page 6>
@@ -1839,7 +1959,7 @@ File: manuals/user_manual.pdf Graphic file (type pdf)
 Package pdftex.def Info: manuals/user_manual.pdf, page6 used on input line 128.
 
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [72.72.0.0.0.2.3 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, id=572
+ [78.78.0.0.0.2.3 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, id=648
 , page=7, 597.23125pt x 845.1575pt>
 File: manuals/user_manual.pdf Graphic file (type pdf)
 
@@ -1858,8 +1978,8 @@ File: manuals/user_manual.pdf Graphic file (type pdf)
 Package pdftex.def Info: manuals/user_manual.pdf, page7 used on input line 128.
 
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [73.73.0.0.0.2.3.0.0.1 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, 
-id=579, page=8, 597.23125pt x 845.1575pt>
+ [79.79.0.0.0.2.3.0.0.1 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, 
+id=655, page=8, 597.23125pt x 845.1575pt>
 File: manuals/user_manual.pdf Graphic file (type pdf)
 
 <use manuals/user_manual.pdf, page 8>
@@ -1877,7 +1997,7 @@ File: manuals/user_manual.pdf Graphic file (type pdf)
 Package pdftex.def Info: manuals/user_manual.pdf, page8 used on input line 128.
 
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [74.74.0.0.0.2.3 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, id=585
+ [80.80.0.0.0.2.3 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, id=661
 , page=9, 597.23125pt x 845.1575pt>
 File: manuals/user_manual.pdf Graphic file (type pdf)
 
@@ -1896,8 +2016,8 @@ File: manuals/user_manual.pdf Graphic file (type pdf)
 Package pdftex.def Info: manuals/user_manual.pdf, page9 used on input line 128.
 
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [75.75.0.0.0.2.3.0.0.1 <./manuals/user_manual.pdf>]
-<manuals/user_manual.pdf, id=591, page=10, 597.23125pt x 845.1575pt>
+ [81.81.0.0.0.2.3.0.0.1 <./manuals/user_manual.pdf>]
+<manuals/user_manual.pdf, id=667, page=10, 597.23125pt x 845.1575pt>
 File: manuals/user_manual.pdf Graphic file (type pdf)
 
 <use manuals/user_manual.pdf, page 10>
@@ -1915,7 +2035,7 @@ File: manuals/user_manual.pdf Graphic file (type pdf)
 Package pdftex.def Info: manuals/user_manual.pdf, page10 used on input line 128
 .
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [76.76.0.0.0.2.3 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, id=597
+ [82.82.0.0.0.2.3 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, id=674
 , page=11, 597.23125pt x 845.1575pt>
 File: manuals/user_manual.pdf Graphic file (type pdf)
 
@@ -1934,8 +2054,8 @@ File: manuals/user_manual.pdf Graphic file (type pdf)
 Package pdftex.def Info: manuals/user_manual.pdf, page11 used on input line 128
 .
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [77.77.0.0.0.2.3.0.0.1 <./manuals/user_manual.pdf>]
-<manuals/user_manual.pdf, id=603, page=12, 597.23125pt x 845.1575pt>
+ [83.83.0.0.0.2.3.0.0.1 <./manuals/user_manual.pdf>]
+<manuals/user_manual.pdf, id=680, page=12, 597.23125pt x 845.1575pt>
 File: manuals/user_manual.pdf Graphic file (type pdf)
 
 <use manuals/user_manual.pdf, page 12>
@@ -1953,7 +2073,7 @@ File: manuals/user_manual.pdf Graphic file (type pdf)
 Package pdftex.def Info: manuals/user_manual.pdf, page12 used on input line 128
 .
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [78.78.0.0.0.2.3 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, id=609
+ [84.84.0.0.0.2.3 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, id=686
 , page=13, 597.23125pt x 845.1575pt>
 File: manuals/user_manual.pdf Graphic file (type pdf)
 
@@ -1972,14 +2092,14 @@ File: manuals/user_manual.pdf Graphic file (type pdf)
 Package pdftex.def Info: manuals/user_manual.pdf, page13 used on input line 128
 .
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [79.79.0.0.0.2.3.0.0.1 <./manuals/user_manual.pdf>] 
+ [85.85.0.0.0.2.3.0.0.1 <./manuals/user_manual.pdf>] 
 AED: lastpage setting LastPage
 (./report.aux) ) 
 Here is how much of TeX's memory you used:
- 11431 strings out of 493013
- 168348 string characters out of 6135682
+ 11455 strings out of 493013
+ 169050 string characters out of 6135682
  263565 words of memory out of 5000000
- 14529 multiletter control sequences out of 15000+600000
+ 14547 multiletter control sequences out of 15000+600000
  29205 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  52i,18n,46p,1346b,839s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1993,10 +2113,10 @@ ic/scalable-cyrfonts-tex/ftmb6w.pfb></usr/share/texmf/fonts/type1/public/scalab
 le-cyrfonts-tex/ftmr6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfon
 ts-tex/ftmr6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ft
 mri6w.pfb>
-Output written on report.pdf (79 pages, 1327958 bytes).
+Output written on report.pdf (85 pages, 1762125 bytes).
 PDF statistics:
- 670 PDF objects out of 1000 (max. 8388607)
- 436 compressed objects within 5 object streams
- 79 named destinations out of 1000 (max. 500000)
- 341 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 747 PDF objects out of 1000 (max. 8388607)
+ 481 compressed objects within 5 object streams
+ 85 named destinations out of 1000 (max. 500000)
+ 371 words of extra memory for PDF output out of 10000 (max. 10000000)
 
