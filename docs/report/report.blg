@@ -7,6 +7,10 @@ Repeated entry---line 208 of file lit.bib
  : @article{scikit
  :                ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 336 of file lit.bib
+ : @article{amort
+ :               ,
+I'm skipping whatever remains of this entry
 Warning--empty journal in ostusur
 Warning--empty journal in google_style
 Warning--empty journal in geosoft
@@ -38,8 +42,8 @@ Warning--empty journal in pandas
 Warning--empty journal in widgets
 Warning--empty journal in gost_19.504
 Warning--empty journal in gost_19.505
-Warning--empty journal in rector_3106
 Warning--empty journal in amort
+Warning--empty journal in frolova
 Warning--empty journal in electr
 Warning--empty journal in gost_12.0.003-2015
 Warning--empty journal in sanpin_2.4.1340-03
@@ -48,7 +52,7 @@ Warning--empty journal in gost_8995
 Warning--empty journal in rd_computer
 You've used 40 entries,
             2964 wiz_defined-function locations,
-            794 strings with 16263 characters,
+            794 strings with 16102 characters,
 and the built_in function-call counts, 6006 in all, are:
 = -- 694
 > -- 44
@@ -87,4 +91,4 @@ warning$ -- 39
 while$ -- 1
 width$ -- 42
 write$ -- 416
-(There was 1 error message)
+(There were 2 error messages)
