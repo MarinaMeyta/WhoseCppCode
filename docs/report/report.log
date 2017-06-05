@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  5 JUN 2017 04:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  5 JUN 2017 19:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -859,30 +859,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--41
 []|\T2A/ftm/m/n/12 Время ра-бо-
  []
 
-<images/students.png, id=112, 362.3136pt x 271.2534pt>
+<images/students.png, id=112, 626.34pt x 472.76625pt>
 File: images/students.png Graphic file (type png)
 
 <use images/students.png>
 Package pdftex.def Info: images/students.png used on input line 46.
-(pdftex.def)             Requested size: 305.58572pt x 228.78256pt.
+(pdftex.def)             Requested size: 305.58572pt x 230.66197pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/google.png, id=113, 361.8318pt x 271.2534pt>
+<images/google.png, id=113, 671.50874pt x 471.7625pt>
 File: images/google.png Graphic file (type png)
  <use images/google.png>
 Package pdftex.def Info: images/google.png used on input line 52.
-(pdftex.def)             Requested size: 305.58572pt x 229.09712pt.
+(pdftex.def)             Requested size: 305.58572pt x 214.68826pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/github.png, id=114, 362.3136pt x 271.2534pt>
+<images/github.png, id=114, 664.4825pt x 475.7775pt>
 File: images/github.png Graphic file (type png)
  <use images/github.png>
 Package pdftex.def Info: images/github.png used on input line 58.
-(pdftex.def)             Requested size: 305.58572pt x 228.78256pt.
+(pdftex.def)             Requested size: 305.58572pt x 218.80222pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2054,10 +2054,10 @@ Package pdftex.def Info: manuals/user_manual.pdf, page12 used on input line 133
 AED: lastpage setting LastPage
 (./report.aux) ) 
 Here is how much of TeX's memory you used:
- 11444 strings out of 493013
- 168662 string characters out of 6135682
- 263553 words of memory out of 5000000
- 14536 multiletter control sequences out of 15000+600000
+ 11436 strings out of 493013
+ 168281 string characters out of 6135682
+ 263426 words of memory out of 5000000
+ 14526 multiletter control sequences out of 15000+600000
  29205 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  52i,18n,46p,1346b,839s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2071,7 +2071,7 @@ ic/scalable-cyrfonts-tex/ftmb6w.pfb></usr/share/texmf/fonts/type1/public/scalab
 le-cyrfonts-tex/ftmr6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfon
 ts-tex/ftmr6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ft
 mri6w.pfb>
-Output written on report.pdf (83 pages, 1740808 bytes).
+Output written on report.pdf (83 pages, 1736810 bytes).
 PDF statistics:
  725 PDF objects out of 1000 (max. 8388607)
  466 compressed objects within 5 object streams
