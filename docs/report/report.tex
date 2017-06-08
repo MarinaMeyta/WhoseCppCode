@@ -17,14 +17,25 @@
 \ESKDstyle{formIIab}
 \ESKDthisStyle{formII}
  \tableofcontents
- CD-диск содержит: 
- \begin{itemize}
- \item электронную версию пояснительной записки в форматах *.tex и *.pdf;
- \item итоговую презентацию результатов работы в форматах *.pptx и *.pdf;
- \item актуальную версию программы, реализованную на языке программирования Python, для определения авторсва исходного кода программ на языке C/C++;
- \item тестовые данные для работы с программой.
- \end{itemize}
-
+ 
+\vspace{1cm}
+ 
+ 
+\begin{singlespace}
+ \begin{minipage}[left]{0.6\linewidth}
+ DVD-R диск:\\
+ Программный продукт WhoseCppCode\\
+ presentation\_Meyta.pptx\\
+ presentation\_Meyta.pdf\\
+ Набор тестовых данных\\
+ report.pdf\\
+ Исходные файлы *.tex\\
+ \end{minipage}
+ \hfill
+ \begin{minipage}[right]{0.3\linewidth}
+ В конверте на обороте обложки
+ \end{minipage}
+\end{singlespace}
  
 
 \newpage
@@ -68,7 +79,7 @@
 \section{Описание тестового набора данных}\label{test_data}
 \input{test_data}
 \clearpage
-\section{Критерии оценки эффективности классификации}\label{eval}
+\section{Критерии оценки эффективности интсрумента классификации}\label{eval}
 \input{evaluation}
 \newpage
 \section{Результаты классификации}
@@ -82,16 +93,24 @@
 % \section{Программа и методика испытаний}
 % \input{testing}
 
+ \newpage
+ \addcontentsline{toc}{section}{10~~~~~Руководство программиста}
+ \includepdf[pages={1-15}]{manuals/proger_manual.pdf}
+ 
+ \newpage
+ \addcontentsline{toc}{section}{11~~~~~Руководство пользователя}
+ \includepdf[pages={1-12}]{manuals/user_manual.pdf}
+
 \clearpage
 \ESKDthisStyle{empty}
-\addcontentsline{toc}{section}{Технико-экономическое обоснование дипломной работы}
-\addcontentsline{toc}{subsection}{Обоснование актуальности дипломной работы}
-\addcontentsline{toc}{subsection}{Организация и планирование работы}
+\addcontentsline{toc}{section}{12~~~~~Технико-экономическое обоснование дипломной работы}
 \includepdf[pages={1}]{economics}
 \input{economics}
 
-\newpage
-\section{Безопасность жизнедеятельности}
+\clearpage
+\ESKDthisStyle{empty}
+\addcontentsline{toc}{section}{13~~~~~Вопросы охраны труда и безопасности жизнедеятельности}
+\includepdf[pages={1}]{life_safety}
 \input{life_safety}
  
 \newpage
@@ -110,46 +129,19 @@
  \addcontentsline{toc}{section}{Список использованных источников}
  \bibliography{lit}
 
-%  \ESKDappendix{Обязательное}{\normalfont Компакт-диск}
-%  Компакт-диск содержит: 
-%  \begin{itemize}
-%  \item электронную версию пояснительной записки в форматах *.tex и *.pdf;
-%  \item итоговую презентацию результатов работы в форматах *.pptx и *.pdf;
-%  \item актуальную версию программы, реализованную на языке программирования Python, для определения авторсва исходного кода программ на языке C/C++;
-%  \item тестовые данные для работы с программой;
-%  \item графические материалы.
-%  \end{itemize}
+ \ESKDappendix{Обязательное}{\normalfont Компакт-диск}
+ Компакт-диск содержит: 
+ \begin{itemize}
+ \item электронную версию пояснительной записки в форматах *.tex и *.pdf;
+ \item итоговую презентацию результатов работы в форматах *.pptx и *.pdf;
+ \item актуальную версию программы, реализованную на языке программирования Python, для определения авторсва исходного кода программ на языке C/C++;
+ \item тестовые данные для работы с программой;
+ \item графические материалы.
+ \end{itemize}
  
-%  \ESKDappendix{Справочное}{\normalfont Сравнительный обзор информационных источников }
  \newpage
- \addcontentsline{toc}{section}{Приложение А (справочное) Сравнительный обзор информационных источников}
+ \addcontentsline{toc}{section}{Приложение Б (справочное) Сравнительный обзор информационных источников}
  \includepdf[pages={1-2}]{overview_table}
-%  \includepdf[pages={1-}, width=1\linewidth]{overview_table}
- 
-%  \input{overview_table}
- 
-%  \ESKDappendix{Справочное}{\normalfont Описание стилистических признаков}
- \newpage
- \addcontentsline{toc}{section}{Приложение Б (справочное) Описание стилистических признаков}
- \includepdf[pages={1-2}]{lexical_features}
- 
- \newpage
- \addcontentsline{toc}{section}{Приложение В (справочное) Декомпозиция процесса определения авторства исходного кода по
-методологии IDEF0}
- \includepdf[pages={1}]{box_2.pdf}
- 
- \newpage
- \addcontentsline{toc}{section}{Приложение Г (справочное) Руководство программиста}
- \includepdf[pages={1-15}]{manuals/proger_manual.pdf}
- 
- \newpage
- \addcontentsline{toc}{section}{Приложение Д (справочное) Руководство пользователя}
- \includepdf[pages={1-12}]{manuals/user_manual.pdf}
-%  \input{user}
-
- \newpage
- \addcontentsline{toc}{section}{Приложение Ж (справочное) Диаграмма Ганта}
- \includepdf[pages={1}]{grant.pdf}
 
 
  

@@ -2,7 +2,8 @@
 % 
 % \begin{document}
 %  
-% 
+% \setcounter{page}{33}
+% \setcounter{section}{9}
 % 
 % \ESKDstyle{formIIab}
 % % \ESKDputOnStyle{formII}{frame}{\renewcommand{\ESKDchecker}{\ESKDfontII Глухарева С.В.}}
@@ -33,18 +34,14 @@
 % равна 230 рублей. На работу руководителя отводится 20 часов, исполнителя~--- 22 8-часовых рабочих дня.   
 % 
 % Согласно выделенным этапам работы строится график работ (табл.~\ref{tab:job_is_done_1}), а также диаграмма
-% Ганта, отображающего затраты времени на выполнение проекта всеми
+% Ганта (рис.~\ref{grantt:grantt}), отображающего затраты времени на выполнение проекта всеми
 % участниками, представленная в приложении Ж.
 
 %%%%%%%%
 
 
 
-
-
-
-
-
+\setcounter{section}{11}
 
 \begin{table}[ht!]
 \caption{Трудоемкость выполненных работ}
@@ -52,6 +49,15 @@
 \includegraphics[page=1, width=1\linewidth]{tables/economics/schedule.pdf}
 \label{tab:job_is_done_1}
 \end{table}
+
+
+\begin{figure}[h!]
+\center{\includegraphics[width=1\linewidth]{grantt}}
+\caption{ Диаграмма Ганта }
+\label{grantt:grantt}
+\end{figure}
+
+
 
 \clearpage
 \subsection{Определение сметной стоимости проекта}
@@ -221,6 +227,6 @@ $ N_{a} = \dfrac{1}{3}\times 100\% \approx 33,33\%.$\\
 %%%%%%%%%%%%%%%%%%
 %  \newpage
 %  \renewcommand{\refname}{Список использованных источников}
-%  \addcontentsline{toc}{section}{Список использованных источников}
+% %  \addcontentsline{toc}{section}{Список использованных источников}
 %  \bibliography{lit}
 % \end{document}

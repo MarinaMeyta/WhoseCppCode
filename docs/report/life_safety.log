@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  9 JUN 2017 06:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  9 JUN 2017 06:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**economics.tex
-(./economics.tex
+**life_safety.tex
+(./life_safety.tex
 LaTeX2e <2016/03/31> patch level 3
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
-(./config_eco.tex (/usr/share/texmf/tex/latex/eskdx/eskdtext.cls
+(./config_life_safety.tex (/usr/share/texmf/tex/latex/eskdx/eskdtext.cls
 Document Class: eskdtext 2010/01/14 v0.98 Textual Documentation
 (/usr/share/texlive/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
@@ -557,13 +557,13 @@ Package: count1to 2009/05/24 v2.1 Count1to9 Package (MS)
 \AM@toc@title=\toks34
 \c@AM@survey=\count156
 \AM@templatesizebox=\box43
-)) (./economics.aux
+)) (./life_safety.aux
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 5.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
-\openout1 = `economics.aux'.
+\openout1 = `life_safety.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
@@ -691,136 +691,190 @@ ABD: Count1to9 initializing macros
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-)
-<tables/economics/schedule.pdf, id=1, page=1, 563.10374pt x 623.32875pt>
-File: tables/economics/schedule.pdf Graphic file (type pdf)
+) [72.1.0.0.12.1.0.0.0.1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-<use tables/economics/schedule.pdf, page 1>
-Package pdftex.def Info: tables/economics/schedule.pdf, page1 used on input lin
-e 49.
-(pdftex.def)             Requested size: 509.30438pt x 563.77748pt.
+]
+LaTeX Font Info:    Font shape `T2A/ftm/bx/n' in size <14.4> not available
+(Font)              Font shape `T2A/ftm/b/n' tried instead on input line 47.
 
-<images/grantt.png, id=2, 1469.49pt x 1036.87375pt>
-File: images/grantt.png Graphic file (type png)
- <use images/grantt.png>
-Package pdftex.def Info: images/grantt.png used on input line 55.
-(pdftex.def)             Requested size: 509.30438pt x 359.36725pt.
+
+LaTeX Warning: Citation `gost_12.0.003-2015' on page 73 undefined on input line
+ 47.
+
+
+LaTeX Warning: Citation `sanpin_mikroclimate' on page 73 undefined on input lin
+e 52.
+
+
+LaTeX Warning: Citation `sanpin_2.4.1340-03' on page 73 undefined on input line
+ 55.
+
+
+LaTeX Warning: Citation `sanpin_2.4.1340-03' on page 73 undefined on input line
+ 57.
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 85--85
+[]|\T2A/ftm/m/n/14.4 Контролируемые ги-ги-е-ни-че-ские па-ра-
+ []
+
+
+Underfull \hbox (badness 1629) in paragraph at lines 85--85
+[]\T2A/ftm/m/n/14.4 Машина вы-чис-ли-тель-ная элек-трон-ная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+[]\T2A/ftm/m/n/14.4 уровни элек-тро-маг-нит-ных по-лей
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+[]\T2A/ftm/m/n/14.4 визуальные по-ка-за-те-ли ви-део-дис-
+ []
+
+
+LaTeX Warning: Citation `sanpin_2.4.1340-03' on page 73 undefined on input line
+ 93.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
+[]|\T2A/ftm/m/n/14.4 250
+ []
+
+[73.2.0.0.12.1.1]
+
+LaTeX Warning: Citation `sanpin_2.4.1340-03' on page 74 undefined on input line
+ 121.
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def)
+Underfull \hbox (badness 7851) in paragraph at lines 144--144
+[]|\T2A/ftm/m/n/14.4 Не долж-на фик-си-ро-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]|\T2A/ftm/m/n/14.4 Пространственная неста-биль-ность изоб-ра-же-ния
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+\T2A/ftm/m/n/14.4 сто-я-ние на-блю-де-ния,
+ []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[33.1.0.0.11.2.0.0.0.1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-]
-[34.2.0.0.11.2 <./tables/economics/schedule.pdf>] [35.3.0.0.11.2.0.0.0.1 <./ima
-ges/grantt.png>] (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
-File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-)
-LaTeX Font Info:    Font shape `T2A/ftm/bx/n' in size <14.4> not available
-(Font)              Font shape `T2A/ftm/b/n' tried instead on input line 78.
+LaTeX Warning: Citation `sanpin_2.4.1340-03' on page 74 undefined on input line
+ 150.
 
+[74.3.0.0.12.1.3.0.0.1]
 
-LaTeX Warning: Citation `amort' on page 36 undefined on input line 78.
+LaTeX Warning: Citation `sanpin_mikroclimate' on page 75 undefined on input lin
+e 162.
 
 
-LaTeX Warning: Citation `frolova' on page 36 undefined on input line 80.
-
-<tables/economics/schedule_4.pdf, id=28, page=1, 497.86pt x 249.93375pt>
-File: tables/economics/schedule_4.pdf Graphic file (type pdf)
-
-<use tables/economics/schedule_4.pdf, page 1>
-Package pdftex.def Info: tables/economics/schedule_4.pdf, page1 used on input l
-ine 107.
-(pdftex.def)             Requested size: 509.30438pt x 255.68416pt.
- [36.4.0.0.11.3.2
-
-]
-
-LaTeX Warning: Citation `strax' on page 37 undefined on input line 117.
+LaTeX Warning: Citation `sanpin_mikroclimate' on page 75 undefined on input lin
+e 164.
 
 
-LaTeX Warning: Citation `tk_rf' on page 37 undefined on input line 122.
-
-[37.5.0.0.11.3.3.0.0.1 <./tables/economics/schedule_4.pdf>]
-<tables/economics/schedule_5.pdf, id=49, page=1, 469.755pt x 255.95625pt>
-File: tables/economics/schedule_5.pdf Graphic file (type pdf)
-
-<use tables/economics/schedule_5.pdf, page 1>
-Package pdftex.def Info: tables/economics/schedule_5.pdf, page1 used on input l
-ine 135.
-(pdftex.def)             Requested size: 509.30438pt x 277.50656pt.
-
-<tables/economics/econom.pdf, id=50, page=1, 525.965pt x 139.52126pt>
-File: tables/economics/econom.pdf Graphic file (type pdf)
-
-<use tables/economics/econom.pdf, page 1>
-Package pdftex.def Info: tables/economics/econom.pdf, page1 used on input line 
-152.
-(pdftex.def)             Requested size: 509.30438pt x 135.10765pt.
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+[]|\T2A/ftm/m/n/14.4 Температура
+ []
 
 
-LaTeX Warning: Citation `electr' on page 38 undefined on input line 185.
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+[]|\T2A/ftm/m/n/14.4 Температура
+ []
 
-[38.6.0.0.11.3.5 <./tables/economics/schedule_5.pdf>]
-<tables/economics/econom_2.pdf, id=62, page=1, 489.83pt x 181.67876pt>
-File: tables/economics/econom_2.pdf Graphic file (type pdf)
 
-<use tables/economics/econom_2.pdf, page 1>
-Package pdftex.def Info: tables/economics/econom_2.pdf, page1 used on input lin
-e 193.
-(pdftex.def)             Requested size: 509.30438pt x 188.9054pt.
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+\T2A/ftm/m/n/14.4 по-верх-но-стей,
+ []
 
-<tables/economics/econom_3.pdf, id=63, page=1, 491.8375pt x 108.405pt>
-File: tables/economics/econom_3.pdf Graphic file (type pdf)
 
-<use tables/economics/econom_3.pdf, page 1>
-Package pdftex.def Info: tables/economics/econom_3.pdf, page1 used on input lin
-e 205.
-(pdftex.def)             Requested size: 509.30438pt x 112.25883pt.
- [39.7.0.0.11.3.6.0.0.1 <./tables/economics/econom.pdf> <./tables/economics/eco
-nom_2.pdf
+Overfull \hbox (2.66379pt too wide) in paragraph at lines 181--181
+[]|\T2A/ftm/m/n/14.4 Относительная
+ []
 
-pdfTeX warning: pdflatex (file ./tables/economics/econom_2.pdf): PDF inclusion:
- multiple pdfs with page group included in a single page
->] <tables/economics/econom_4.pdf, id=82, page=1, 494.84875pt x 164.615pt>
-File: tables/economics/econom_4.pdf Graphic file (type pdf)
 
-<use tables/economics/econom_4.pdf, page 1>
-Package pdftex.def Info: tables/economics/econom_4.pdf, page1 used on input lin
-e 217.
-(pdftex.def)             Requested size: 509.30438pt x 169.42471pt.
- 
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+\T2A/ftm/m/n/14.4 влаж-ность
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+[]|\T2A/ftm/m/n/14.4 Скорость
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+\T2A/ftm/m/n/14.4 дви-же-ния
+ []
+
+
+LaTeX Warning: Citation `sanpin_2.4.1340-03' on page 75 undefined on input line
+ 188.
+
+[75.4.0.0.12.1.4] [76.5.0.0.12.1.4.0.0.1]
+
+LaTeX Warning: Citation `sanpin_2.4.1340-03' on page 77 undefined on input line
+ 232.
+
+[77.6.0.0.12.1.5] [78.7.0.0.12.1.5.0.0.1]
+
+LaTeX Warning: Citation `gost_8995' on page 79 undefined on input line 281.
+
+[79.8.0.0.12.1.6]
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 313.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 313.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 318.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 318.
+
+
+LaTeX Warning: Citation `sanpin_2.4.1340-03' on page 80 undefined on input line
+ 322.
+
+
+LaTeX Warning: Citation `sanpin_2.4.1340-03' on page 80 undefined on input line
+ 327.
+
+[80.9.0.0.12.1.6.0.0.1] 
 AED: lastpage setting LastPage
-[40.8.0.0.11.3.7 <./tables/economics/econom_3.pdf> <./tables/economics/econom_4
-.pdf
-
-pdfTeX warning: pdflatex (file ./tables/economics/econom_4.pdf): PDF inclusion:
- multiple pdfs with page group included in a single page
->] (./economics.aux)
+[81.10.0.0.12.1.6] (./life_safety.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 10503 strings out of 493013
- 154994 string characters out of 6135682
- 247883 words of memory out of 5000000
- 13772 multiletter control sequences out of 15000+600000
- 20119 words of font info for 39 fonts, out of 8000000 for 9000
+ 10704 strings out of 493013
+ 156093 string characters out of 6135682
+ 251872 words of memory out of 5000000
+ 13979 multiletter control sequences out of 15000+600000
+ 25368 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 52i,11n,42p,746b,724s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 52i,12n,42p,2141b,839s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/scalable-cyrfonts-tex/6r.enc}</usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/sc
-alable-cyrfonts-tex/ftmb6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cy
-rfonts-tex/ftmr6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-te
-x/ftmr6w.pfb>
-Output written on economics.pdf (8 pages, 311327 bytes).
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/sca
+lable-cyrfonts-tex/ftmb6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyr
+fonts-tex/ftmr6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex
+/ftmr6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmri6w.
+pfb>
+Output written on life_safety.pdf (10 pages, 158679 bytes).
 PDF statistics:
- 129 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 84 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
+ 10 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

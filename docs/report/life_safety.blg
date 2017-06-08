@@ -1,16 +1,15 @@
 This is BibTeX, Version 0.99d (TeX Live 2016/Debian)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: economics.aux
+The top-level auxiliary file: life_safety.aux
 The style file: utf8gost705u.bst
-I found no \bibdata command---while reading file economics.aux
-Warning--I didn't find a database entry for "amort"
-Warning--I didn't find a database entry for "frolova"
-Warning--I didn't find a database entry for "strax"
-Warning--I didn't find a database entry for "tk_rf"
-Warning--I didn't find a database entry for "electr"
+I found no \bibdata command---while reading file life_safety.aux
+Warning--I didn't find a database entry for "gost_12.0.003-2015"
+Warning--I didn't find a database entry for "sanpin_mikroclimate"
+Warning--I didn't find a database entry for "sanpin_2.4.1340-03"
+Warning--I didn't find a database entry for "gost_8995"
 You've used 0 entries,
             2964 wiz_defined-function locations,
-            672 strings with 5248 characters,
+            671 strings with 5288 characters,
 and the built_in function-call counts, 36 in all, are:
 = -- 0
 > -- 0
