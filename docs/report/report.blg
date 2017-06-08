@@ -3,52 +3,91 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: report.aux
 The style file: utf8gost705u.bst
 Database file #1: lit.bib
+Repeated entry---line 208 of file lit.bib
+ : @article{scikit
+ :                ,
+I'm skipping whatever remains of this entry
 Repeated entry---line 336 of file lit.bib
  : @article{amort
  :               ,
 I'm skipping whatever remains of this entry
+Warning--empty journal in google_style
+Warning--empty journal in geosoft
+Warning--empty journal in frantz
+Warning--empty journal in frantz_2
+Warning--empty journal in pellin
+Warning--empty journal in burrows
+Warning--empty journal in burrows_big
+Warning--empty journal in burrows_3
+Warning--empty journal in caliskan
+Warning--empty journal in random_forest
+Warning--empty journal in git_blame
+Warning--empty journal in macros
+Warning--empty journal in cppkeywords
+Warning--empty journal in data_mining
+Warning--empty journal in ada_boost
+Warning--empty journal in extra_trees
+Warning--empty journal in crossval
+Warning--empty journal in GoogleCodeJam
+Warning--empty journal in GitHub
+Warning--empty journal in GH_domain
+Warning--empty journal in metrics
+Warning--empty journal in jupyter
+Warning--empty journal in scikit
+Warning--empty journal in plotly
+Warning--empty journal in numpy
+Warning--empty journal in scipy
+Warning--empty journal in pandas
+Warning--empty journal in widgets
+Warning--empty journal in gost_19.504
+Warning--empty journal in gost_19.505
 Warning--empty journal in amort
 Warning--empty journal in frolova
 Warning--empty journal in electr
-You've used 3 entries,
+Warning--empty journal in gost_12.0.003-2015
+Warning--empty journal in sanpin_2.4.1340-03
+Warning--empty journal in sanpin_mikroclimate
+Warning--empty journal in gost_8995
+Warning--empty journal in rd_computer
+You've used 39 entries,
             2964 wiz_defined-function locations,
-            677 strings with 6355 characters,
-and the built_in function-call counts, 479 in all, are:
-= -- 51
-> -- 3
-< -- 0
-+ -- 3
-- -- 0
-* -- 20
-:= -- 61
-add.period$ -- 6
-call.type$ -- 3
+            791 strings with 15852 characters,
+and the built_in function-call counts, 5859 in all, are:
+= -- 677
+> -- 43
+< -- 1
++ -- 40
+- -- 1
+* -- 236
+:= -- 648
+add.period$ -- 80
+call.type$ -- 39
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 6
-duplicate$ -- 30
-empty$ -- 64
-format.name$ -- 0
-if$ -- 118
+cite$ -- 77
+duplicate$ -- 391
+empty$ -- 829
+format.name$ -- 1
+if$ -- 1548
 int.to.chr$ -- 0
-int.to.str$ -- 3
+int.to.str$ -- 39
 missing$ -- 0
-newline$ -- 22
-num.names$ -- 0
-pop$ -- 24
+newline$ -- 168
+num.names$ -- 3
+pop$ -- 313
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 12
+skip$ -- 156
 stack$ -- 0
 substring$ -- 0
-swap$ -- 6
+swap$ -- 82
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 3
-while$ -- 0
-width$ -- 4
-write$ -- 39
-(There was 1 error message)
+warning$ -- 38
+while$ -- 1
+width$ -- 41
+write$ -- 406
+(There were 2 error messages)

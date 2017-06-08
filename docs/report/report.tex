@@ -1,101 +1,115 @@
 \input{config}
  
-% \begin{document}
+\begin{document}
+\newpage
+% \ESKDthisStyle{empty}
+%  \includepdf[pages={1}]{title}
+ \input{title}
+ \newpage
+ \ESKDthisStyle{empty}
+%  \includepdf[pages={1-3}]{practise_task}
+ \input{task}
+ \input{referat_ru}
+ \input{referat_en}
+ 
+ % - содержание
+ \newpage
+\ESKDstyle{formIIab}
+\ESKDthisStyle{formII}
+ \tableofcontents
+ CD-диск содержит: 
+ \begin{itemize}
+ \item электронную версию пояснительной записки в форматах *.tex и *.pdf;
+ \item итоговую презентацию результатов работы в форматах *.pptx и *.pdf;
+ \item актуальную версию программы, реализованную на языке программирования Python, для определения авторсва исходного кода программ на языке C/C++;
+ \item тестовые данные для работы с программой.
+ \end{itemize}
+
+ 
+
+\newpage
+\setcounter{section}{0}
+\section*{Введение}
+\addcontentsline{toc}{section}{Введение}
+\input{intro}
+
 % \newpage
-% % \ESKDthisStyle{empty}
-% %  \includepdf[pages={1}]{title}
-%  \input{title}
-%  \newpage
-%  \ESKDthisStyle{empty}
-%  \includepdf[pages={1-2}]{practise_task}
-%  \input{referat_ru}
-%  \input{referat_en}
-%  
-%  % - содержание
-%  \newpage
-% \ESKDstyle{formIIab}
-% \ESKDthisStyle{formII}
-%  \tableofcontents
-% 
-% \newpage
-% \setcounter{section}{0}
-% \section*{Введение}
-% \addcontentsline{toc}{section}{Введение}
-% \input{intro}
-% 
-% % \newpage
-% % \section{Кафедра КИБЭВС}
-% % \input{kibevs}
-% 
-% 
-% \newpage 
-% \section{Обзор информационных источников }
-% \input{overview}
-% 
-% 
-% 
-% 
-% 
-% 
-% \newpage 
-% \section{Выбор набора признаков, характеризующих автора программы}\label{features}
-% \input{features} 
-%  
-% \newpage  
-% \section{Моделирование}\label{modeling}
-% \input{model}
-%  
-%  
-% \newpage  
-% \section{Классификация}\label{classifiers}
-% \input{classifiers}
-% 
-% \newpage
-% \section{Тестирование модели}\label{crossval}
-% \input{cross_val}
-% 
-% \newpage 
-% \section{Описание тестового набора данных}\label{test_data}
-% \input{test_data}
+% \section{Кафедра КИБЭВС}
+% \input{kibevs}
+
+
+\newpage 
+\section{Обзор информационных источников }
+\input{overview}
+
+
+
+
+
+
+\newpage 
+\section{Выбор набора признаков, характеризующих автора программы}\label{features}
+\input{features} 
+ 
+\newpage  
+\section{Моделирование}\label{modeling}
+\input{model}
+ 
+ 
+\newpage  
+\section{Классификация}\label{classifiers}
+\input{classifiers}
+
+\newpage
+\section{Тестирование инструмента построения аналитической модели}\label{crossval}
+\input{cross_val}
+
+\newpage 
+\section{Описание тестового набора данных}\label{test_data}
+\input{test_data}
+\clearpage
+\section{Критерии оценки эффективности классификации}\label{eval}
+\input{evaluation}
+\newpage
+\section{Результаты классификации}
+\input{results}
+
+\newpage
+\section{Описание программного обеспечения <<WhoseCppCode>>}
+\input{whosecpp}
+
 % \clearpage
-% \section{Критерии оценки эффективности классификации}\label{eval}
-% \input{evaluation}
-% \newpage
-% \section{Результаты классификации}
-% \input{results}
-% 
-% \newpage
-% \section{Описание программного обеспечения <<WhoseCppCode>>}
-% \input{whosecpp}
-% 
-% % \clearpage
-% % \section{Программа и методика испытаний}
-% % \input{testing}
-% 
-% \clearpage
-% \section{Технико-экономическое обоснование}
-% \input{economics}
-% 
-% \newpage
-% \section{Безопасность жизнедеятельности}
-% \input{life_safety}
-%  
-% \newpage
-% \section*{Заключение}
-% \addcontentsline{toc}{section}{Заключение}
-% \input{conclusions}
-% 
-% \newpage
-% \section*{Перечень основных терминов и определений}
-% \addcontentsline{toc}{section}{Перечень основных терминов и определений}
-% \input{terms}
-%  
-%  
-%  \newpage
-%  \renewcommand{\refname}{Список использованных источников}
-%  \addcontentsline{toc}{section}{Список использованных источников}
-%  \bibliography{lit}
-% 
+% \section{Программа и методика испытаний}
+% \input{testing}
+
+\clearpage
+\ESKDthisStyle{empty}
+\addcontentsline{toc}{section}{Технико-экономическое обоснование дипломной работы}
+\addcontentsline{toc}{subsection}{Обоснование актуальности дипломной работы}
+\addcontentsline{toc}{subsection}{Организация и планирование работы}
+\includepdf[pages={1}]{economics}
+\input{economics}
+
+\newpage
+\section{Безопасность жизнедеятельности}
+\input{life_safety}
+ 
+\newpage
+\section*{Заключение}
+\addcontentsline{toc}{section}{Заключение}
+\input{conclusions}
+
+\newpage
+\section*{Перечень основных терминов и определений}
+\addcontentsline{toc}{section}{Перечень основных терминов и определений}
+\input{terms}
+ 
+ 
+ \newpage
+ \renewcommand{\refname}{Список использованных источников}
+ \addcontentsline{toc}{section}{Список использованных источников}
+ \bibliography{lit}
+
 %  \ESKDappendix{Обязательное}{\normalfont Компакт-диск}
 %  Компакт-диск содержит: 
 %  \begin{itemize}
@@ -105,53 +119,53 @@
 %  \item тестовые данные для работы с программой;
 %  \item графические материалы.
 %  \end{itemize}
-%  
-% %  \ESKDappendix{Справочное}{\normalfont Сравнительный обзор информационных источников }
-%  \newpage
-%  \addcontentsline{toc}{section}{Приложение Б Сравнительный обзор информационных источников}
-%  \includepdf[pages={1-2}]{overview_table}
-% %  \includepdf[pages={1-}, width=1\linewidth]{overview_table}
-%  
-% %  \input{overview_table}
-%  
-% %  \ESKDappendix{Справочное}{\normalfont Описание стилистических признаков}
-%  \newpage
-%  \addcontentsline{toc}{section}{Приложение В Описание стилистических признаков}
-%  \includepdf[pages={1-2}]{lexical_features}
-%  
-%  \newpage
-%  \addcontentsline{toc}{section}{Приложение Г Декомпозиция процесса определения авторства исходного кода по
-% методологии IDEF0}
-%  \includepdf[pages={1}]{box_2.pdf}
-%  
-%  \newpage
-%  \addcontentsline{toc}{section}{Приложение Д Руководство программиста}
-%  \includepdf[pages={1-15}]{manuals/proger_manual.pdf}
-%  
-%  \newpage
-%  \addcontentsline{toc}{section}{Приложение Е Руководство пользователя}
-%  \includepdf[pages={1-12}]{manuals/user_manual.pdf}
-% %  \input{user}
-% 
-% 
-%  
-% \end{document}
-
-
-\begin{document}
-\ESKDstyle{formIIab}
-\ESKDthisStyle{formII}
-\newpage
-\section{Технико-экономическое обоснование}
-\input{economics}
-% \newpage
-% \section{Безопасность жизнедеятельности}
-% \input{life_safety}
+ 
+%  \ESKDappendix{Справочное}{\normalfont Сравнительный обзор информационных источников }
  \newpage
- \renewcommand{\refname}{Список использованных источников}
- \addcontentsline{toc}{section}{Список использованных источников}
- \bibliography{lit}
+ \addcontentsline{toc}{section}{Приложение А (справочное) Сравнительный обзор информационных источников}
+ \includepdf[pages={1-2}]{overview_table}
+%  \includepdf[pages={1-}, width=1\linewidth]{overview_table}
+ 
+%  \input{overview_table}
+ 
+%  \ESKDappendix{Справочное}{\normalfont Описание стилистических признаков}
+ \newpage
+ \addcontentsline{toc}{section}{Приложение Б (справочное) Описание стилистических признаков}
+ \includepdf[pages={1-2}]{lexical_features}
+ 
+ \newpage
+ \addcontentsline{toc}{section}{Приложение В (справочное) Декомпозиция процесса определения авторства исходного кода по
+методологии IDEF0}
+ \includepdf[pages={1}]{box_2.pdf}
+ 
+ \newpage
+ \addcontentsline{toc}{section}{Приложение Г (справочное) Руководство программиста}
+ \includepdf[pages={1-15}]{manuals/proger_manual.pdf}
+ 
+ \newpage
+ \addcontentsline{toc}{section}{Приложение Д (справочное) Руководство пользователя}
+ \includepdf[pages={1-12}]{manuals/user_manual.pdf}
+%  \input{user}
+
+
+ 
 \end{document}
+
+
+% \begin{document}
+% \ESKDstyle{formIIab}
+% \ESKDthisStyle{formII}
+% \newpage
+% \section{Технико-экономическое обоснование}
+% \input{economics}
+% % \newpage
+% % \section{Безопасность жизнедеятельности}
+% % \input{life_safety}
+%  \newpage
+%  \renewcommand{\refname}{Список использованных источников}
+%  \addcontentsline{toc}{section}{Список использованных источников}
+%  \bibliography{lit}
+% \end{document}
 
 
 % \begin{document}

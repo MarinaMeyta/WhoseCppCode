@@ -1,0 +1,806 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  8 JUN 2017 18:12
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**economics.tex
+(./economics.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(./config_eco.tex (/usr/share/texmf/tex/latex/eskdx/eskdtext.cls
+Document Class: eskdtext 2010/01/14 v0.98 Textual Documentation
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/extarticle.cls
+Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2014/09/29 v2.1h Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen102
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+(/usr/share/texmf/tex/latex/eskdx/eskdlang.sty
+Package: eskdlang 2010/01/14 v0.98 Language
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/04/23 3.9r The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf
+Language: russianb 2016/02/18 1.3h Russian support for the Babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/04/23 3.9r Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen104
+)
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `T2A' encoding will be loaded  on input line 69.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+
+Package babel Warning: No input encoding specified for Russian language on inpu
+t line 110.
+
+Package babel Info: Making " an active character on input line 111.
+)) (/usr/share/texmf/tex/latex/eskdx/eskdrussian.def
+File: eskdrussian.def 2010/01/17 v0.98 Language File
+\ESKDexplanWidth=\skip43
+))
+(/usr/share/texmf/tex/latex/eskdx/eskdstamp.sty
+Package: eskdstamp 2011/05/06 v0.98 Stamp GOST 2.104-68
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count88
+\calc@Bcount=\count89
+\calc@Adimen=\dimen105
+\calc@Bdimen=\dimen106
+\calc@Askip=\skip44
+\calc@Bskip=\skip45
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count90
+\calc@Cskip=\skip46
+)
+\ESKD@margin@si=\skip47
+\ESKD@margin@so=\skip48
+\ESKD@margin@t=\skip49
+\ESKD@margin@b=\skip50
+\ESKDlineThick=\skip51
+\ESKDlineThin=\skip52
+\ESKD@padding@h=\skip53
+\ESKD@padding@v=\skip54
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count91
+\Gm@cntv=\count92
+\c@Gm@tempcnt=\count93
+\Gm@bindingoffset=\dimen107
+\Gm@wd@mp=\dimen108
+\Gm@odd@mp=\dimen109
+\Gm@even@mp=\dimen110
+\Gm@layoutwidth=\dimen111
+\Gm@layoutheight=\dimen112
+\Gm@layouthoffset=\dimen113
+\Gm@layoutvoffset=\dimen114
+\Gm@dimlist=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+\ESKD@tmpdima=\skip55
+\ESKD@tmpdimb=\skip56
+\ESKD@tmpdimc=\skip57
+\ESKD@tmpcnta=\count94
+\ESKD@tmpcntb=\count95
+\ESKD@zonelabel@hc=\count96
+\ESKD@zonelabel@vc=\count97
+\ESKD@zonelabel@hs=\skip58
+\ESKD@zonelabel@vs=\skip59
+\ESKD@zonelabel@cnt=\count98
+\ESKD@origin@x=\skip60
+\ESKD@origin@y=\skip61
+\ESKDframeX=\skip62
+\ESKDframeY=\skip63
+\ESKDframeW=\skip64
+\ESKDframeH=\skip65
+\ESKDstampX=\skip66
+\ESKDstampY=\skip67
+
+(/usr/share/texmf/tex/latex/eskdx/eskdfont.sty
+Package: eskdfont 2010/01/14 v0.98 Font Definitions
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/05/22 v2.16c rotated objects in LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count100
+\rotFPtop=\skip68
+\rotFPbot=\skip69
+\rot@float@box=\box26
+\rot@mess@toks=\toks16
+)
+\ESKD@frame@box=\box27
+\ESKD@stamp@i@box=\box28
+\ESKD@stamp@ii@box=\box29
+\ESKD@stamp@ii@a@box=\box30
+\ESKD@stamp@ii@b@box=\box31
+
+(/usr/share/texmf/tex/latex/eskdx/eskdhash.sty
+Package: eskdhash 2010/01/14 v0.98 Hash Routines
+)
+\ESKD@hash@c@@style@draw@empty=\count101
+\ESKD@hash@p@@style@draw@empty=\count102
+\ESKD@hash@c@@style@draw@title=\count103
+\ESKD@hash@p@@style@draw@title=\count104
+\ESKD@hash@c@@style@draw@formI=\count105
+\ESKD@hash@p@@style@draw@formI=\count106
+\ESKD@hash@c@@style@draw@formII=\count107
+\ESKD@hash@p@@style@draw@formII=\count108
+\ESKD@hash@c@@style@draw@formIIab=\count109
+\ESKD@hash@p@@style@draw@formIIab=\count110
+\ESKD@curpad@h=\skip70
+\ESKD@curpad@v=\skip71
+
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/changepage/chngpage.sty
+Package: chngpage 2009/10/20 v1.2b change page layout
+\c@cp@cnt=\count111
+\c@cp@tempcnt=\count112
+)
+(/usr/share/texmf/tex/latex/eskdx/eskdinfo.sty
+Package: eskdinfo 2010/01/14 v0.98 Document Information
+
+(/usr/share/texmf/tex/latex/eskdx/eskdafterpkg.sty
+Package: eskdafterpkg 2010/01/14 v0.98 Apply Commands After Package
+)
+After Package Info: Collect commands for hyperref on input line 99
+))
+(/usr/share/texmf/tex/latex/eskdx/eskdindent.sty
+Package: eskdindent 2010/01/14 v0.98 Paragraph Indent
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+))
+(/usr/share/texmf/tex/latex/eskdx/eskdlist.sty
+Package: eskdlist 2010/01/14 v0.98 List
+)
+(/usr/share/texmf/tex/latex/eskdx/eskdsect.sty
+Package: eskdsect 2010/01/14 v0.98 Sectioning
+\ESKDsectionSkipBefore=\skip72
+\ESKDsectionSkipAfter=\skip73
+\ESKDsubsectionSkipBefore=\skip74
+\ESKDsubsectionSkipAfter=\skip75
+\ESKDsubsubsectionSkipBefore=\skip76
+\ESKDsubsubsectionSkipAfter=\skip77
+\c@point=\count113
+\c@subpoint=\count114
+\c@subsubpoint=\count115
+\c@appendix=\count116
+\ESKDappendixSkip=\skip78
+)
+(/usr/share/texmf/tex/latex/eskdx/eskdcap.sty
+Package: eskdcap 2010/01/14 v0.98 Captions
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen117
+\captionmargin@=\dimen118
+\captionwidth=\dimen119
+\caption@tempdima=\dimen120
+\caption@indent=\dimen121
+\caption@parindent=\dimen122
+\caption@hangindent=\dimen123
+)
+\c@ContinuedFloat=\count117
+Package caption Info: rotating package is loaded.
+))
+(/usr/share/texmf/tex/latex/eskdx/eskdfootnote.sty
+Package: eskdfootnote 2010/01/14 v0.98 Footnote Settings
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/06/28 v2.15d AMS math features
+\@mathmargin=\skip79
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen124
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen125
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count118
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count119
+\leftroot@=\count120
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count121
+\DOTSCASE@=\count122
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box32
+\strutbox@=\box33
+\big@size=\dimen126
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count123
+\c@MaxMatrixCols=\count124
+\dotsspace@=\muskip10
+\c@parentequation=\count125
+\dspbrk@lvl=\count126
+\tag@help=\toks18
+\row@=\count127
+\column@=\count128
+\maxfields@=\count129
+\andhelp@=\toks19
+\eqnshift@=\dimen127
+\alignsep@=\dimen128
+\tagshift@=\dimen129
+\tagwidth@=\dimen130
+\totwidth@=\dimen131
+\lineht@=\dimen132
+\@envbody=\toks20
+\multlinegap=\skip80
+\multlinetaggap=\skip81
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-perpage.sty
+Package: zref-perpage 2016/05/21 v2.26 Module perpage for zref (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-base.sty
+Package: zref-base 2016/05/21 v2.26 Module base for zref (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 759.
+Package zref Info: New property: default on input line 760.
+Package zref Info: New property: page on input line 761.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
+Package: zref-abspage 2016/05/21 v2.26 Module abspage for zref (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+)
+\c@abspage=\count130
+Package zref Info: New property: abspage on input line 62.
+)
+Package zref Info: New property: pagevalue on input line 54.
+Package zref Info: New property list: perpage on input line 55.
+\c@zpage=\count131
+\c@zref@unique=\count132
+))
+(/usr/share/texmf/tex/latex/eskdx/eskdbiblist.sty
+Package: eskdbiblist 2010/01/14 v0.98 Bibliography List
+)
+(/usr/share/texmf/tex/latex/eskdx/eskdexplan.sty
+Package: eskdexplan 2010/01/19 v0.98 ESKD Explanation
+\ESKDexplanIndent=\skip82
+)
+(/usr/share/texmf/tex/latex/eskdx/eskdtitlebase.sty
+Package: eskdtitlebase 2010/01/14 v0.98 Base Title Commands
+\ESKD@title@agreed@cnt=\count133
+\ESKD@title@designed@cnt=\count134
+)
+(/usr/share/texmf/tex/latex/eskdx/eskdtitle.sty
+Package: eskdtitle 2010/01/14 v0.98 Title GOST 2.105
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count135
+\uc@combtoks=\toks24
+\uc@combtoksb=\toks25
+\uc@temptokena=\toks26
+)
+(/usr/share/texmf/tex/latex/eskdx/eskdplain.sty
+Package: eskdplain 2011/05/09 v0.98 Plain Page Style
+\ESKD@hash@c@@style@draw@plain=\count136
+\ESKD@hash@p@@style@draw@plain=\count137
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen133
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen134
+\extrarowheight=\dimen135
+\NC@list=\toks27
+\extratabsurround=\skip83
+\backup@length=\skip84
+)
+\TX@col@width=\dimen136
+\TX@old@table=\dimen137
+\TX@old@col=\dimen138
+\TX@target=\dimen139
+\TX@delta=\dimen140
+\TX@cols=\count138
+\TX@ftn=\toks28
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texmf/tex/latex/scalable-cyrfonts-tex/cyrtimes.sty
+Package: cyrtimes 2001/02/08 scalable-cyrfonts
+)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip85
+\enit@outerparindent=\dimen141
+\enit@toks=\toks29
+\enit@inbox=\box34
+\enitdp@description=\count139
+)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box35
+\beforetitleunit=\skip86
+\aftertitleunit=\skip87
+\ttl@plus=\dimen142
+\ttl@minus=\dimen143
+\ttl@toksa=\toks30
+\titlewidth=\dimen144
+\titlewidthlast=\dimen145
+\titlewidthfirst=\dimen146
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip88
+\LTright=\skip89
+\LTpre=\skip90
+\LTpost=\skip91
+\LTchunksize=\count140
+\LTcapwidth=\dimen147
+\LT@head=\box36
+\LT@firsthead=\box37
+\LT@foot=\box38
+\LT@lastfoot=\box39
+\LT@cols=\count141
+\LT@rows=\count142
+\c@LT@tables=\count143
+\c@LT@chunks=\count144
+\LT@p@ftn=\toks31
+)
+(/usr/share/texmf/tex/latex/eskdx/eskdtotal.sty
+Package: eskdtotal 2010/01/14 v0.98 Total number of tables, figures, etc
+\c@ESKD@figure=\count145
+\c@ESKD@table=\count146
+\c@ESKD@bibitem=\count147
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count148
+\lst@gtempboxa=\box40
+\lst@token=\toks32
+\lst@length=\count149
+\lst@currlwidth=\dimen148
+\lst@column=\count150
+\lst@pos=\count151
+\lst@lostspace=\dimen149
+\lst@width=\dimen150
+\lst@newlines=\count152
+\lst@lineno=\count153
+\lst@maxwidth=\dimen151
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count154
+\lst@skipnumbers=\count155
+\lst@framebox=\box41
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2016/04/19 v0.5f Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+\AM@pagewidth=\dimen152
+\AM@pageheight=\dimen153
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2016/04/19 v0.5f Pdfpages driver for pdfTeX (AM)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ms/count1to.sty
+Package: count1to 2009/05/24 v2.1 Count1to9 Package (MS)
+)
+\AM@pagebox=\box42
+\AM@global@opts=\toks33
+\AM@toc@title=\toks34
+\c@AM@survey=\count156
+\AM@templatesizebox=\box43
+)) (./economics.aux
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 5.
+
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+\openout1 = `economics.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Try loading font information for OT1+ftm on input line 3.
+
+(/usr/share/texmf/tex/latex/scalable-cyrfonts-tex/ot1ftm.fd
+File: ot1ftm.fd 2014/01/03 Fontinst v1.933 font definitions for OT1/ftm.
+)
+LaTeX Font Info:    Try loading font information for T2A+ftm on input line 3.
+
+(/usr/share/texmf/tex/latex/scalable-cyrfonts-tex/t2aftm.fd
+File: t2aftm.fd 2014/01/03 Fontinst v1.933 font definitions for T2A/ftm.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(65.44131pt, 509.30438pt, 22.76218pt)
+* v-part:(T,H,B)=(42.67911pt, 759.68863pt, 42.67911pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=509.30438pt
+* \textheight=759.68863pt
+* \oddsidemargin=-6.82867pt
+* \evensidemargin=-6.82867pt
+* \topmargin=-29.59088pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=14.0pt
+* \footskip=0.0pt
+* \marginparwidth=24.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 3.
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count157
+\scratchdimen=\dimen154
+\scratchbox=\box44
+\nofMPsegments=\count158
+\nofMParguments=\count159
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count160
+\MPscratchDim=\dimen155
+\MPnumerator=\count161
+\makeMPintoPDFobject=\count162
+\everyMPtoPDFconversion=\toks36
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-4.def
+File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
+)
+ABD: EveryShipout initializing macros
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: Incompatible package detected (regarding \@caption).
+(caption)             \@caption = \long macro:#1[#2]#3->\stepcounter {ESKD@#1}\
+ESKD@old@caption {#1}[#2]{#3}.
+
+
+Package caption Warning: \caption will not be redefined since it's already
+(caption)                redefined by a document class or package which is
+(caption)                unknown to the caption package.
+See the caption package documentation for explanation.
+
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box45
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+\c@lstlisting=\count163
+
+ABD: Count1to9 initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+) [35.1.0.0.8.2.0.0.0.1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+]
+<tables/economics/grantt.pdf, id=9, page=1, 705.63625pt x 440.64626pt>
+File: tables/economics/grantt.pdf Graphic file (type pdf)
+
+<use tables/economics/grantt.pdf, page 1>
+Package pdftex.def Info: tables/economics/grantt.pdf, page1 used on input line 
+87.
+(pdftex.def)             Requested size: 509.30438pt x 318.045pt.
+ [36.2.0.0.8.3.1]
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+LaTeX Font Info:    Font shape `T2A/ftm/bx/n' in size <14.4> not available
+(Font)              Font shape `T2A/ftm/b/n' tried instead on input line 110.
+
+
+LaTeX Warning: Citation `amort' on page 37 undefined on input line 110.
+
+[37.3.0.0.8.3.2.0.0.1 <./tables/economics/grantt.pdf>]
+
+LaTeX Warning: Citation `frolova' on page 38 undefined on input line 112.
+
+<tables/economics/schedule_4.pdf, id=25, page=1, 597.23125pt x 249.93375pt>
+File: tables/economics/schedule_4.pdf Graphic file (type pdf)
+
+<use tables/economics/schedule_4.pdf, page 1>
+Package pdftex.def Info: tables/economics/schedule_4.pdf, page1 used on input l
+ine 139.
+(pdftex.def)             Requested size: 509.30438pt x 213.13878pt.
+ [38.4.0.0.8.3.3 <./tables/economics/schedule_4.pdf>]
+<tables/economics/schedule_5.pdf, id=42, page=1, 611.28375pt x 235.88126pt>
+File: tables/economics/schedule_5.pdf Graphic file (type pdf)
+
+<use tables/economics/schedule_5.pdf, page 1>
+Package pdftex.def Info: tables/economics/schedule_5.pdf, page1 used on input l
+ine 160.
+(pdftex.def)             Requested size: 509.30438pt x 196.52643pt.
+ [39.5.0.0.8.3.4.0.0.1 <./tables/economics/schedule_5.pdf>]
+<tables/economics/econom.pdf, id=54, page=1, 597.23125pt x 128.48pt>
+File: tables/economics/econom.pdf Graphic file (type pdf)
+
+<use tables/economics/econom.pdf, page 1>
+Package pdftex.def Info: tables/economics/econom.pdf, page1 used on input line 
+178.
+(pdftex.def)             Requested size: 509.30438pt x 109.5653pt.
+
+
+LaTeX Warning: Citation `electr' on page 40 undefined on input line 187.
+
+<tables/economics/econom_2.pdf, id=55, page=1, 597.23125pt x 241.90375pt>
+File: tables/economics/econom_2.pdf Graphic file (type pdf)
+
+<use tables/economics/econom_2.pdf, page 1>
+Package pdftex.def Info: tables/economics/econom_2.pdf, page1 used on input lin
+e 195.
+(pdftex.def)             Requested size: 509.30438pt x 206.29094pt.
+
+<tables/economics/econom_3.pdf, id=56, page=1, 597.23125pt x 108.405pt>
+File: tables/economics/econom_3.pdf Graphic file (type pdf)
+
+<use tables/economics/econom_3.pdf, page 1>
+Package pdftex.def Info: tables/economics/econom_3.pdf, page1 used on input lin
+e 207.
+(pdftex.def)             Requested size: 509.30438pt x 92.44572pt.
+
+<tables/economics/econom_4.pdf, id=57, page=1, 597.23125pt x 153.57375pt>
+File: tables/economics/econom_4.pdf Graphic file (type pdf)
+
+<use tables/economics/econom_4.pdf, page 1>
+Package pdftex.def Info: tables/economics/econom_4.pdf, page1 used on input lin
+e 219.
+(pdftex.def)             Requested size: 509.30438pt x 130.96478pt.
+ [40.6.0.0.8.3.7 <./tables/economics/econom.pdf>] 
+AED: lastpage setting LastPage
+[41.7.0.0.8.3.7.0.0.1 <./tables/economics/econom_2.pdf> <./tables/economics/eco
+nom_3.pdf
+
+pdfTeX warning: pdflatex (file ./tables/economics/econom_3.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+> <./tables/economics/econom_4.pdf
+
+pdfTeX warning: pdflatex (file ./tables/economics/econom_4.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+>] (./economics.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 10494 strings out of 493013
+ 154868 string characters out of 6135682
+ 247864 words of memory out of 5000000
+ 13767 multiletter control sequences out of 15000+600000
+ 20119 words of font info for 39 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 52i,10n,42p,745b,724s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/scalable-cyrfonts-tex/6r.enc}</usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/sc
+alable-cyrfonts-tex/ftmb6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cy
+rfonts-tex/ftmr6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-te
+x/ftmr6w.pfb>
+Output written on economics.pdf (7 pages, 246023 bytes).
+PDF statistics:
+ 122 PDF objects out of 1000 (max. 8388607)
+ 84 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+

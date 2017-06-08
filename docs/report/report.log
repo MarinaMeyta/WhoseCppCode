@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  6 JUN 2017 11:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  8 JUN 2017 18:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -10,8 +10,8 @@ Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 Document Class: eskdtext 2010/01/14 v0.98 Textual Documentation
 (/usr/share/texlive/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/exscale.sty
 Package: exscale 2014/09/29 v2.1h Standard LaTeX package exscale
@@ -565,28 +565,26 @@ File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 141.
-LaTeX Font Info:    ... okay on input line 141.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 141.
-LaTeX Font Info:    ... okay on input line 141.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 141.
-LaTeX Font Info:    ... okay on input line 141.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 141.
-LaTeX Font Info:    ... okay on input line 141.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 141.
-LaTeX Font Info:    ... okay on input line 141.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 141.
-LaTeX Font Info:    ... okay on input line 141.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 141.
-LaTeX Font Info:    ... okay on input line 141.
-LaTeX Font Info:    Try loading font information for OT1+ftm on input line 141.
-
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Try loading font information for OT1+ftm on input line 3.
 
 (/usr/share/texmf/tex/latex/scalable-cyrfonts-tex/ot1ftm.fd
 File: ot1ftm.fd 2014/01/03 Fontinst v1.933 font definitions for OT1/ftm.
 )
-LaTeX Font Info:    Try loading font information for T2A+ftm on input line 141.
-
+LaTeX Font Info:    Try loading font information for T2A+ftm on input line 3.
 
 (/usr/share/texmf/tex/latex/scalable-cyrfonts-tex/t2aftm.fd
 File: t2aftm.fd 2014/01/03 Fontinst v1.933 font definitions for T2A/ftm.
@@ -610,12 +608,12 @@ File: t2aftm.fd 2014/01/03 Fontinst v1.933 font definitions for T2A/ftm.
 * \topmargin=-29.59088pt
 * \headheight=0.0pt
 * \headsep=0.0pt
-* \topskip=12.0pt
+* \topskip=14.0pt
 * \footskip=0.0pt
-* \marginparwidth=44.0pt
+* \marginparwidth=24.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -627,7 +625,7 @@ File: t2aftm.fd 2014/01/03 Fontinst v1.933 font definitions for T2A/ftm.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 141.
+(lastpage)             ! on input line 3.
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count157
@@ -693,76 +691,463 @@ ABD: Count1to9 initializing macros
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-)
-(./economics.tex [1.1.0.0.1.2.0.0.0.1{/var/lib/texmf/fonts/map/pdftex/updmap/pd
-ftex.map}
+) (./title.tex
+LaTeX Font Info:    Font shape `T2A/ftm/bx/n' in size <14.4> not available
+(Font)              Font shape `T2A/ftm/b/n' tried instead on input line 5.
 
-]
-<tables/economics/grantt.pdf, id=9, page=1, 705.63625pt x 440.64626pt>
+Underfull \hbox (badness 10000) in paragraph at lines 47--51
+
+ []
+
+
+Underfull \hbox (badness 2495) in paragraph at lines 52--56
+\T2A/ftm/m/n/14.4 канд. техн. на-ук, до-цент каф.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--68
+
+ []
+
+) [1.1.0.0.0.0.0.0.0.1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+(./task.tex
+Underfull \hbox (badness 1496) in paragraph at lines 49--51
+[]\T2A/ftm/m/n/14.4 программа на €зы-ке про-грам-ми-ро-ва-ни€ Python, раз-ра-бо
+-тан-на€ в хо-де
+ []
+
+[2.2]
+Underfull \hbox (badness 10000) in paragraph at lines 75--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--112
+
+ []
+
+) (./referat_ru.tex [3.3.0.0.0.0.0.0.0.1]
+Underfull \hbox (badness 4036) in paragraph at lines 11--13
+[]\T2A/ftm/m/n/14.4 —“»Ћќћ≈“–»я, »—-’ќƒ-Ќџ…  ќƒ, ƒ≈-ј-Ќќ-Ќ»-ћ»-«ј-÷»я ј¬-“ќ-–ј,
+
+ []
+
+
+Underfull \hbox (badness 4569) in paragraph at lines 11--13
+\T2A/ftm/m/n/14.4 C/C++,  Ћј—-—»-‘»- ј-÷»я, PYTHON, SKLEARN, JUPYTER NOTEBOOK,
+ []
+
+[4.4]) (./referat_en.tex [5.5.0.0.0.0.0.0.0.1]
+Underfull \hbox (badness 1478) in paragraph at lines 4--6
+[]\T2A/ftm/m/n/14.4 Explanatory note contains 96 pages, 11 pictures, 16 tables,
+ 39 sources, 6
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 7--10
+[]\T2A/ftm/m/n/14.4 STYLOMETRY, SOURCE CODE, AUTHORSHIP ATTRIBUTION, C/C++,
+ []
+
+
+Underfull \hbox (badness 2326) in paragraph at lines 7--10
+\T2A/ftm/m/n/14.4 CLASSIFICATION, PYTHON, SKLEARN, JUPYTER NOTEBOOK, DECISION
+ []
+
+
+Underfull \hbox (badness 1173) in paragraph at lines 11--14
+\T2A/ftm/m/n/14.4 of programmers, based on stylometry analysis of source code w
+ritten in C/C++
+ []
+
+
+Underfull \hbox (badness 1874) in paragraph at lines 19--20
+[]\T2A/ftm/m/n/14.4 software development of the system for source code analysis
+ based on
+ []
+
+) [6.6] (./report.toc [7.7.0.0.0.0.0.0.0.1])
+\tf@toc=\write3
+\openout3 = `report.toc'.
+
+ [8.8] (./intro.tex [9.9.0.0.0.0.0.0.0.1])
+Underfull \hbox (badness 1077) in paragraph at lines 27--35
+[]\T2A/ftm/m/n/14.4 ÷елью на-сто-€-щей ди-плом-ной ра-бо-ты €в-л€-ет-с€ раз-ра-
+бот-ка про-грамм-но-го
+ []
+
+[10.10] (./overview.tex [11.11.0.0.1.0.0.0.0.1] [12.12.0.0.1]) [13.13.0.0.1.0.0
+.0.0.1] (./features.tex [14.14.0.0.2.1] (./cpp_keywords.tex
+Overfull \hbox (6.55212pt too wide) in paragraph at lines 37--37
+[]|\T2A/ftm/m/n/14.4 dynamic_cast| 
+ []
+
+
+Overfull \hbox (17.45285pt too wide) in paragraph at lines 37--37
+[]|\T2A/ftm/m/n/14.4 reinterpret_cast| 
+ []
+
+)) [15.15.0.0.2.2.0.0.0.1] (./model.tex
+<images/box_1.png, id=68, 623.32875pt x 408.52625pt>
+File: images/box_1.png Graphic file (type png)
+ <use images/box_1.png>
+Package pdftex.def Info: images/box_1.png used on input line 7.
+(pdftex.def)             Requested size: 407.44505pt x 267.04121pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [16.16.0.0.3] (./classifiers.tex (./random_forest.tex [17.17.0.0.4.1.0.0.0.1 
+<./images/box_1.png>] <images/forest.png, id=77, 642.4pt x 318.18875pt>
+File: images/forest.png Graphic file (type png)
+
+<use images/forest.png>
+Package pdftex.def Info: images/forest.png used on input line 23.
+(pdftex.def)             Requested size: 254.65219pt x 126.13226pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (./ada_boost.tex
+Underfull \hbox (badness 5036) in paragraph at lines 1--3
+[]\T2A/ftm/m/n/14.4 јлгоритм AdaBoost (сокр. от adaptive boosting) [[]] €в-л€-е
+т-с€ мета-
+ []
+
+[18.18.0.0.4.2]) (./extra_trees.tex [19.19.0.0.4.3.0.0.0.1 <./images/forest.png
+>])) [20.20.0.0.4.3] (./cross_val.tex) [21.21.0.0.5.0.0.0.0.1] (./test_data.tex
+[22.22.0.0.6]
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+[]|\T2A/ftm/m/n/14.4 <<Google Code
+ []
+
+
+Underfull \hbox (badness 5105) in paragraph at lines 83--83
+[]|\T2A/ftm/m/n/14.4 исло фай-лов ис-
+ []
+
+
+Underfull \hbox (badness 5592) in paragraph at lines 83--83
+\T2A/ftm/m/n/14.4 ход-но-го ко-да на
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 83--83
+[]|\T2A/ftm/m/n/14.4 ¬сего фай-лов ис-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+[]|\T2A/ftm/m/n/14.4 ћаксимальное
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+[]|\T2A/ftm/m/n/14.4 —реднее чис-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\T2A/ftm/m/n/14.4 ло строк ко-да
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\T2A/ftm/m/n/14.4 на один файл
+ []
+
+[23.23.0.0.6.0.0.0.0.1]) [24.24.0.0.6] (./evaluation.tex
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]|\T2A/ftm/m/n/14.4 Ћуч.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]|\T2A/ftm/m/n/14.4 ’уд.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]|\T2A/ftm/m/n/14.4 100
+ []
+
+) [25.25.0.0.7.0.0.0.0.1
+
+] (./results.tex
+Overfull \hbox (7.28653pt too wide) in paragraph at lines 41--41
+[]|\T2A/ftm/m/n/14.4  лассифика-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+[]|\T2A/ftm/m/n/14.4 ¬рем€
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\T2A/ftm/m/n/14.4 ра-бо-ты,
+ []
+
+
+Overfull \hbox (11.83688pt too wide) in paragraph at lines 41--41
+[]|\T2A/ftm/m/n/14.4 RandomForest| 
+ []
+
+
+Overfull \hbox (7.28653pt too wide) in paragraph at lines 41--41
+[]|\T2A/ftm/m/n/14.4  лассифика-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+[]|\T2A/ftm/m/n/14.4 ¬рем€
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\T2A/ftm/m/n/14.4 ра-бо-ты,
+ []
+
+
+Overfull \hbox (11.83688pt too wide) in paragraph at lines 41--41
+[]|\T2A/ftm/m/n/14.4 RandomForest| 
+ []
+
+
+Overfull \hbox (7.28653pt too wide) in paragraph at lines 41--41
+[]|\T2A/ftm/m/n/14.4  лассифика-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+[]|\T2A/ftm/m/n/14.4 ¬рем€
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\T2A/ftm/m/n/14.4 ра-бо-ты,
+ []
+
+
+Overfull \hbox (11.83688pt too wide) in paragraph at lines 41--41
+[]|\T2A/ftm/m/n/14.4 RandomForest| 
+ []
+
+<images/students.png, id=114, 626.34pt x 472.76625pt>
+File: images/students.png Graphic file (type png)
+
+<use images/students.png>
+Package pdftex.def Info: images/students.png used on input line 46.
+(pdftex.def)             Requested size: 305.58572pt x 230.66197pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/google.png, id=115, 671.50874pt x 471.7625pt>
+File: images/google.png Graphic file (type png)
+ <use images/google.png>
+Package pdftex.def Info: images/google.png used on input line 52.
+(pdftex.def)             Requested size: 305.58572pt x 214.68826pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/github.png, id=116, 664.4825pt x 475.7775pt>
+File: images/github.png Graphic file (type png)
+ <use images/github.png>
+Package pdftex.def Info: images/github.png used on input line 58.
+(pdftex.def)             Requested size: 305.58572pt x 218.80222pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[26.26.0.0.8] [27.27.0.0.8.0.0.0.0.1 <./images/students.png> <./images/google.p
+ng>] [28.28.0.0.8 <./images/github.png>]) (./whosecpp.tex [29.29.0.0.9.0.0.0.0.
+1
+
+] <images/flowchart.png, id=136, 638.385pt x 587.19376pt>
+File: images/flowchart.png Graphic file (type png)
+
+<use images/flowchart.png>
+Package pdftex.def Info: images/flowchart.png used on input line 52.
+(pdftex.def)             Requested size: 407.44505pt x 374.77234pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/user_notebook_1.png, id=137, 884.30376pt x 626.34pt>
+File: images/user_notebook_1.png Graphic file (type png)
+
+<use images/user_notebook_1.png>
+Package pdftex.def Info: images/user_notebook_1.png used on input line 59.
+(pdftex.def)             Requested size: 458.37083pt x 324.65694pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/user_notebook_2.png, id=138, 1073.00874pt x 378.41376pt>
+File: images/user_notebook_2.png Graphic file (type png)
+
+<use images/user_notebook_2.png>
+Package pdftex.def Info: images/user_notebook_2.png used on input line 66.
+(pdftex.def)             Requested size: 509.30438pt x 179.60982pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/user_notebook_3.png, id=139, 913.4125pt x 513.92pt>
+File: images/user_notebook_3.png Graphic file (type png)
+
+<use images/user_notebook_3.png>
+Package pdftex.def Info: images/user_notebook_3.png used on input line 72.
+(pdftex.def)             Requested size: 509.30438pt x 286.55423pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/newplot.png, id=140, 702.625pt x 451.6875pt>
+File: images/newplot.png Graphic file (type png)
+ <use images/newplot.png>
+Package pdftex.def Info: images/newplot.png used on input line 79.
+(pdftex.def)             Requested size: 356.5115pt x 229.1928pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/newplot2.png, id=141, 702.625pt x 370.38374pt>
+File: images/newplot2.png Graphic file (type png)
+
+<use images/newplot2.png>
+Package pdftex.def Info: images/newplot2.png used on input line 85.
+(pdftex.def)             Requested size: 356.5115pt x 187.93808pt.
+) [30.30.0.0.9] [31.31.0.0.9.0.0.0.0.1 <./images/flowchart.png>] [32.32.0.0.9 <
+./images/user_notebook_1.png> <./images/user_notebook_2.png>] [33.33.0.0.9.0.0.
+0.0.1 <./images/user_notebook_3.png> <./images/newplot.png>] [34.34.0.0.9 <./im
+ages/newplot2.png>]
+<economics.pdf, id=170, 597.50829pt x 845.0471pt>
+File: economics.pdf Graphic file (type pdf)
+ <use economics.pdf>
+Package pdftex.def Info: economics.pdf used on input line 90.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: economics.pdf Graphic file (type pdf)
+
+<use economics.pdf>
+Package pdftex.def Info: economics.pdf used on input line 90.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+ <economics.pdf, id=173, page=1, 597.50829pt x 845.0471pt>
+File: economics.pdf Graphic file (type pdf)
+
+<use economics.pdf, page 1>
+Package pdftex.def Info: economics.pdf, page1 used on input line 90.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: economics.pdf Graphic file (type pdf)
+ <use economics.pdf, page 1>
+Package pdftex.def Info: economics.pdf, page1 used on input line 90.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: economics.pdf Graphic file (type pdf)
+
+<use economics.pdf, page 1>
+Package pdftex.def Info: economics.pdf, page1 used on input line 90.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: economics.pdf Graphic file (type pdf)
+ <use economics.pdf, page 1>
+Package pdftex.def Info: economics.pdf, page1 used on input line 90.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: economics.pdf Graphic file (type pdf)
+
+<use economics.pdf, page 1>
+Package pdftex.def Info: economics.pdf, page1 used on input line 90.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [35.35.0.0.9.0.0.0.0.1
+
+ <./economics.pdf>]
+(./economics.tex [36.36.0.0.10.2]
+<tables/economics/grantt.pdf, id=193, page=1, 705.63625pt x 440.64626pt>
 File: tables/economics/grantt.pdf Graphic file (type pdf)
 
 <use tables/economics/grantt.pdf, page 1>
 Package pdftex.def Info: tables/economics/grantt.pdf, page1 used on input line 
-74.
+88.
 (pdftex.def)             Requested size: 509.30438pt x 318.045pt.
- [2.2.0.0.1.2 <./tables/economics/grantt.pdf>] (/usr/share/texlive/texmf-dist/t
-ex/latex/ucs/data/uni-32.def
+ [37.37.0.0.10.3.1.0.0.1]
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-)
-<tables/economics/schedule_4.pdf, id=21, page=1, 597.23125pt x 249.93375pt>
+) [38.38.0.0.10.3.2 <./tables/economics/grantt.pdf>]
+<tables/economics/schedule_4.pdf, id=210, page=1, 597.23125pt x 249.93375pt>
 File: tables/economics/schedule_4.pdf Graphic file (type pdf)
 
 <use tables/economics/schedule_4.pdf, page 1>
 Package pdftex.def Info: tables/economics/schedule_4.pdf, page1 used on input l
-ine 124.
+ine 140.
 (pdftex.def)             Requested size: 509.30438pt x 213.13878pt.
- [3.3.0.0.1.3.3.0.0.1]
-<tables/economics/schedule_5.pdf, id=30, page=1, 611.28375pt x 235.88126pt>
+ [39.39.0.0.10.3.3.0.0.1 <./tables/economics/schedule_4.pdf>]
+<tables/economics/schedule_5.pdf, id=226, page=1, 611.28375pt x 235.88126pt>
 File: tables/economics/schedule_5.pdf Graphic file (type pdf)
 
 <use tables/economics/schedule_5.pdf, page 1>
 Package pdftex.def Info: tables/economics/schedule_5.pdf, page1 used on input l
-ine 145.
+ine 161.
 (pdftex.def)             Requested size: 509.30438pt x 196.52643pt.
-
-<tables/economics/econom.pdf, id=31, page=1, 597.23125pt x 128.48pt>
+ [40.40.0.0.10.3.4 <./tables/economics/schedule_5.pdf>]
+<tables/economics/econom.pdf, id=238, page=1, 597.23125pt x 128.48pt>
 File: tables/economics/econom.pdf Graphic file (type pdf)
 
 <use tables/economics/econom.pdf, page 1>
 Package pdftex.def Info: tables/economics/econom.pdf, page1 used on input line 
-163.
+179.
 (pdftex.def)             Requested size: 509.30438pt x 109.5653pt.
- [4.4.0.0.1.3.5 <./tables/economics/schedule_4.pdf>]
-<tables/economics/econom_2.pdf, id=43, page=1, 597.23125pt x 241.90375pt>
+
+<tables/economics/econom_2.pdf, id=239, page=1, 597.23125pt x 241.90375pt>
 File: tables/economics/econom_2.pdf Graphic file (type pdf)
 
 <use tables/economics/econom_2.pdf, page 1>
 Package pdftex.def Info: tables/economics/econom_2.pdf, page1 used on input lin
-e 180.
+e 196.
 (pdftex.def)             Requested size: 509.30438pt x 206.29094pt.
 
-<tables/economics/econom_3.pdf, id=44, page=1, 597.23125pt x 108.405pt>
+<tables/economics/econom_3.pdf, id=240, page=1, 597.23125pt x 108.405pt>
 File: tables/economics/econom_3.pdf Graphic file (type pdf)
 
 <use tables/economics/econom_3.pdf, page 1>
 Package pdftex.def Info: tables/economics/econom_3.pdf, page1 used on input lin
-e 192.
+e 208.
 (pdftex.def)             Requested size: 509.30438pt x 92.44572pt.
 
-<tables/economics/econom_4.pdf, id=45, page=1, 597.23125pt x 153.57375pt>
+<tables/economics/econom_4.pdf, id=241, page=1, 597.23125pt x 153.57375pt>
 File: tables/economics/econom_4.pdf Graphic file (type pdf)
 
 <use tables/economics/econom_4.pdf, page 1>
 Package pdftex.def Info: tables/economics/econom_4.pdf, page1 used on input lin
-e 204.
+e 220.
 (pdftex.def)             Requested size: 509.30438pt x 130.96478pt.
- [5.5.0.0.1.3.7.0.0.1 <./tables/economics/schedule_5.pdf> <./tables/economics/e
-conom.pdf
-
-pdfTeX warning: pdflatex (file ./tables/economics/econom.pdf): PDF inclusion: m
-ultiple pdfs with page group included in a single page
->] [6.6.0.0.1.3.7 <./tables/economics/econom_2.pdf> <./tables/economics/econom_
-3.pdf
+ [41.41.0.0.10.3.7.0.0.1 <./tables/economics/econom.pdf>]) [42.42.0.0.10.3.7 <.
+/tables/economics/econom_2.pdf> <./tables/economics/econom_3.pdf
 
 pdfTeX warning: pdflatex (file ./tables/economics/econom_3.pdf): PDF inclusion:
  multiple pdfs with page group included in a single page
@@ -770,48 +1155,1405 @@ pdfTeX warning: pdflatex (file ./tables/economics/econom_3.pdf): PDF inclusion:
 
 pdfTeX warning: pdflatex (file ./tables/economics/econom_4.pdf): PDF inclusion:
  multiple pdfs with page group included in a single page
->]) (./report.bbl
-Underfull \hbox (badness 1360) in paragraph at lines 12--19
-[]\T2A/ftm/m/n/12 ќ клас-си-фи-ка-ции ос-нов-ных средств, вклю-ча-е-мых в амор-
-ти-за-ци-он-ные груп-пы: по-ста-нов-ле-
+>] (./life_safety.tex [43.43.0.0.11.1.0.0.0.1]
+Underfull \hbox (badness 1152) in paragraph at lines 84--84
+[]|\T2A/ftm/m/n/14.4  онтролируемые ги-ги-е-ни-че-ские па-ра-
  []
 
 
-Underfull \hbox (badness 1960) in paragraph at lines 12--19
-\T2A/ftm/m/n/12 ние ѕра-ви-тель-ства –‘ Э 1 от 1 €н-ва-р€ 2002 г. [Ёлек-трон-ны
-й ре-сурс]. --- –е-жим до-
+Underfull \hbox (badness 1629) in paragraph at lines 84--84
+[]\T2A/ftm/m/n/14.4 ћашина вы-чис-ли-тель-на€ элек-трон-на€
  []
 
 
-Underfull \hbox (badness 2103) in paragraph at lines 12--19
-\T2A/ftm/m/n/12 сту-па: http://www.consultant.ru/document/cons_doc_LAW_34710/, 
-сво-бод-ный (да-та об-ра-ще-ни€:
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+[]\T2A/ftm/m/n/14.4 уровни элек-тро-маг-нит-ных по-лей
  []
 
-) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+[]\T2A/ftm/m/n/14.4 визуальные по-ка-за-те-ли ви-део-дис-
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[44.44.0.0.11.1.2]
+Overfull \vbox (17.0pt too high) detected at line 111
+ []
+
+
+Overfull \vbox (34.0pt too high) detected at line 111
+ []
+
+
+Overfull \vbox (51.0pt too high) detected at line 111
+ []
+
+
+Overfull \vbox (51.0pt too high) detected at line 111
+ []
+
+
+Overfull \vbox (51.0pt too high) detected at line 111
+ []
+
+
+Package tabularx Warning: X Columns too narrow (table too wide)
+(tabularx)                 on input line 111.
+
+
+Overfull \hbox (31.46394pt too wide) in paragraph at lines 111--111
+[]|\T2A/ftm/m/n/14.4 ”ровни 
+ []
+
+
+Overfull \hbox (9.44638pt too wide) in paragraph at lines 111--111
+\T2A/ftm/m/n/14.4 зву- 
+ []
+
+
+Overfull \hbox (12.81596pt too wide) in paragraph at lines 111--111
+\T2A/ftm/m/n/14.4 дЅј|  
+ []
+
+
+Overfull \vbox (51.0pt too high) detected at line 111
+ []
+
+
+Overfull \hbox (9.02878pt too wide) in paragraph at lines 111--111
+[]|\T2A/ftm/m/n/14.4 31,5
+ []
+
+
+Overfull \hbox (6.71039pt too wide) in paragraph at lines 111--111
+[]|\T2A/ftm/m/n/14.4 125
+ []
+
+
+Overfull \hbox (7.2pt too wide) in paragraph at lines 111--111
+[]|\T2A/ftm/m/n/14.4 250
+ []
+
+
+Overfull \hbox (7.2pt too wide) in paragraph at lines 111--111
+[]|\T2A/ftm/m/n/14.4 500
+ []
+
+
+Overfull \hbox (13.62239pt too wide) in paragraph at lines 111--111
+[]|\T2A/ftm/m/n/14.4 1000
+ []
+
+
+Overfull \hbox (14.4pt too wide) in paragraph at lines 111--111
+[]|\T2A/ftm/m/n/14.4 2000
+ []
+
+
+Overfull \hbox (14.4pt too wide) in paragraph at lines 111--111
+[]|\T2A/ftm/m/n/14.4 4000
+ []
+
+
+Overfull \hbox (14.4pt too wide) in paragraph at lines 111--111
+[]|\T2A/ftm/m/n/14.4 8000
+ []
+
+
+Overfull \hbox (9.02878pt too wide) in paragraph at lines 111--111
+[]|\T2A/ftm/m/n/14.4 31,5
+ []
+
+
+Overfull \hbox (6.71039pt too wide) in paragraph at lines 111--111
+[]|\T2A/ftm/m/n/14.4 125
+ []
+
+
+Overfull \hbox (7.2pt too wide) in paragraph at lines 111--111
+[]|\T2A/ftm/m/n/14.4 250
+ []
+
+
+Overfull \hbox (7.2pt too wide) in paragraph at lines 111--111
+[]|\T2A/ftm/m/n/14.4 500
+ []
+
+
+Overfull \hbox (13.62239pt too wide) in paragraph at lines 111--111
+[]|\T2A/ftm/m/n/14.4 1000
+ []
+
+
+Overfull \hbox (14.4pt too wide) in paragraph at lines 111--111
+[]|\T2A/ftm/m/n/14.4 2000
+ []
+
+
+Overfull \hbox (14.4pt too wide) in paragraph at lines 111--111
+[]|\T2A/ftm/m/n/14.4 4000
+ []
+
+
+Overfull \hbox (14.4pt too wide) in paragraph at lines 111--111
+[]|\T2A/ftm/m/n/14.4 8000
+ []
+
+
+Overfull \hbox (58.06944pt too wide) in alignment at lines 111--111
+[][][][][][][][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--141
+[]|\T2A/ftm/m/n/14.4 250
+ []
+
+[45.45.0.0.11.1.3.0.0.1]
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def)
+Underfull \hbox (badness 7851) in paragraph at lines 172--172
+[]|\T2A/ftm/m/n/14.4 Ќе долж-на фик-си-ро-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--172
+[]|\T2A/ftm/m/n/14.4 ѕространственна€ неста-биль-ность изоб-ра-же-ни€
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--172
+\T2A/ftm/m/n/14.4 сто-€-ние на-блю-де-ни€,
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[46.46.0.0.11.1.5]
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
+[]|\T2A/ftm/m/n/14.4 “емпература
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
+[]|\T2A/ftm/m/n/14.4 “емпература
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
+\T2A/ftm/m/n/14.4 по-верх-но-стей,
+ []
+
+
+Overfull \hbox (2.66379pt too wide) in paragraph at lines 209--209
+[]|\T2A/ftm/m/n/14.4 ќтносительна€
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
+\T2A/ftm/m/n/14.4 влаж-ность
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
+[]|\T2A/ftm/m/n/14.4 —корость
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
+\T2A/ftm/m/n/14.4 дви-же-ни€
+ []
+
+[47.47.0.0.11.1.6.0.0.1] [48.48.0.0.11.1.6] [49.49.0.0.11.1.6.0.0.1]
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 284.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 284.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 284.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 284.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 284.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 284.
+
+Missing character: There is no с in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no а in font cmr10!
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 289.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 289.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 289.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 289.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 289.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 289.
+
+Missing character: There is no с in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no а in font cmr10!
+[50.50.0.0.11.1.7] [51.51.0.0.11.2.1.0.0.1] [52.52.0.0.11.2.2] [53.53.0.0.11.2.
+3.0.0.1]
+Underfull \hbox (badness 2158) in paragraph at lines 392--395
+[]\T2A/ftm/m/n/14.4   непо-сред-ствен-ной ра-бо-те на ѕЁ¬ћ до-пус-ка-ют-с€ ли-ц
+а, не име-ю-щие
+ []
+
+[54.54.0.0.11.2.3] [55.55.0.0.11.2.4.0.0.1]) [56.56.0.0.11.2.4]
+(./conclusions.tex) [57.57.0.0.11.2.4.0.0.1] (./terms.tex) [58.58.0.0.11.2.4]
+(./report.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 12--15
+[]\T2A/ftm/m/n/14.4 Google C++ Style Guide [Ёлек-трон-ный ре-сурс]. --- –е-жим 
+до-сту-па:
+ []
+
+
+Underfull \hbox (badness 2689) in paragraph at lines 12--15
+\T2A/ftm/m/n/14.4 https://google.github.io/styleguide/cppguide.html, сво-бод-ны
+й (да-та об-ра-ще-ни€:
+ []
+
+
+Underfull \hbox (badness 2376) in paragraph at lines 18--21
+[]\T2A/ftm/m/n/14.4 C++ Programming Style Guidelines [Ёлек-трон-ный ре-сурс]. -
+-- –е-жим до-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--29
+[]\T2A/ftm/m/n/14.4 Source Code Authorship Analysis For Supporting The Cybercri
+me
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--29
+\T2A/ftm/m/n/14.4 Investigation Process. Georgia Frantzeskou, Efstathios Stamat
+atos,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--29
+\T2A/ftm/m/n/14.4 Stefanos Gritzalis [Ёлек-трон-ный ре-сурс]. --- –е-жим до-сту
+-па:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--29
+\T2A/ftm/m/n/14.4 http://www.icsd.aegean.gr/lecturers/stamatatos/papers/ICETE20
+05.pdf, сво-бод-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--37
+[]\T2A/ftm/m/n/14.4 Identifying Authorship by Byte-Level N-Grams: The Source Co
+de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--37
+\T2A/ftm/m/n/14.4 Author Profile (SCAP) Method. Georgia Frantzeskou, Efstathios
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--37
+\T2A/ftm/m/n/14.4 Stamatatos, Stefanos Gritzalis [Ёлек-трон-ный ре-сурс]. --- –
+е-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--37
+\T2A/ftm/m/n/14.4 жим до-сту-па: https://www.semanticscholar.org/paper/Identify
+ing-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--37
+\T2A/ftm/m/n/14.4 Authorship-by-Byte-Level-N-Grams-The-Frantzeskou-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--37
+\T2A/ftm/m/n/14.4 Stamatatos/3b2531ea2685b9fb9abf071d119974ac3405874d, сво-бод-
+ный (да-та
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--45
+[]\T2A/ftm/m/n/14.4 Using Classification Techniques to Determine Source Code
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--45
+\T2A/ftm/m/n/14.4 Authorship. Brian N. Pellin Computer Sciences Department
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--45
+\T2A/ftm/m/n/14.4 University of Wisconsin [Ёлек-трон-ный ре-сурс]. --- –е-жим д
+о-сту-па:
+ []
+
+
+Overfull \hbox (2.53708pt too wide) in paragraph at lines 40--45
+\T2A/ftm/m/n/14.4 https://pdfs.semanticscholar.org/f9aa/790191a50bed02a877e1696
+c7bb71ea9f33a.pdf,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--53
+[]\T2A/ftm/m/n/14.4 Source Code Authorship Attribution using n-grams. Steven Bu
+rrows,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--53
+\T2A/ftm/m/n/14.4 S.M.M. Tahaghoghi [Ёлек-трон-ный ре-сурс]. --- –е-жим до-сту-
+па:
+ []
+
+
+Overfull \hbox (0.65067pt too wide) in paragraph at lines 48--53
+\T2A/ftm/m/n/14.4 https://pdfs.semanticscholar.org/79a2/1998c2f0afe2c616c01d590
+d6d0f6e16e9eb.pdf,
+ []
+
+[59.59.0.0.11.2.4.0.0.1]
+Underfull \hbox (badness 10000) in paragraph at lines 63--69
+[]\T2A/ftm/m/n/14.4 Application of information retrieval techniques for source
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--69
+\T2A/ftm/m/n/14.4 code authorship attribution. S. Burrows, A. Uitdenbogerd,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--69
+\T2A/ftm/m/n/14.4 T. Urpin [Ёлек-трон-ный ре-сурс]. --- –е-жим до-сту-па:
+ []
+
+
+Overfull \hbox (97.56236pt too wide) in paragraph at lines 63--69
+\T2A/ftm/m/n/14.4 https://www.researchgate.net/publication/220787332_Applicatio
+n_of_Information_Retrieval_Techni-
+ []
+
+
+Underfull \hbox (badness 5939) in paragraph at lines 63--69
+\T2A/ftm/m/n/14.4 ques_for_Source_Code_Authorship_Attribution, сво-бод-ный (да-
+та об-ра-ще-ни€:
+ []
+
+
+Underfull \hbox (badness 2799) in paragraph at lines 72--80
+\T2A/ftm/m/n/14.4 University; Richard Harang, U.S. Army Research Laboratory; An
+drew Liu,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--80
+\T2A/ftm/m/n/14.4 https://www.usenix.org/system/files/conference/usenixsecurity
+15/sec15-paper-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--87
+[]\T2A/ftm/m/n/14.4 Random Forest. Applied Multivariate Statistics ---
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--87
+\T2A/ftm/m/n/14.4 Spring 2012 [Ёлек-трон-ный ре-сурс]. --- –е-жим до-сту-па:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--87
+\T2A/ftm/m/n/14.4 http://stat.ethz.ch/education/semesters/ss2012/ams/slides/v10
+.2.pdf, сво-бод-ный
+ []
+
+[60.60.0.0.11.2.4]
+Underfull \hbox (badness 10000) in paragraph at lines 107--110
+[]\T2A/ftm/m/n/14.4 ћакросы (C/C++) [Ёлек-трон-ный ре-сурс]. --- –е-жим до-сту-
+па:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--110
+\T2A/ftm/m/n/14.4 https://msdn.microsoft.com/ru-ru/library/503x3e3s.aspx, сво-б
+од-ный (да-та об-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--116
+[]\T2A/ftm/m/n/14.4  лючевые сло-ва C++ [Ёлек-трон-ный ре-сурс]. --- –е-жим до-
+сту-па:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--116
+\T2A/ftm/m/n/14.4 http://ru.cppreference.com/w/cpp/keyword, сво-бод-ный (да-та 
+об-ра-ще-ни€:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--124
+[]\T2A/ftm/m/n/14.4 ћетоды клас-си-фи-ка-ции и про-гно-зи-ро-ва-ни€. ƒе-ре-вь€ 
+ре-ше-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--124
+\T2A/ftm/m/n/14.4 ний. »Ќ-“”-»“ [Ёлек-трон-ный ре-сурс]. --- –е-жим до-сту-па:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--131
+[]\T2A/ftm/m/n/14.4 јлгоритм AdaBoost [Ёлек-трон-ный ре-сурс]. --- –е-жим до-ст
+у-па:
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 127--131
+\T2A/ftm/m/n/14.4 http://www.machinelearning.ru/wiki/index.php?title=AdaBoost, 
+сво-бод-ный (да-та
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--138
+[]\T2A/ftm/m/n/14.4 Extremely randomized trees. Pierre Geurts, Damien Ernst,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--138
+\T2A/ftm/m/n/14.4 Louis Wehenkel [Ёлек-трон-ный ре-сурс]. --- –е-жим до-сту-па:
+
+ []
+
+
+Overfull \hbox (3.30026pt too wide) in paragraph at lines 134--138
+\T2A/ftm/m/n/14.4 https://pdfs.semanticscholar.org/336a/165c17c9c56160d332b9f4a
+2b403fccbdbfb.pdf,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--145
+[]\T2A/ftm/m/n/14.4 ѕерекрЉстна€ про-вер-ка [Ёлек-трон-ный ре-сурс]. --- –е-жим
+ до-сту-па:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--151
+[]\T2A/ftm/m/n/14.4 Code Jam Language Stats [Ёлек-трон-ный ре-сурс]. --- –е-жим
+ до-сту-па:
+ []
+
+
+Underfull \hbox (badness 2626) in paragraph at lines 160--164
+[]\T2A/ftm/m/n/14.4 GitHub Dominates the Forges [Ёлек-трон-ный ре-сурс]. --- –е
+-жим до-сту-па:
+ []
+
+[61.61.0.0.11.2.4.0.0.1]
+Underfull \hbox (badness 10000) in paragraph at lines 175--178
+[]\T2A/ftm/m/n/14.4 The Jupyter Notebook [Ёлек-трон-ный ре-сурс]. --- –е-жим до
+-сту-па:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--191
+[]\T2A/ftm/m/n/14.4 Plotly Python Library [Ёлек-трон-ный ре-сурс]. --- –е-жим д
+о-сту-па:
+ []
+
+
+Underfull \hbox (badness 2512) in paragraph at lines 206--209
+[]\T2A/ftm/m/n/14.4 Python Data Analysis Library [Ёлек-трон-ный ре-сурс]. --- –
+е-жим до-сту-па:
+ []
+
+
+Underfull \hbox (badness 5622) in paragraph at lines 218--223
+[]\T2A/ftm/m/n/14.4 √ќ—“ 19.504-79 ≈—ѕƒ. –у-ко-вод-ство про-грам-ми-ста. “ре-бо
+-ва-ни€ к со-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--223
+\T2A/ftm/m/n/14.4 дер-жа-нию и оформ-ле-нию [Ёлек-трон-ный ре-сурс]. --- –е-жим
+ до-сту-па:
+ []
+
+
+Overfull \hbox (6.66978pt too wide) in paragraph at lines 218--223
+\T2A/ftm/m/n/14.4 http://www.rugost.com/index.php?option=com_content&view=artic
+le&id=64:19504-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--231
+[]\T2A/ftm/m/n/14.4 √ќ—“ 19.505-79 ≈—ѕƒ. –у-ко-вод-ство опе-ра-то-ра. “ре-бо-ва
+-ни€ к со-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--231
+\T2A/ftm/m/n/14.4 дер-жа-нию и оформ-ле-нию [Ёлек-трон-ный ре-сурс]. --- –е-жим
+ до-сту-па:
+ []
+
+[62.62.0.0.11.2.4]
+Underfull \hbox (badness 10000) in paragraph at lines 234--241
+[]\T2A/ftm/m/n/14.4 ќ клас-си-фи-ка-ции ос-нов-ных средств, вклю-ча-е-мых в амо
+р-ти-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--241
+\T2A/ftm/m/n/14.4 за-ци-он-ные груп-пы: по-ста-нов-ле-ние ѕра-ви-тель-ства –‘ Э
+ 1 от
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--241
+\T2A/ftm/m/n/14.4 1 €н-ва-р€ 2002 г. [Ёлек-трон-ный ре-сурс]. --- –е-жим до-сту
+-па:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--241
+\T2A/ftm/m/n/14.4 http://www.consultant.ru/document/cons_doc_LAW_34710/, сво-бо
+д-ный (да-та
+ []
+
+
+Underfull \hbox (badness 2809) in paragraph at lines 251--258
+[]\T2A/ftm/m/n/14.4 ѕриказ от 23.12.2016 г. Э 6-840 <<ќ та-ри-фах на элек-три-ч
+е-скую энер-
+ []
+
+
+Underfull \hbox (badness 6542) in paragraph at lines 251--258
+\T2A/ftm/m/n/14.4 гию дл€ на-се-ле-ни€ и по-тре-би-те-лей, при-рав-нен-ных к ка
+-те-го-рии на-се-
+ []
+
+
+Underfull \hbox (badness 8000) in paragraph at lines 251--258
+\T2A/ftm/m/n/14.4 ле-ние по “ом-ской об-ла-сти на 2017 год>> [Ёлек-трон-ный ре-
+сурс]. ---
+ []
+
+
+Underfull \hbox (badness 6204) in paragraph at lines 251--258
+\T2A/ftm/m/n/14.4 –е-жим до-сту-па: http://energovopros.ru/spravochnik/elektros
+nabzhenie/tarify-na-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--276
+[]\T2A/ftm/m/n/14.4 —анѕиЌ 2.2.2/2.4.1340-03 √и-ги-е-ни-че-ские тре-бо-ва-ни€ к
+ пер-со-наль-ным
+ []
+
+
+Underfull \hbox (badness 3907) in paragraph at lines 279--286
+[]\T2A/ftm/m/n/14.4 —анѕиЌ 2.2.4.548-96 √и-ги-е-ни-че-ские тре-бо-ва-ни€ к мик-
+ро-кли-ма-ту про-из-
+ []
+
+
+Underfull \hbox (badness 3281) in paragraph at lines 279--286
+\T2A/ftm/m/n/14.4 вод-ствен-ных по-ме-ще-ний (утв. по-ста-нов-ле-ни-ем √ос-ком-
+санэпид-над-зо-ра –‘
+ []
+
+
+Underfull \hbox (badness 6445) in paragraph at lines 279--286
+\T2A/ftm/m/n/14.4 от 1 ок-т€б-р€ 1996 г. Э 21) [Ёлек-трон-ный ре-сурс]. --- –е-
+жим до-
+ []
+
+[63.63.0.0.11.2.4.0.0.1]
+Underfull \hbox (badness 10000) in paragraph at lines 296--304
+[]\T2A/ftm/m/n/14.4 –ƒ 153-34.0-03.2.98-2001 “и-по-ва€ ин-струк-ци€ по охране т
+ру-да дл€
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--304
+\T2A/ftm/m/n/14.4 поль-зо-ва-те-лей пер-со-наль-ны-ми электронно-вычислительным
+и ма-ши-на-ми
+ []
+
+
+Underfull \hbox (badness 5374) in paragraph at lines 296--304
+\T2A/ftm/m/n/14.4 (ѕЁ¬ћ) в элек-тро-энер-ге-ти-ке [Ёлек-трон-ный ре-сурс]. --- 
+–е-жим до-сту-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--304
+\T2A/ftm/m/n/14.4 па: http://forca.ru/instrukcii/dolzhnostnye/instrukciya-po-oh
+rane-truda-dlya-
+ []
+
+) [64.64.0.0.11.2.4] <overview_table.pdf, id=371, 597.23125pt x 845.1575pt>
+File: overview_table.pdf Graphic file (type pdf)
+
+<use overview_table.pdf>
+Package pdftex.def Info: overview_table.pdf used on input line 126.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: overview_table.pdf Graphic file (type pdf)
+ <use overview_table.pdf>
+Package pdftex.def Info: overview_table.pdf used on input line 126.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+
+<overview_table.pdf, id=374, page=1, 597.23125pt x 845.1575pt>
+File: overview_table.pdf Graphic file (type pdf)
+
+<use overview_table.pdf, page 1>
+Package pdftex.def Info: overview_table.pdf, page1 used on input line 126.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: overview_table.pdf Graphic file (type pdf)
+ <use overview_table.pdf, page 1>
+Package pdftex.def Info: overview_table.pdf, page1 used on input line 126.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: overview_table.pdf Graphic file (type pdf)
+
+<use overview_table.pdf, page 1>
+Package pdftex.def Info: overview_table.pdf, page1 used on input line 126.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: overview_table.pdf Graphic file (type pdf)
+ <use overview_table.pdf, page 1>
+Package pdftex.def Info: overview_table.pdf, page1 used on input line 126.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: overview_table.pdf Graphic file (type pdf)
+
+<use overview_table.pdf, page 1>
+Package pdftex.def Info: overview_table.pdf, page1 used on input line 126.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [65.65.0.0.11.2.4.0.0.1 <./overview_table.pdf>] <overview_table.pdf, id=386, p
+age=2, 597.23125pt x 845.1575pt>
+File: overview_table.pdf Graphic file (type pdf)
+
+<use overview_table.pdf, page 2>
+Package pdftex.def Info: overview_table.pdf, page2 used on input line 126.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: overview_table.pdf Graphic file (type pdf)
+ <use overview_table.pdf, page 2>
+Package pdftex.def Info: overview_table.pdf, page2 used on input line 126.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: overview_table.pdf Graphic file (type pdf)
+
+<use overview_table.pdf, page 2>
+Package pdftex.def Info: overview_table.pdf, page2 used on input line 126.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [66.66.0.0.11.2.4 <./overview_table.pdf>]
+<lexical_features.pdf, id=392, 597.23125pt x 845.1575pt>
+File: lexical_features.pdf Graphic file (type pdf)
+
+<use lexical_features.pdf>
+Package pdftex.def Info: lexical_features.pdf used on input line 134.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: lexical_features.pdf Graphic file (type pdf)
+ <use lexical_features.pdf>
+Package pdftex.def Info: lexical_features.pdf used on input line 134.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+
+<lexical_features.pdf, id=395, page=1, 597.23125pt x 845.1575pt>
+File: lexical_features.pdf Graphic file (type pdf)
+
+<use lexical_features.pdf, page 1>
+Package pdftex.def Info: lexical_features.pdf, page1 used on input line 134.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: lexical_features.pdf Graphic file (type pdf)
+ <use lexical_features.pdf, page 1>
+Package pdftex.def Info: lexical_features.pdf, page1 used on input line 134.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: lexical_features.pdf Graphic file (type pdf)
+
+<use lexical_features.pdf, page 1>
+Package pdftex.def Info: lexical_features.pdf, page1 used on input line 134.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: lexical_features.pdf Graphic file (type pdf)
+ <use lexical_features.pdf, page 1>
+Package pdftex.def Info: lexical_features.pdf, page1 used on input line 134.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: lexical_features.pdf Graphic file (type pdf)
+
+<use lexical_features.pdf, page 1>
+Package pdftex.def Info: lexical_features.pdf, page1 used on input line 134.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [67.67.0.0.11.2.4.0.0.1 <./lexical_features.pdf>] <lexical_features.pdf, id=40
+8, page=2, 597.23125pt x 845.1575pt>
+File: lexical_features.pdf Graphic file (type pdf)
+
+<use lexical_features.pdf, page 2>
+Package pdftex.def Info: lexical_features.pdf, page2 used on input line 134.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: lexical_features.pdf Graphic file (type pdf)
+ <use lexical_features.pdf, page 2>
+Package pdftex.def Info: lexical_features.pdf, page2 used on input line 134.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: lexical_features.pdf Graphic file (type pdf)
+
+<use lexical_features.pdf, page 2>
+Package pdftex.def Info: lexical_features.pdf, page2 used on input line 134.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [68.68.0.0.11.2.4 <./lexical_features.pdf>]
+<box_2.pdf, id=414, 597.23125pt x 845.1575pt>
+File: box_2.pdf Graphic file (type pdf)
+ <use box_2.pdf>
+Package pdftex.def Info: box_2.pdf used on input line 139.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: box_2.pdf Graphic file (type pdf)
+ <use box_2.pdf>
+Package pdftex.def Info: box_2.pdf used on input line 139.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+
+<box_2.pdf, id=417, page=1, 597.23125pt x 845.1575pt>
+File: box_2.pdf Graphic file (type pdf)
+ <use box_2.pdf, page 1>
+Package pdftex.def Info: box_2.pdf, page1 used on input line 139.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: box_2.pdf Graphic file (type pdf)
+
+<use box_2.pdf, page 1>
+Package pdftex.def Info: box_2.pdf, page1 used on input line 139.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: box_2.pdf Graphic file (type pdf)
+ <use box_2.pdf, page 1>
+Package pdftex.def Info: box_2.pdf, page1 used on input line 139.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: box_2.pdf Graphic file (type pdf)
+ <use box_2.pdf, page 1>
+Package pdftex.def Info: box_2.pdf, page1 used on input line 139.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: box_2.pdf Graphic file (type pdf)
+
+<use box_2.pdf, page 1>
+Package pdftex.def Info: box_2.pdf, page1 used on input line 139.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [69.69.0.0.11.2.4.0.0.1 <./box_2.pdf>]
+<manuals/proger_manual.pdf, id=431, 597.23125pt x 845.1575pt>
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf>
+Package pdftex.def Info: manuals/proger_manual.pdf used on input line 143.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+ <use manuals/proger_manual.pdf>
+Package pdftex.def Info: manuals/proger_manual.pdf used on input line 143.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+
+<manuals/proger_manual.pdf, id=434, page=1, 597.23125pt x 845.1575pt>
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 1>
+Package pdftex.def Info: manuals/proger_manual.pdf, page1 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 1>
+Package pdftex.def Info: manuals/proger_manual.pdf, page1 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 1>
+Package pdftex.def Info: manuals/proger_manual.pdf, page1 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 1>
+Package pdftex.def Info: manuals/proger_manual.pdf, page1 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 1>
+Package pdftex.def Info: manuals/proger_manual.pdf, page1 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [70.70.0.0.11.2.4 <./manuals/proger_manual.pdf>]
+<manuals/proger_manual.pdf, id=495, page=2, 597.23125pt x 845.1575pt>
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 2>
+Package pdftex.def Info: manuals/proger_manual.pdf, page2 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 2>
+Package pdftex.def Info: manuals/proger_manual.pdf, page2 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 2>
+Package pdftex.def Info: manuals/proger_manual.pdf, page2 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [71.71.0.0.11.2.4.0.0.1 <./manuals/proger_manual.pdf>]
+<manuals/proger_manual.pdf, id=502, page=3, 597.23125pt x 845.1575pt>
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 3>
+Package pdftex.def Info: manuals/proger_manual.pdf, page3 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 3>
+Package pdftex.def Info: manuals/proger_manual.pdf, page3 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 3>
+Package pdftex.def Info: manuals/proger_manual.pdf, page3 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [72.72.0.0.11.2.4 <./manuals/proger_manual.pdf>]
+<manuals/proger_manual.pdf, id=508, page=4, 597.23125pt x 845.1575pt>
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 4>
+Package pdftex.def Info: manuals/proger_manual.pdf, page4 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 4>
+Package pdftex.def Info: manuals/proger_manual.pdf, page4 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 4>
+Package pdftex.def Info: manuals/proger_manual.pdf, page4 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [73.73.0.0.11.2.4.0.0.1 <./manuals/proger_manual.pdf>]
+<manuals/proger_manual.pdf, id=515, page=5, 597.23125pt x 845.1575pt>
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 5>
+Package pdftex.def Info: manuals/proger_manual.pdf, page5 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 5>
+Package pdftex.def Info: manuals/proger_manual.pdf, page5 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 5>
+Package pdftex.def Info: manuals/proger_manual.pdf, page5 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [74.74.0.0.11.2.4 <./manuals/proger_manual.pdf>]
+<manuals/proger_manual.pdf, id=521, page=6, 597.23125pt x 845.1575pt>
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 6>
+Package pdftex.def Info: manuals/proger_manual.pdf, page6 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 6>
+Package pdftex.def Info: manuals/proger_manual.pdf, page6 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 6>
+Package pdftex.def Info: manuals/proger_manual.pdf, page6 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [75.75.0.0.11.2.4.0.0.1 <./manuals/proger_manual.pdf>]
+<manuals/proger_manual.pdf, id=527, page=7, 597.23125pt x 845.1575pt>
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 7>
+Package pdftex.def Info: manuals/proger_manual.pdf, page7 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 7>
+Package pdftex.def Info: manuals/proger_manual.pdf, page7 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 7>
+Package pdftex.def Info: manuals/proger_manual.pdf, page7 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [76.76.0.0.11.2.4 <./manuals/proger_manual.pdf>]
+<manuals/proger_manual.pdf, id=533, page=8, 597.23125pt x 845.1575pt>
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 8>
+Package pdftex.def Info: manuals/proger_manual.pdf, page8 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 8>
+Package pdftex.def Info: manuals/proger_manual.pdf, page8 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 8>
+Package pdftex.def Info: manuals/proger_manual.pdf, page8 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [77.77.0.0.11.2.4.0.0.1 <./manuals/proger_manual.pdf>]
+<manuals/proger_manual.pdf, id=539, page=9, 597.23125pt x 845.1575pt>
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 9>
+Package pdftex.def Info: manuals/proger_manual.pdf, page9 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 9>
+Package pdftex.def Info: manuals/proger_manual.pdf, page9 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 9>
+Package pdftex.def Info: manuals/proger_manual.pdf, page9 used on input line 14
+3.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [78.78.0.0.11.2.4 <./manuals/proger_manual.pdf>]
+<manuals/proger_manual.pdf, id=545, page=10, 597.23125pt x 845.1575pt>
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 10>
+Package pdftex.def Info: manuals/proger_manual.pdf, page10 used on input line 1
+43.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 10>
+Package pdftex.def Info: manuals/proger_manual.pdf, page10 used on input line 1
+43.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 10>
+Package pdftex.def Info: manuals/proger_manual.pdf, page10 used on input line 1
+43.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [79.79.0.0.11.2.4.0.0.1 <./manuals/proger_manual.pdf>]
+<manuals/proger_manual.pdf, id=552, page=11, 597.23125pt x 845.1575pt>
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 11>
+Package pdftex.def Info: manuals/proger_manual.pdf, page11 used on input line 1
+43.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 11>
+Package pdftex.def Info: manuals/proger_manual.pdf, page11 used on input line 1
+43.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 11>
+Package pdftex.def Info: manuals/proger_manual.pdf, page11 used on input line 1
+43.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [80.80.0.0.11.2.4 <./manuals/proger_manual.pdf>]
+<manuals/proger_manual.pdf, id=558, page=12, 597.23125pt x 845.1575pt>
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 12>
+Package pdftex.def Info: manuals/proger_manual.pdf, page12 used on input line 1
+43.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 12>
+Package pdftex.def Info: manuals/proger_manual.pdf, page12 used on input line 1
+43.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 12>
+Package pdftex.def Info: manuals/proger_manual.pdf, page12 used on input line 1
+43.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [81.81.0.0.11.2.4.0.0.1 <./manuals/proger_manual.pdf>]
+<manuals/proger_manual.pdf, id=564, page=13, 597.23125pt x 845.1575pt>
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 13>
+Package pdftex.def Info: manuals/proger_manual.pdf, page13 used on input line 1
+43.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 13>
+Package pdftex.def Info: manuals/proger_manual.pdf, page13 used on input line 1
+43.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 13>
+Package pdftex.def Info: manuals/proger_manual.pdf, page13 used on input line 1
+43.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [82.82.0.0.11.2.4 <./manuals/proger_manual.pdf>]
+<manuals/proger_manual.pdf, id=570, page=14, 597.23125pt x 845.1575pt>
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 14>
+Package pdftex.def Info: manuals/proger_manual.pdf, page14 used on input line 1
+43.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 14>
+Package pdftex.def Info: manuals/proger_manual.pdf, page14 used on input line 1
+43.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 14>
+Package pdftex.def Info: manuals/proger_manual.pdf, page14 used on input line 1
+43.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [83.83.0.0.11.2.4.0.0.1 <./manuals/proger_manual.pdf>]
+<manuals/proger_manual.pdf, id=576, page=15, 597.23125pt x 845.1575pt>
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 15>
+Package pdftex.def Info: manuals/proger_manual.pdf, page15 used on input line 1
+43.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 15>
+Package pdftex.def Info: manuals/proger_manual.pdf, page15 used on input line 1
+43.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/proger_manual.pdf Graphic file (type pdf)
+
+<use manuals/proger_manual.pdf, page 15>
+Package pdftex.def Info: manuals/proger_manual.pdf, page15 used on input line 1
+43.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [84.84.0.0.11.2.4 <./manuals/proger_manual.pdf>] <manuals/user_manual.pdf, id=
+582, 597.23125pt x 845.1575pt>
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf>
+Package pdftex.def Info: manuals/user_manual.pdf used on input line 147.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+ <use manuals/user_manual.pdf>
+Package pdftex.def Info: manuals/user_manual.pdf used on input line 147.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+
+<manuals/user_manual.pdf, id=585, page=1, 597.23125pt x 845.1575pt>
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 1>
+Package pdftex.def Info: manuals/user_manual.pdf, page1 used on input line 147.
+
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+ <use manuals/user_manual.pdf, page 1>
+Package pdftex.def Info: manuals/user_manual.pdf, page1 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 1>
+Package pdftex.def Info: manuals/user_manual.pdf, page1 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+ <use manuals/user_manual.pdf, page 1>
+Package pdftex.def Info: manuals/user_manual.pdf, page1 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 1>
+Package pdftex.def Info: manuals/user_manual.pdf, page1 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [85.85.0.0.11.2.4.0.0.1 <./manuals/user_manual.pdf>]
+<manuals/user_manual.pdf, id=643, page=2, 597.23125pt x 845.1575pt>
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 2>
+Package pdftex.def Info: manuals/user_manual.pdf, page2 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+ <use manuals/user_manual.pdf, page 2>
+Package pdftex.def Info: manuals/user_manual.pdf, page2 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 2>
+Package pdftex.def Info: manuals/user_manual.pdf, page2 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [86.86.0.0.11.2.4 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, id=64
+9, page=3, 597.23125pt x 845.1575pt>
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 3>
+Package pdftex.def Info: manuals/user_manual.pdf, page3 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+ <use manuals/user_manual.pdf, page 3>
+Package pdftex.def Info: manuals/user_manual.pdf, page3 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 3>
+Package pdftex.def Info: manuals/user_manual.pdf, page3 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [87.87.0.0.11.2.4.0.0.1 <./manuals/user_manual.pdf>]
+<manuals/user_manual.pdf, id=655, page=4, 597.23125pt x 845.1575pt>
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 4>
+Package pdftex.def Info: manuals/user_manual.pdf, page4 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+ <use manuals/user_manual.pdf, page 4>
+Package pdftex.def Info: manuals/user_manual.pdf, page4 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 4>
+Package pdftex.def Info: manuals/user_manual.pdf, page4 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [88.88.0.0.11.2.4 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, id=66
+1, page=5, 597.23125pt x 845.1575pt>
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 5>
+Package pdftex.def Info: manuals/user_manual.pdf, page5 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+ <use manuals/user_manual.pdf, page 5>
+Package pdftex.def Info: manuals/user_manual.pdf, page5 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 5>
+Package pdftex.def Info: manuals/user_manual.pdf, page5 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [89.89.0.0.11.2.4.0.0.1 <./manuals/user_manual.pdf>]
+<manuals/user_manual.pdf, id=668, page=6, 597.23125pt x 845.1575pt>
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 6>
+Package pdftex.def Info: manuals/user_manual.pdf, page6 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+ <use manuals/user_manual.pdf, page 6>
+Package pdftex.def Info: manuals/user_manual.pdf, page6 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 6>
+Package pdftex.def Info: manuals/user_manual.pdf, page6 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [90.90.0.0.11.2.4 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, id=67
+4, page=7, 597.23125pt x 845.1575pt>
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 7>
+Package pdftex.def Info: manuals/user_manual.pdf, page7 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+ <use manuals/user_manual.pdf, page 7>
+Package pdftex.def Info: manuals/user_manual.pdf, page7 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 7>
+Package pdftex.def Info: manuals/user_manual.pdf, page7 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [91.91.0.0.11.2.4.0.0.1 <./manuals/user_manual.pdf>]
+<manuals/user_manual.pdf, id=681, page=8, 597.23125pt x 845.1575pt>
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 8>
+Package pdftex.def Info: manuals/user_manual.pdf, page8 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+ <use manuals/user_manual.pdf, page 8>
+Package pdftex.def Info: manuals/user_manual.pdf, page8 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 8>
+Package pdftex.def Info: manuals/user_manual.pdf, page8 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [92.92.0.0.11.2.4 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, id=68
+7, page=9, 597.23125pt x 845.1575pt>
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 9>
+Package pdftex.def Info: manuals/user_manual.pdf, page9 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+ <use manuals/user_manual.pdf, page 9>
+Package pdftex.def Info: manuals/user_manual.pdf, page9 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 9>
+Package pdftex.def Info: manuals/user_manual.pdf, page9 used on input line 147.
+
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [93.93.0.0.11.2.4.0.0.1 <./manuals/user_manual.pdf>]
+<manuals/user_manual.pdf, id=693, page=10, 597.23125pt x 845.1575pt>
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 10>
+Package pdftex.def Info: manuals/user_manual.pdf, page10 used on input line 147
+.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+ <use manuals/user_manual.pdf, page 10>
+Package pdftex.def Info: manuals/user_manual.pdf, page10 used on input line 147
+.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 10>
+Package pdftex.def Info: manuals/user_manual.pdf, page10 used on input line 147
+.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [94.94.0.0.11.2.4 <./manuals/user_manual.pdf>] <manuals/user_manual.pdf, id=69
+9, page=11, 597.23125pt x 845.1575pt>
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 11>
+Package pdftex.def Info: manuals/user_manual.pdf, page11 used on input line 147
+.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+ <use manuals/user_manual.pdf, page 11>
+Package pdftex.def Info: manuals/user_manual.pdf, page11 used on input line 147
+.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 11>
+Package pdftex.def Info: manuals/user_manual.pdf, page11 used on input line 147
+.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [95.95.0.0.11.2.4.0.0.1 <./manuals/user_manual.pdf>]
+<manuals/user_manual.pdf, id=705, page=12, 597.23125pt x 845.1575pt>
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 12>
+Package pdftex.def Info: manuals/user_manual.pdf, page12 used on input line 147
+.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+ <use manuals/user_manual.pdf, page 12>
+Package pdftex.def Info: manuals/user_manual.pdf, page12 used on input line 147
+.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: manuals/user_manual.pdf Graphic file (type pdf)
+
+<use manuals/user_manual.pdf, page 12>
+Package pdftex.def Info: manuals/user_manual.pdf, page12 used on input line 147
+.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [96.96.0.0.11.2.4 <./manuals/user_manual.pdf>] 
 AED: lastpage setting LastPage
-[7.7.0.0.1.3.7.0.0.1
-
-] (./report.aux) ) 
+(./report.aux) ) 
 Here is how much of TeX's memory you used:
- 10515 strings out of 493013
- 155002 string characters out of 6135682
- 247894 words of memory out of 5000000
- 13777 multiletter control sequences out of 15000+600000
- 20746 words of font info for 44 fonts, out of 8000000 for 9000
+ 11420 strings out of 493013
+ 167918 string characters out of 6135682
+ 264405 words of memory out of 5000000
+ 14503 multiletter control sequences out of 15000+600000
+ 26066 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 52i,11n,42p,741b,724s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/scalable-cyrfonts-tex/6r.en
-c}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/
-type1/public/scalable-cyrfonts-tex/ftmr6w.pfb></usr/share/texmf/fonts/type1/pub
-lic/scalable-cyrfonts-tex/ftmr6w.pfb>
-Output written on report.pdf (7 pages, 242697 bytes).
+ 52i,18n,46p,1346b,839s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/scalable-cyrfonts-tex/6r.enc}
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/pu
+blic/scalable-cyrfonts-tex/ftmb6w.pfb></usr/share/texmf/fonts/type1/public/scal
+able-cyrfonts-tex/ftmr6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrf
+onts-tex/ftmr6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/
+ftmri6w.pfb>
+Output written on report.pdf (96 pages, 1719689 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
- 80 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 765 PDF objects out of 1000 (max. 8388607)
+ 502 compressed objects within 6 object streams
+ 96 named destinations out of 1000 (max. 500000)
+ 346 words of extra memory for PDF output out of 10000 (max. 10000000)
 
