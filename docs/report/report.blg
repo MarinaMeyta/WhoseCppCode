@@ -43,51 +43,53 @@ Warning--empty journal in gost_19.504
 Warning--empty journal in gost_19.505
 Warning--empty journal in amort
 Warning--empty journal in frolova
+Warning--empty journal in strax
+Warning--empty journal in tk_rf
 Warning--empty journal in electr
 Warning--empty journal in gost_12.0.003-2015
 Warning--empty journal in sanpin_2.4.1340-03
 Warning--empty journal in sanpin_mikroclimate
 Warning--empty journal in gost_8995
 Warning--empty journal in rd_computer
-You've used 39 entries,
+You've used 41 entries,
             2964 wiz_defined-function locations,
-            791 strings with 15852 characters,
-and the built_in function-call counts, 5859 in all, are:
-= -- 677
-> -- 43
+            797 strings with 16815 characters,
+and the built_in function-call counts, 6153 in all, are:
+= -- 711
+> -- 45
 < -- 1
-+ -- 40
++ -- 42
 - -- 1
-* -- 236
-:= -- 648
-add.period$ -- 80
-call.type$ -- 39
+* -- 248
+:= -- 680
+add.period$ -- 84
+call.type$ -- 41
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 77
-duplicate$ -- 391
-empty$ -- 829
+cite$ -- 81
+duplicate$ -- 411
+empty$ -- 871
 format.name$ -- 1
-if$ -- 1548
+if$ -- 1626
 int.to.chr$ -- 0
-int.to.str$ -- 39
+int.to.str$ -- 41
 missing$ -- 0
-newline$ -- 168
+newline$ -- 176
 num.names$ -- 3
-pop$ -- 313
+pop$ -- 329
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 156
+skip$ -- 164
 stack$ -- 0
 substring$ -- 0
-swap$ -- 82
+swap$ -- 86
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 38
+warning$ -- 40
 while$ -- 1
-width$ -- 41
-write$ -- 406
+width$ -- 43
+write$ -- 426
 (There were 2 error messages)

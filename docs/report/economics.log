@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  8 JUN 2017 18:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.23)  9 JUN 2017 01:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -691,116 +691,141 @@ ABD: Count1to9 initializing macros
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-) [35.1.0.0.8.2.0.0.0.1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+)
+<tables/economics/schedule.pdf, id=1, page=1, 563.10374pt x 623.32875pt>
+File: tables/economics/schedule.pdf Graphic file (type pdf)
 
-]
-<tables/economics/grantt.pdf, id=9, page=1, 705.63625pt x 440.64626pt>
-File: tables/economics/grantt.pdf Graphic file (type pdf)
+<use tables/economics/schedule.pdf, page 1>
+Package pdftex.def Info: tables/economics/schedule.pdf, page1 used on input lin
+e 52.
+(pdftex.def)             Requested size: 509.30438pt x 563.77748pt.
+ [1.1.0.0.1.2.0.0.0.1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-<use tables/economics/grantt.pdf, page 1>
-Package pdftex.def Info: tables/economics/grantt.pdf, page1 used on input line 
-87.
-(pdftex.def)             Requested size: 509.30438pt x 318.045pt.
- [36.2.0.0.8.3.1]
-(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
+] [2.2.0.0.1.2 <./tables/economics/schedule.pdf>] (/usr/share/texlive/texmf-dis
+t/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-LaTeX Font Info:    Font shape `T2A/ftm/bx/n' in size <14.4> not available
-(Font)              Font shape `T2A/ftm/b/n' tried instead on input line 110.
-
-
-LaTeX Warning: Citation `amort' on page 37 undefined on input line 110.
-
-[37.3.0.0.8.3.2.0.0.1 <./tables/economics/grantt.pdf>]
-
-LaTeX Warning: Citation `frolova' on page 38 undefined on input line 112.
-
-<tables/economics/schedule_4.pdf, id=25, page=1, 597.23125pt x 249.93375pt>
+<tables/economics/schedule_4.pdf, id=21, page=1, 497.86pt x 249.93375pt>
 File: tables/economics/schedule_4.pdf Graphic file (type pdf)
 
 <use tables/economics/schedule_4.pdf, page 1>
 Package pdftex.def Info: tables/economics/schedule_4.pdf, page1 used on input l
-ine 139.
-(pdftex.def)             Requested size: 509.30438pt x 213.13878pt.
- [38.4.0.0.8.3.3 <./tables/economics/schedule_4.pdf>]
-<tables/economics/schedule_5.pdf, id=42, page=1, 611.28375pt x 235.88126pt>
+ine 101.
+(pdftex.def)             Requested size: 509.30438pt x 255.68416pt.
+ [3.3.0.0.1.3.2.0.0.1
+
+] [4.4.0.0.1.3.3 <./tables/economics/schedule_4.pdf>]
+<tables/economics/schedule_5.pdf, id=41, page=1, 469.755pt x 255.95625pt>
 File: tables/economics/schedule_5.pdf Graphic file (type pdf)
 
 <use tables/economics/schedule_5.pdf, page 1>
 Package pdftex.def Info: tables/economics/schedule_5.pdf, page1 used on input l
-ine 160.
-(pdftex.def)             Requested size: 509.30438pt x 196.52643pt.
- [39.5.0.0.8.3.4.0.0.1 <./tables/economics/schedule_5.pdf>]
-<tables/economics/econom.pdf, id=54, page=1, 597.23125pt x 128.48pt>
+ine 129.
+(pdftex.def)             Requested size: 509.30438pt x 277.50656pt.
+
+<tables/economics/econom.pdf, id=42, page=1, 525.965pt x 139.52126pt>
 File: tables/economics/econom.pdf Graphic file (type pdf)
 
 <use tables/economics/econom.pdf, page 1>
 Package pdftex.def Info: tables/economics/econom.pdf, page1 used on input line 
-178.
-(pdftex.def)             Requested size: 509.30438pt x 109.5653pt.
-
-
-LaTeX Warning: Citation `electr' on page 40 undefined on input line 187.
-
-<tables/economics/econom_2.pdf, id=55, page=1, 597.23125pt x 241.90375pt>
+146.
+(pdftex.def)             Requested size: 509.30438pt x 135.10765pt.
+ [5.5.0.0.1.3.5.0.0.1 <./tables/economics/schedule_5.pdf>]
+<tables/economics/econom_2.pdf, id=54, page=1, 489.83pt x 181.67876pt>
 File: tables/economics/econom_2.pdf Graphic file (type pdf)
 
 <use tables/economics/econom_2.pdf, page 1>
 Package pdftex.def Info: tables/economics/econom_2.pdf, page1 used on input lin
-e 195.
-(pdftex.def)             Requested size: 509.30438pt x 206.29094pt.
+e 187.
+(pdftex.def)             Requested size: 509.30438pt x 188.9054pt.
 
-<tables/economics/econom_3.pdf, id=56, page=1, 597.23125pt x 108.405pt>
+<tables/economics/econom_3.pdf, id=55, page=1, 491.8375pt x 108.405pt>
 File: tables/economics/econom_3.pdf Graphic file (type pdf)
 
 <use tables/economics/econom_3.pdf, page 1>
 Package pdftex.def Info: tables/economics/econom_3.pdf, page1 used on input lin
-e 207.
-(pdftex.def)             Requested size: 509.30438pt x 92.44572pt.
+e 199.
+(pdftex.def)             Requested size: 509.30438pt x 112.25883pt.
+ [6.6.0.0.1.3.6 <./tables/economics/econom.pdf> <./tables/economics/econom_2.pd
+f
 
-<tables/economics/econom_4.pdf, id=57, page=1, 597.23125pt x 153.57375pt>
+pdfTeX warning: pdflatex (file ./tables/economics/econom_2.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+>] <tables/economics/econom_4.pdf, id=73, page=1, 494.84875pt x 164.615pt>
 File: tables/economics/econom_4.pdf Graphic file (type pdf)
 
 <use tables/economics/econom_4.pdf, page 1>
 Package pdftex.def Info: tables/economics/econom_4.pdf, page1 used on input lin
-e 219.
-(pdftex.def)             Requested size: 509.30438pt x 130.96478pt.
- [40.6.0.0.8.3.7 <./tables/economics/econom.pdf>] 
-AED: lastpage setting LastPage
-[41.7.0.0.8.3.7.0.0.1 <./tables/economics/econom_2.pdf> <./tables/economics/eco
-nom_3.pdf
-
-pdfTeX warning: pdflatex (file ./tables/economics/econom_3.pdf): PDF inclusion:
- multiple pdfs with page group included in a single page
-> <./tables/economics/econom_4.pdf
+e 211.
+(pdftex.def)             Requested size: 509.30438pt x 169.42471pt.
+ [7.7.0.0.1.3.7.0.0.1 <./tables/economics/econom_3.pdf> <./tables/economics/eco
+nom_4.pdf
 
 pdfTeX warning: pdflatex (file ./tables/economics/econom_4.pdf): PDF inclusion:
  multiple pdfs with page group included in a single page
->] (./economics.aux)
+>] (./economics.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 29--35
+[]\T2A/ftm/m/n/14.4 НК РФ Ста-тья 426. Та-ри-фы стра-хо-вых взно-сов в 2017
+ []
 
-LaTeX Warning: There were undefined references.
 
- ) 
+Underfull \hbox (badness 10000) in paragraph at lines 29--35
+\T2A/ftm/m/n/14.4 -- 2019 го-дах [Элек-трон-ный ре-сурс]. --- Ре-жим до-сту-па:
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--35
+\T2A/ftm/m/n/14.4 http://www.consultant.ru/document/cons_doc_LAW_28165/994c7ea6
+856fd572dd88
+ []
+
+
+Underfull \hbox (badness 3826) in paragraph at lines 52--59
+[]\T2A/ftm/m/n/14.4 Приказ от 23.12.2016 г. ќ 6-840 <<О та-ри-фах на элек-три-ч
+е-скую энер-
+ []
+
+
+Underfull \hbox (badness 4739) in paragraph at lines 52--59
+\T2A/ftm/m/n/14.4 гию для на-се-ле-ния и по-тре-би-те-лей, при-рав-нен-ных к ка
+-те-го-рии на-се-ле-
+ []
+
+
+Underfull \hbox (badness 5260) in paragraph at lines 52--59
+\T2A/ftm/m/n/14.4 ние по Том-ской об-ла-сти на 2017 год>> [Элек-трон-ный ре-сур
+с]. --- Ре-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--59
+\T2A/ftm/m/n/14.4 жим до-сту-па: http://energovopros.ru/spravochnik/elektrosnab
+zhenie/tarify-na-
+ []
+
+) 
+AED: lastpage setting LastPage
+[8.8.0.0.1.3.7] (./economics.aux) ) 
 Here is how much of TeX's memory you used:
- 10494 strings out of 493013
- 154868 string characters out of 6135682
- 247864 words of memory out of 5000000
- 13767 multiletter control sequences out of 15000+600000
- 20119 words of font info for 39 fonts, out of 8000000 for 9000
+ 10498 strings out of 493013
+ 154881 string characters out of 6135682
+ 247874 words of memory out of 5000000
+ 13769 multiletter control sequences out of 15000+600000
+ 18704 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 52i,10n,42p,745b,724s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/scalable-cyrfonts-tex/6r.enc}</usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/sc
-alable-cyrfonts-tex/ftmb6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cy
-rfonts-tex/ftmr6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-te
-x/ftmr6w.pfb>
-Output written on economics.pdf (7 pages, 246023 bytes).
+ 52i,11n,42p,744b,724s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/scalable-c
+yrfonts-tex/6r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
+12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
+share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmr6w.pfb></usr/share/tex
+mf/fonts/type1/public/scalable-cyrfonts-tex/ftmr6w.pfb>
+Output written on economics.pdf (8 pages, 230526 bytes).
 PDF statistics:
  122 PDF objects out of 1000 (max. 8388607)
  84 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
+ 8 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

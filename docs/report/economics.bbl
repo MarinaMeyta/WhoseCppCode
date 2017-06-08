@@ -1,4 +1,4 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
 \def\selectlanguageifdefined#1{
 \expandafter\ifx\csname date#1\endcsname\relax
 \else\language\csname l@#1\endcsname\fi}
@@ -6,5 +6,55 @@
 \ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{(#1)}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{amort}
+\selectlanguageifdefined{russian}
+{О классификации основных средств,
+  включаемых в амортизационные группы:
+  постановление Правительства РФ~\textnumero~1 от
+  1 января 2002 г. [Электронный ресурс]}. ---
+  Режим доступа:
+  http://www.consultant.ru/document/cons\_doc\_LAW\_34710/, свободный
+  (дата обращения: 29.05.2017).{}
+
+\bibitem{frolova}
+\selectlanguageifdefined{russian}
+{Т.А. Фролова. Экономика предприятия:
+  конспект лекций [Электронный ресурс]}. ---
+  Режим доступа: http://www.aup.ru/books/m203/2\_5.htm,
+  свободный (дата обращения: 6.06.2017).{}
+
+\bibitem{strax}
+\selectlanguageifdefined{russian}
+{НК РФ Статья 426. Тарифы страховых взносов в
+  2017 -- 2019 годах [Электронный ресурс]}. ---
+  Режим доступа:
+  http://www.consultant.ru/document/cons\_doc\_LAW\_28165/994c7ea6856fd572dd88
+  ab72d25b2f8d9bc99dd3/, свободный (дата обращения:
+  6.06.2017).{}
+
+\bibitem{tk_rf}
+\selectlanguageifdefined{russian}
+{ТК РФ, Статья 151. Оплата труда при
+  совмещении профессий (должностей),
+  расширении зон обслуживания, увеличении
+  объема работы или исполнении
+  обязанностей временно отсутствующего
+  работника без освобождения от работы,
+  определенной трудовым договором
+  [Электронный ресурс]}. --- Режим доступа:
+  http://www.consultant.ru/document/cons\_doc\_LAW\_34683/2776d76376c800a46
+  93157045be7f028798f5046/, свободный (дата обращения:
+  6.06.2017).{}
+
+\bibitem{electr}
+\selectlanguageifdefined{russian}
+{Приказ от 23.12.2016 г. \textnumero~6-840 <<О тарифах на
+  электрическую энергию для населения и
+  потребителей, приравненных к категории
+  население по Томской области на 2017 год>>
+  [Электронный ресурс]}. --- Режим доступа:
+  http://energovopros.ru/spravochnik/elektrosnabzhenie/tarify-na-elektroenergiju/tomskaya\_oblast/39310/,
+  свободный (дата обращения: 29.05.2017).{}
 
 \end{thebibliography}
