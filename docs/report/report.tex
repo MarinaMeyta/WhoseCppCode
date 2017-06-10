@@ -38,7 +38,7 @@
 \end{singlespace}
  
 
-\newpage
+\clearpage
 \setcounter{section}{0}
 \section*{Введение}
 \addcontentsline{toc}{section}{Введение}
@@ -49,43 +49,39 @@
 % \input{kibevs}
 
 
-\newpage 
-\section{Обзор информационных источников }
+\clearpage
+\section{Обзор исследований в области стилометрического анализа исходного кода}
 \input{overview}
 
 
-
-
-
-
-\newpage 
+\clearpage
 \section{Выбор набора признаков, характеризующих автора программы}\label{features}
 \input{features} 
  
-\newpage  
-\section{Моделирование}\label{modeling}
+\clearpage 
+\section{Моделирование процесса определения авторства исходного кода}\label{modeling}
 \input{model}
  
  
-\newpage  
-\section{Классификация}\label{classifiers}
+\clearpage 
+\section{Классификация авторов программ}\label{classifiers}
 \input{classifiers}
 
-\newpage
+\clearpage
 \section{Тестирование инструмента построения аналитической модели}\label{crossval}
 \input{cross_val}
 
-\newpage 
+\clearpage
 \section{Описание тестового набора данных}\label{test_data}
 \input{test_data}
 \clearpage
-\section{Критерии оценки эффективности интсрумента классификации}\label{eval}
+\section{Критерии оценки эффективности инструмента классификации}\label{eval}
 \input{evaluation}
-\newpage
-\section{Результаты классификации}
+\clearpage
+\section{Результаты классификации авторов программ}
 \input{results}
 
-\newpage
+\clearpage
 \section{Описание программного обеспечения <<WhoseCppCode>>}
 \input{whosecpp}
 
@@ -93,17 +89,19 @@
 % \section{Программа и методика испытаний}
 % \input{testing}
 
- \newpage
+ \clearpage
  \addcontentsline{toc}{section}{10~~~~~Руководство программиста}
- \includepdf[pages={1-15}]{manuals/proger_manual.pdf}
+ \includepdf[pages={1-13}]{manuals/proger_manual.pdf}
  
- \newpage
+ \clearpage
  \addcontentsline{toc}{section}{11~~~~~Руководство пользователя}
- \includepdf[pages={1-12}]{manuals/user_manual.pdf}
+ \includepdf[pages={1-10}]{manuals/user_manual.pdf}
 
 \clearpage
 \ESKDthisStyle{empty}
 \addcontentsline{toc}{section}{12~~~~~Технико-экономическое обоснование дипломной работы}
+\addcontentsline{toc}{subsection}{12.1~~Обоснование актуальности дипломной работы}
+\addcontentsline{toc}{subsection}{12.2~~Организация и планирование работы}
 \includepdf[pages={1}]{economics}
 \input{economics}
 
@@ -113,23 +111,24 @@
 \includepdf[pages={1}]{life_safety}
 \input{life_safety}
  
-\newpage
+\clearpage
 \section*{Заключение}
 \addcontentsline{toc}{section}{Заключение}
 \input{conclusions}
 
-\newpage
+\clearpage
 \section*{Перечень основных терминов и определений}
 \addcontentsline{toc}{section}{Перечень основных терминов и определений}
 \input{terms}
  
  
- \newpage
+\clearpage
  \renewcommand{\refname}{Список использованных источников}
  \addcontentsline{toc}{section}{Список использованных источников}
  \bibliography{lit}
+%  \includepdf[pages={1-4}]{lit}
  
- \newpage
+\clearpage
  \addcontentsline{toc}{section}{Приложение А (справочное) Сравнительный обзор информационных источников}
  \includepdf[pages={1-2}]{overview_table}
 
